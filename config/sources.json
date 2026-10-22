@@ -1,0 +1,591 @@
+[
+ {
+  "id": "drv3-jzqp",
+  "year": 2011,
+  "stage": "adopted",
+  "name": "Budget - 2011 Budget Ordinance - Appropriations",
+  "columns": [
+   "appropriation_account",
+   "fund_type",
+   "department",
+   "department_number",
+   "appropriation_authority_description",
+   "appropriation_authority",
+   "department_description",
+   "appropriation_account_description",
+   "fund_code",
+   "amount",
+   "fund_description"
+  ]
+ },
+ {
+  "id": "8ix6-nb7q",
+  "year": 2012,
+  "stage": "adopted",
+  "name": "Budget - 2012 Budget Ordinance - Appropriations",
+  "columns": [
+   "department_description",
+   "appropriation_authority_description",
+   "appropriation_account_description",
+   "fund_description",
+   "appropriation_authority",
+   "fund_type",
+   "department_number",
+   "appropriation_account",
+   "_ordinance_amount_",
+   "fund_code"
+  ]
+ },
+ {
+  "id": "8dps-5d4x",
+  "year": 2012,
+  "stage": "proposed",
+  "name": "Budget - 2012 Budget Recommendations - Appropriations",
+  "columns": [
+   "org",
+   "org_description",
+   "appropriation_account_description",
+   "_revised_appropriation",
+   "_recommendation",
+   "department_description",
+   "fund_type",
+   "fund_code",
+   "fund_description",
+   "department_code",
+   "_appropriation",
+   "appropriation_account"
+  ]
+ },
+ {
+  "id": "b24i-nwag",
+  "year": 2013,
+  "stage": "adopted",
+  "name": "Budget - 2013 Budget Ordinance - Appropriations",
+  "columns": [
+   "fund_type",
+   "fund_description",
+   "department_description",
+   "department_number",
+   "appropriation_account_description",
+   "appropriation_account",
+   "appropriation_ordinance",
+   "fund_code",
+   "appropriation_authority",
+   "appropriation_authority_description"
+  ]
+ },
+ {
+  "id": "d6tb-pwze",
+  "year": 2013,
+  "stage": "proposed",
+  "name": "Budget - 2013 Budget Recommendations - Appropriations",
+  "columns": [
+   "fund_type",
+   "fund_description",
+   "department_number",
+   "revised_appropriation",
+   "appropration",
+   "appropriation_account_description",
+   "recommendation",
+   "fund_code",
+   "appropriation_account",
+   "department_description",
+   "appropriation_authority",
+   "appropriation_authority_description"
+  ]
+ },
+ {
+  "id": "ub6s-xy6e",
+  "year": 2014,
+  "stage": "adopted",
+  "name": "Budget - 2014 Budget Ordinance - Appropriations",
+  "columns": [
+   "appropriation_authority",
+   "department_description",
+   "appropriation_authority_description",
+   "fund_code",
+   "fund_description",
+   "appropriation_account_description",
+   "_ordinance_amount_",
+   "department_number",
+   "appropriation_account",
+   "fund_type"
+  ]
+ },
+ {
+  "id": "kpej-ig3k",
+  "year": 2014,
+  "stage": "proposed",
+  "name": "Budget - 2014 Budget Recommendations - Appropriations",
+  "columns": [
+   "appropriation_authority_description",
+   "appropration",
+   "revised_appropriation",
+   "fund_description",
+   "department_number",
+   "appropriation_account_description",
+   "department_description",
+   "appropriation_authority",
+   "appropriation_account",
+   "fund_type",
+   "recommendation",
+   "fund_code"
+  ]
+ },
+ {
+  "id": "qnek-cfpp",
+  "year": 2015,
+  "stage": "adopted",
+  "name": "Budget - 2015 Budget Ordinance - Appropriations",
+  "columns": [
+   "department_number",
+   "appropriation_authority_description",
+   "fund_code",
+   "appropriation_authority",
+   "_ordinance_amount_",
+   "fund_description",
+   "department_description",
+   "appropriation_account",
+   "appropriation_account_description",
+   "fund_type"
+  ]
+ },
+ {
+  "id": "kzbi-spm5",
+  "year": 2015,
+  "stage": "proposed",
+  "name": "Budget - 2015 Budget Recommendations - Appropriations",
+  "columns": [
+   "appropriation_account",
+   "fund_type",
+   "recommendation",
+   "fund_code",
+   "revised_appropriation",
+   "department_description",
+   "department_number",
+   "appropration",
+   "appropriation_account_description",
+   "fund_description",
+   "appropriation_authority",
+   "appropriation_authority_description"
+  ]
+ },
+ {
+  "id": "36y7-5nnf",
+  "year": 2016,
+  "stage": "adopted",
+  "name": "Budget - 2016 Budget Ordinance - Appropriations",
+  "columns": [
+   "appropriation_account",
+   "fund_type",
+   "fund_code",
+   "fund_description",
+   "appropriation_authority",
+   "department_description",
+   "department_number",
+   "_ordinance_amount_",
+   "appropriation_authority_description",
+   "appropriation_account_description"
+  ]
+ },
+ {
+  "id": "t9dq-rknh",
+  "year": 2016,
+  "stage": "proposed",
+  "name": "Budget - 2016 Budget Recommendations - Appropriations",
+  "columns": [
+   "appropriation_account",
+   "fund_code",
+   "department_number",
+   "recommendation",
+   "appropration",
+   "appropriation_authority",
+   "revised_appropriation",
+   "appropriation_account_description",
+   "department_description",
+   "fund_description",
+   "fund_type",
+   "appropriation_authority_description"
+  ]
+ },
+ {
+  "id": "7jem-9wyw",
+  "year": 2017,
+  "stage": "adopted",
+  "name": "Budget - 2017 Budget Ordinance - Appropriations",
+  "columns": [
+   "fund_type",
+   "department_description",
+   "appropriation_authority_description",
+   "department_number",
+   "appropriation_authority",
+   "fund_description",
+   "appropriation_account",
+   "_ordinance_amount_",
+   "fund_code",
+   "appropriation_account_description"
+  ]
+ },
+ {
+  "id": "eyk2-dyuq",
+  "year": 2017,
+  "stage": "proposed",
+  "name": "Budget - 2017 Budget Recommendations - Appropriations",
+  "columns": [
+   "fund_code",
+   "fund_type",
+   "department_number",
+   "fund_description",
+   "appropriation_account_description",
+   "appropriation_authority_description",
+   "appropriation_authority",
+   "department_description",
+   "appropriation_account",
+   "appropration",
+   "recommendation",
+   "revised_appropriation"
+  ]
+ },
+ {
+  "id": "6g7p-xnsy",
+  "year": 2018,
+  "stage": "adopted",
+  "name": "Budget - 2018 Budget Ordinance - Appropriations",
+  "columns": [
+   "fund_code",
+   "appropriation_account_description",
+   "appropriation_authority",
+   "department_description",
+   "_ordinance_amount_",
+   "department_number",
+   "appropriation_account",
+   "fund_description",
+   "fund_type",
+   "appropriation_authority_description"
+  ]
+ },
+ {
+  "id": "ukkz-mip9",
+  "year": 2018,
+  "stage": "proposed",
+  "name": "Budget - 2018 Budget Recommendations - Appropriations",
+  "columns": [
+   "fund_code",
+   "appropriation_authority_description",
+   "fund_type",
+   "department_description",
+   "appropriation_authority",
+   "fund_description",
+   "appropriation_account_description",
+   "appropriation_account",
+   "department_number",
+   "appropration",
+   "recommendation",
+   "revised_appropriation"
+  ]
+ },
+ {
+  "id": "h9rt-tsn7",
+  "year": 2019,
+  "stage": "adopted",
+  "name": "Budget - 2019 Budget Ordinance - Appropriations",
+  "columns": [
+   "appropriation_account_description",
+   "fund_description",
+   "department_description",
+   "appropriation_authority_description",
+   "fund_code",
+   "_ordinance_amount_",
+   "appropriation_account",
+   "fund_type",
+   "appropriation_authority",
+   "department_number"
+  ]
+ },
+ {
+  "id": "mmee-zjgx",
+  "year": 2019,
+  "stage": "proposed",
+  "name": "Budget - 2019 Budget Recommendations - Appropriations",
+  "columns": [
+   "fund_code",
+   "appropriation_account",
+   "fund_description",
+   "revised_appropriation",
+   "department_number",
+   "department_description",
+   "appropriation_account_description",
+   "appropriation_authority_description",
+   "appropration",
+   "fund_type",
+   "appropriation_authority",
+   "recommendation"
+  ]
+ },
+ {
+  "id": "fyin-2vyd",
+  "year": 2020,
+  "stage": "adopted",
+  "name": "Budget - 2020 Budget Ordinance - Appropriations",
+  "columns": [
+   "fund_description",
+   "_ordinance_amount_",
+   "department_description",
+   "appropriation_authority_description",
+   "fund_type",
+   "appropriation_authority",
+   "appropriation_account_description",
+   "appropriation_account",
+   "fund_code",
+   "department_number"
+  ]
+ },
+ {
+  "id": "3f6y-yfk8",
+  "year": 2020,
+  "stage": "proposed",
+  "name": "Budget - 2020 Budget Recommendations - Appropriations",
+  "columns": [
+   "revised_appropriation",
+   "appropriation_authority",
+   "fund_code",
+   "department_number",
+   "appropriation_account_description",
+   "appropriation_authority_description",
+   "appropration",
+   "fund_description",
+   "recommendation",
+   "fund_type",
+   "appropriation_account",
+   "department_description"
+  ]
+ },
+ {
+  "id": "6tbx-h7y2",
+  "year": 2021,
+  "stage": "adopted",
+  "name": "Budget - 2021 Budget Ordinance - Appropriations",
+  "columns": [
+   "appropriation_account_description",
+   "fund_description",
+   "fund_type",
+   "appropriation_authority",
+   "appropriation_authority_description",
+   "appropriation_account",
+   "department_number",
+   "fund_code",
+   "department_description",
+   "_ordinance_amount_"
+  ]
+ },
+ {
+  "id": "385z-7dwt",
+  "year": 2021,
+  "stage": "proposed",
+  "name": "Budget - 2021 Budget Recommendations - Appropriations",
+  "columns": [
+   "appropriation_account_description",
+   "department_description",
+   "recommendation",
+   "revised_appropriation",
+   "appropriation_authority",
+   "fund_code",
+   "appropriation_authority_description",
+   "fund_description",
+   "appropriation",
+   "appropriation_account",
+   "department_number",
+   "fund_type"
+  ]
+ },
+ {
+  "id": "2cr6-8u6w",
+  "year": 2022,
+  "stage": "adopted",
+  "name": "Budget - 2022 Budget Ordinance - Appropriations",
+  "columns": [
+   "appropriation_authority",
+   "appropriation_account_description",
+   "_ordinance_amount_",
+   "department_description",
+   "appropriation_authority_description",
+   "fund_type",
+   "fund_code",
+   "fund_description",
+   "department_number",
+   "appropriation_account"
+  ]
+ },
+ {
+  "id": "ncj3-k47t",
+  "year": 2022,
+  "stage": "proposed",
+  "name": "Budget - 2022 Budget Recommendations - Appropriations",
+  "columns": [
+   "department_number",
+   "department_description",
+   "appropriation",
+   "appropriation_authority",
+   "appropriation_account_description",
+   "appropriation_authority_description",
+   "revised_appropriation",
+   "recommendation",
+   "fund_description",
+   "fund_type",
+   "appropriation_account",
+   "fund_code"
+  ]
+ },
+ {
+  "id": "xbjh-7zvh",
+  "year": 2023,
+  "stage": "adopted",
+  "name": "Budget - 2023 Budget Ordinance - Appropriations",
+  "columns": [
+   "fund_description",
+   "appropriation_account",
+   "fund_type",
+   "appropriation_authority_description",
+   "appropriation_authority",
+   "_ordinance_amount_",
+   "appropriation_account_description",
+   "fund_code",
+   "department_number",
+   "department_description"
+  ]
+ },
+ {
+  "id": "pn35-trku",
+  "year": 2023,
+  "stage": "proposed",
+  "name": "Budget - 2023 Budget Recommendations - Appropriations",
+  "columns": [
+   "appropriation_account",
+   "appropriation_account_description",
+   "appropriation_authority_description",
+   "fund_description",
+   "revised_appropriation",
+   "department_description",
+   "appropriation",
+   "fund_type",
+   "recommendation",
+   "appropriation_authority",
+   "fund_code",
+   "department_number"
+  ]
+ },
+ {
+  "id": "x394-e874",
+  "year": 2024,
+  "stage": "adopted",
+  "name": "Budget - 2024 Budget Ordinance - Appropriations",
+  "columns": [
+   "fund_code",
+   "department_number",
+   "department_description",
+   "_ordinance_amount_",
+   "fund_description",
+   "appropriation_authority",
+   "appropriation_account_description",
+   "fund_type",
+   "appropriation_account",
+   "appropriation_authority_description"
+  ]
+ },
+ {
+  "id": "rrdf-6mjk",
+  "year": 2024,
+  "stage": "proposed",
+  "name": "Budget - 2024 Budget Recommendations - Appropriations",
+  "columns": [
+   "appropriation",
+   "appropriation_authority",
+   "recommendation",
+   "department_number",
+   "revised_appropriation",
+   "appropriation_authority_description",
+   "fund_type",
+   "fund_code",
+   "appropriation_account",
+   "appropriation_account_description",
+   "department_description",
+   "fund_description"
+  ]
+ },
+ {
+  "id": "t59y-fr3k",
+  "year": 2025,
+  "stage": "adopted",
+  "name": "Budget - 2025 Budget Ordinance - Appropriations",
+  "columns": [
+   "fund_description",
+   "_ordinance_amount_",
+   "appropriation_account_description",
+   "appropriation_account",
+   "appropriation_authority_description",
+   "appropriation_authority",
+   "department_description",
+   "fund_code",
+   "fund_type",
+   "department_number"
+  ]
+ },
+ {
+  "id": "miyk-k49p",
+  "year": 2025,
+  "stage": "proposed",
+  "name": "Budget - 2025 Budget Recommendations - Appropriations",
+  "columns": [
+   "appropriation",
+   "fund_code",
+   "department_description",
+   "department_number",
+   "fund_description",
+   "appropriation_authority",
+   "appropriation_account_description",
+   "revised_appropriation",
+   "recommendation",
+   "fund_type",
+   "appropriation_authority_description",
+   "appropriation_account"
+  ]
+ },
+ {
+  "id": "6694-f78c",
+  "year": 2026,
+  "stage": "adopted",
+  "name": "Budget - 2026 Budget Ordinance - Appropriations",
+  "columns": [
+   "fund_code",
+   "appropriation_authority_description",
+   "appropriation_account",
+   "appropriation_account_description",
+   "_ordinance_amount_",
+   "fund_description",
+   "department_description",
+   "appropriation_authority",
+   "department_number",
+   "fund_type"
+  ]
+ },
+ {
+  "id": "axxr-vais",
+  "year": 2026,
+  "stage": "proposed",
+  "name": "Budget - 2026 Budget Recommendations - Appropriations",
+  "columns": [
+   "appropriation_authority",
+   "fund_type",
+   "recommendation",
+   "appropriation",
+   "revised_appropriation",
+   "department_number",
+   "appropriation_account_description",
+   "appropriation_account",
+   "appropriation_authority_description",
+   "department_description",
+   "fund_code",
+   "fund_description"
+  ]
+ }
+]

@@ -1,0 +1,1532 @@
+fiscal_year,stage,source_file,source_row,measure,rule_id,rule,severity,detail
+2012,proposed,2012_proposed.csv.gz,4977,recommendation,VR-01,Blank source row,REJECT,every column empty
+2012,proposed,2012_proposed.csv.gz,4977,prior_appropriation,VR-01,Blank source row,REJECT,every column empty
+2012,proposed,2012_proposed.csv.gz,4977,prior_revised,VR-01,Blank source row,REJECT,every column empty
+2012,proposed,2012_proposed.csv.gz,4978,recommendation,VR-01,Blank source row,REJECT,every column empty
+2012,proposed,2012_proposed.csv.gz,4978,prior_appropriation,VR-01,Blank source row,REJECT,every column empty
+2012,proposed,2012_proposed.csv.gz,4978,prior_revised,VR-01,Blank source row,REJECT,every column empty
+2013,proposed,2013_proposed.csv.gz,2576,recommendation,VR-09,Embedded subtotal row (kept aside as a publisher control total),REJECT,publisher row: LOCAL TOTAL
+2013,proposed,2013_proposed.csv.gz,2576,prior_appropriation,VR-09,Embedded subtotal row (kept aside as a publisher control total),REJECT,publisher row: LOCAL TOTAL
+2013,proposed,2013_proposed.csv.gz,2576,prior_revised,VR-09,Embedded subtotal row (kept aside as a publisher control total),REJECT,publisher row: LOCAL TOTAL
+2013,proposed,2013_proposed.csv.gz,4039,recommendation,VR-09,Embedded subtotal row (kept aside as a publisher control total),REJECT,publisher row: GRANTS TOTAL
+2013,proposed,2013_proposed.csv.gz,4039,prior_appropriation,VR-09,Embedded subtotal row (kept aside as a publisher control total),REJECT,publisher row: GRANTS TOTAL
+2013,proposed,2013_proposed.csv.gz,4039,prior_revised,VR-09,Embedded subtotal row (kept aside as a publisher control total),REJECT,publisher row: GRANTS TOTAL
+2013,proposed,2013_proposed.csv.gz,4380,recommendation,VR-09,Embedded subtotal row (kept aside as a publisher control total),REJECT,publisher row: CDBG TOTAL
+2013,proposed,2013_proposed.csv.gz,4380,prior_appropriation,VR-09,Embedded subtotal row (kept aside as a publisher control total),REJECT,publisher row: CDBG TOTAL
+2013,proposed,2013_proposed.csv.gz,4380,prior_revised,VR-09,Embedded subtotal row (kept aside as a publisher control total),REJECT,publisher row: CDBG TOTAL
+2013,proposed,2013_proposed.csv.gz,4381,recommendation,VR-09,Embedded subtotal row (kept aside as a publisher control total),REJECT,publisher row: GRAND TOTAL
+2013,proposed,2013_proposed.csv.gz,4381,prior_appropriation,VR-09,Embedded subtotal row (kept aside as a publisher control total),REJECT,publisher row: GRAND TOTAL
+2013,proposed,2013_proposed.csv.gz,4381,prior_revised,VR-09,Embedded subtotal row (kept aside as a publisher control total),REJECT,publisher row: GRAND TOTAL
+2013,proposed,2013_proposed.csv.gz,4382,recommendation,VR-09,Embedded subtotal row (kept aside as a publisher control total),REJECT,publisher row: GRAND TOTAL
+2013,proposed,2013_proposed.csv.gz,4382,prior_appropriation,VR-09,Embedded subtotal row (kept aside as a publisher control total),REJECT,publisher row: GRAND TOTAL
+2013,proposed,2013_proposed.csv.gz,4382,prior_revised,VR-09,Embedded subtotal row (kept aside as a publisher control total),REJECT,publisher row: GRAND TOTAL
+2025,proposed,2025_proposed.csv.gz,3670,recommendation,VR-04,Amount missing for a measure the file should carry,WARN,no value in source
+2011,adopted,2011_adopted.csv.gz,5,ordinance,VR-05,Negative amount,WARN,amount -607288.0
+2011,adopted,2011_adopted.csv.gz,31,ordinance,VR-05,Negative amount,WARN,amount -51777.0
+2011,adopted,2011_adopted.csv.gz,49,ordinance,VR-05,Negative amount,WARN,amount -679120.0
+2011,adopted,2011_adopted.csv.gz,83,ordinance,VR-05,Negative amount,WARN,amount -4785.0
+2011,adopted,2011_adopted.csv.gz,88,ordinance,VR-05,Negative amount,WARN,amount -22239.0
+2011,adopted,2011_adopted.csv.gz,93,ordinance,VR-05,Negative amount,WARN,amount -154316.0
+2011,adopted,2011_adopted.csv.gz,116,ordinance,VR-05,Negative amount,WARN,amount -241013.0
+2011,adopted,2011_adopted.csv.gz,143,ordinance,VR-05,Negative amount,WARN,amount -231764.0
+2011,adopted,2011_adopted.csv.gz,166,ordinance,VR-05,Negative amount,WARN,amount -261043.0
+2011,adopted,2011_adopted.csv.gz,198,ordinance,VR-05,Negative amount,WARN,amount -1166622.0
+2011,adopted,2011_adopted.csv.gz,227,ordinance,VR-05,Negative amount,WARN,amount -626869.0
+2011,adopted,2011_adopted.csv.gz,253,ordinance,VR-05,Negative amount,WARN,amount -148022.0
+2011,adopted,2011_adopted.csv.gz,284,ordinance,VR-05,Negative amount,WARN,amount -302357.0
+2011,adopted,2011_adopted.csv.gz,317,ordinance,VR-05,Negative amount,WARN,amount -609270.0
+2011,adopted,2011_adopted.csv.gz,400,ordinance,VR-05,Negative amount,WARN,amount -429826.0
+2011,adopted,2011_adopted.csv.gz,443,ordinance,VR-05,Negative amount,WARN,amount -25115.0
+2011,adopted,2011_adopted.csv.gz,460,ordinance,VR-05,Negative amount,WARN,amount -123921.0
+2011,adopted,2011_adopted.csv.gz,472,ordinance,VR-05,Negative amount,WARN,amount -111420.0
+2011,adopted,2011_adopted.csv.gz,480,ordinance,VR-05,Negative amount,WARN,amount -870881.0
+2011,adopted,2011_adopted.csv.gz,494,ordinance,VR-05,Negative amount,WARN,amount -92523.0
+2011,adopted,2011_adopted.csv.gz,580,ordinance,VR-05,Negative amount,WARN,amount -109330.0
+2011,adopted,2011_adopted.csv.gz,599,ordinance,VR-05,Negative amount,WARN,amount -5693.0
+2011,adopted,2011_adopted.csv.gz,603,ordinance,VR-05,Negative amount,WARN,amount -130729.0
+2011,adopted,2011_adopted.csv.gz,637,ordinance,VR-05,Negative amount,WARN,amount -114758.0
+2011,adopted,2011_adopted.csv.gz,657,ordinance,VR-05,Negative amount,WARN,amount -15602.0
+2011,adopted,2011_adopted.csv.gz,672,ordinance,VR-05,Negative amount,WARN,amount -8728.0
+2011,adopted,2011_adopted.csv.gz,685,ordinance,VR-05,Negative amount,WARN,amount -6124.0
+2011,adopted,2011_adopted.csv.gz,689,ordinance,VR-05,Negative amount,WARN,amount -263371.0
+2011,adopted,2011_adopted.csv.gz,715,ordinance,VR-05,Negative amount,WARN,amount -313728.0
+2011,adopted,2011_adopted.csv.gz,748,ordinance,VR-05,Negative amount,WARN,amount -38530.0
+2011,adopted,2011_adopted.csv.gz,757,ordinance,VR-05,Negative amount,WARN,amount -497230.0
+2011,adopted,2011_adopted.csv.gz,804,ordinance,VR-05,Negative amount,WARN,amount -4444561.0
+2011,adopted,2011_adopted.csv.gz,870,ordinance,VR-05,Negative amount,WARN,amount -150203.0
+2011,adopted,2011_adopted.csv.gz,903,ordinance,VR-05,Negative amount,WARN,amount -8991.0
+2011,adopted,2011_adopted.csv.gz,908,ordinance,VR-05,Negative amount,WARN,amount -14585.0
+2011,adopted,2011_adopted.csv.gz,912,ordinance,VR-05,Negative amount,WARN,amount -86563.0
+2011,adopted,2011_adopted.csv.gz,929,ordinance,VR-05,Negative amount,WARN,amount -8817.0
+2011,adopted,2011_adopted.csv.gz,959,ordinance,VR-05,Negative amount,WARN,amount -473040.0
+2011,adopted,2011_adopted.csv.gz,982,ordinance,VR-05,Negative amount,WARN,amount -98995.0
+2011,adopted,2011_adopted.csv.gz,1000,ordinance,VR-05,Negative amount,WARN,amount -9390.0
+2011,adopted,2011_adopted.csv.gz,1012,ordinance,VR-05,Negative amount,WARN,amount -5821.0
+2011,adopted,2011_adopted.csv.gz,1028,ordinance,VR-05,Negative amount,WARN,amount -89745.0
+2011,adopted,2011_adopted.csv.gz,1046,ordinance,VR-05,Negative amount,WARN,amount -18081.0
+2011,adopted,2011_adopted.csv.gz,1049,ordinance,VR-05,Negative amount,WARN,amount -37148.0
+2011,adopted,2011_adopted.csv.gz,1057,ordinance,VR-05,Negative amount,WARN,amount -216019.0
+2011,adopted,2011_adopted.csv.gz,1069,ordinance,VR-05,Negative amount,WARN,amount -1657005.0
+2011,adopted,2011_adopted.csv.gz,1108,ordinance,VR-05,Negative amount,WARN,amount -754229.0
+2011,adopted,2011_adopted.csv.gz,1125,ordinance,VR-05,Negative amount,WARN,amount -250225.0
+2011,adopted,2011_adopted.csv.gz,1136,ordinance,VR-05,Negative amount,WARN,amount -211819.0
+2011,adopted,2011_adopted.csv.gz,1147,ordinance,VR-05,Negative amount,WARN,amount -71547.0
+2011,adopted,2011_adopted.csv.gz,1168,ordinance,VR-05,Negative amount,WARN,amount -379477.0
+2011,adopted,2011_adopted.csv.gz,1188,ordinance,VR-05,Negative amount,WARN,amount -411964.0
+2011,adopted,2011_adopted.csv.gz,1211,ordinance,VR-05,Negative amount,WARN,amount -10460.0
+2011,adopted,2011_adopted.csv.gz,1220,ordinance,VR-05,Negative amount,WARN,amount -5468.0
+2011,adopted,2011_adopted.csv.gz,1223,ordinance,VR-05,Negative amount,WARN,amount -12894.0
+2011,adopted,2011_adopted.csv.gz,1233,ordinance,VR-05,Negative amount,WARN,amount -1809674.0
+2011,adopted,2011_adopted.csv.gz,1261,ordinance,VR-05,Negative amount,WARN,amount -92065.0
+2011,adopted,2011_adopted.csv.gz,1293,ordinance,VR-05,Negative amount,WARN,amount -61405.0
+2011,adopted,2011_adopted.csv.gz,1323,ordinance,VR-05,Negative amount,WARN,amount -31953.0
+2011,adopted,2011_adopted.csv.gz,1353,ordinance,VR-05,Negative amount,WARN,amount -40357.0
+2011,adopted,2011_adopted.csv.gz,1385,ordinance,VR-05,Negative amount,WARN,amount -125129.0
+2011,adopted,2011_adopted.csv.gz,1416,ordinance,VR-05,Negative amount,WARN,amount -94542.0
+2011,adopted,2011_adopted.csv.gz,1429,ordinance,VR-05,Negative amount,WARN,amount -77323.0
+2011,adopted,2011_adopted.csv.gz,1439,ordinance,VR-05,Negative amount,WARN,amount -10095.0
+2011,adopted,2011_adopted.csv.gz,1450,ordinance,VR-05,Negative amount,WARN,amount -2688173.0
+2011,adopted,2011_adopted.csv.gz,1493,ordinance,VR-05,Negative amount,WARN,amount -167651.0
+2011,adopted,2011_adopted.csv.gz,1527,ordinance,VR-05,Negative amount,WARN,amount -14254.0
+2011,adopted,2011_adopted.csv.gz,1538,ordinance,VR-05,Negative amount,WARN,amount -1750000.0
+2011,adopted,2011_adopted.csv.gz,1540,ordinance,VR-05,Negative amount,WARN,amount -537000.0
+2011,adopted,2011_adopted.csv.gz,1548,ordinance,VR-05,Negative amount,WARN,amount -8140.0
+2011,adopted,2011_adopted.csv.gz,1609,ordinance,VR-05,Negative amount,WARN,amount -5902.0
+2011,adopted,2011_adopted.csv.gz,1713,ordinance,VR-05,Negative amount,WARN,amount -294231.0
+2011,adopted,2011_adopted.csv.gz,1734,ordinance,VR-05,Negative amount,WARN,amount -12903.0
+2011,adopted,2011_adopted.csv.gz,1737,ordinance,VR-05,Negative amount,WARN,amount -93141.0
+2011,adopted,2011_adopted.csv.gz,1746,ordinance,VR-05,Negative amount,WARN,amount -458783.0
+2011,adopted,2011_adopted.csv.gz,1783,ordinance,VR-05,Negative amount,WARN,amount -16424.0
+2011,adopted,2011_adopted.csv.gz,1794,ordinance,VR-05,Negative amount,WARN,amount -158322.0
+2011,adopted,2011_adopted.csv.gz,1804,ordinance,VR-05,Negative amount,WARN,amount -8171.0
+2011,adopted,2011_adopted.csv.gz,1826,ordinance,VR-05,Negative amount,WARN,amount -10608.0
+2011,adopted,2011_adopted.csv.gz,1830,ordinance,VR-05,Negative amount,WARN,amount -277759.0
+2011,adopted,2011_adopted.csv.gz,1848,ordinance,VR-05,Negative amount,WARN,amount -26110.0
+2011,adopted,2011_adopted.csv.gz,1884,ordinance,VR-05,Negative amount,WARN,amount -18020.0
+2011,adopted,2011_adopted.csv.gz,1893,ordinance,VR-05,Negative amount,WARN,amount -109878.0
+2011,adopted,2011_adopted.csv.gz,1907,ordinance,VR-05,Negative amount,WARN,amount -12343.0
+2011,adopted,2011_adopted.csv.gz,1926,ordinance,VR-05,Negative amount,WARN,amount -19871.0
+2011,adopted,2011_adopted.csv.gz,1930,ordinance,VR-05,Negative amount,WARN,amount -122307.0
+2011,adopted,2011_adopted.csv.gz,1939,ordinance,VR-05,Negative amount,WARN,amount -9544.0
+2011,adopted,2011_adopted.csv.gz,1970,ordinance,VR-05,Negative amount,WARN,amount -37697.0
+2011,adopted,2011_adopted.csv.gz,1998,ordinance,VR-05,Negative amount,WARN,amount -82460.0
+2011,adopted,2011_adopted.csv.gz,2010,ordinance,VR-05,Negative amount,WARN,amount -8817.0
+2011,adopted,2011_adopted.csv.gz,2023,ordinance,VR-05,Negative amount,WARN,amount -13503.0
+2011,adopted,2011_adopted.csv.gz,2034,ordinance,VR-05,Negative amount,WARN,amount -9544.0
+2011,adopted,2011_adopted.csv.gz,2043,ordinance,VR-05,Negative amount,WARN,amount -77087.0
+2011,adopted,2011_adopted.csv.gz,2060,ordinance,VR-05,Negative amount,WARN,amount -6785.0
+2011,adopted,2011_adopted.csv.gz,2086,ordinance,VR-05,Negative amount,WARN,amount -88859.0
+2011,adopted,2011_adopted.csv.gz,2101,ordinance,VR-05,Negative amount,WARN,amount -38983.0
+2011,adopted,2011_adopted.csv.gz,2122,ordinance,VR-05,Negative amount,WARN,amount -13224.0
+2011,adopted,2011_adopted.csv.gz,2144,ordinance,VR-05,Negative amount,WARN,amount -9390.0
+2011,adopted,2011_adopted.csv.gz,2151,ordinance,VR-05,Negative amount,WARN,amount -15750.0
+2011,adopted,2011_adopted.csv.gz,2167,ordinance,VR-05,Negative amount,WARN,amount -144975.0
+2011,adopted,2011_adopted.csv.gz,2181,ordinance,VR-05,Negative amount,WARN,amount -9462.0
+2011,adopted,2011_adopted.csv.gz,2194,ordinance,VR-05,Negative amount,WARN,amount -5821.0
+2011,adopted,2011_adopted.csv.gz,2211,ordinance,VR-05,Negative amount,WARN,amount -6785.0
+2011,adopted,2011_adopted.csv.gz,2224,ordinance,VR-05,Negative amount,WARN,amount -12505.0
+2011,adopted,2011_adopted.csv.gz,2263,ordinance,VR-05,Negative amount,WARN,amount -9172.0
+2011,adopted,2011_adopted.csv.gz,2273,ordinance,VR-05,Negative amount,WARN,amount -687750.0
+2011,adopted,2011_adopted.csv.gz,2305,ordinance,VR-05,Negative amount,WARN,amount -36284.0
+2011,adopted,2011_adopted.csv.gz,2324,ordinance,VR-05,Negative amount,WARN,amount -143007.0
+2011,adopted,2011_adopted.csv.gz,2347,ordinance,VR-05,Negative amount,WARN,amount -1192573.0
+2011,adopted,2011_adopted.csv.gz,2380,ordinance,VR-05,Negative amount,WARN,amount -196328.0
+2011,adopted,2011_adopted.csv.gz,2397,ordinance,VR-05,Negative amount,WARN,amount -84127.0
+2011,adopted,2011_adopted.csv.gz,2406,ordinance,VR-05,Negative amount,WARN,amount -211145.0
+2011,adopted,2011_adopted.csv.gz,2417,ordinance,VR-05,Negative amount,WARN,amount -213684.0
+2011,adopted,2011_adopted.csv.gz,2432,ordinance,VR-05,Negative amount,WARN,amount -185229.0
+2011,adopted,2011_adopted.csv.gz,2460,ordinance,VR-05,Negative amount,WARN,amount -174092.0
+2011,adopted,2011_adopted.csv.gz,2485,ordinance,VR-05,Negative amount,WARN,amount -283056.0
+2011,adopted,2011_adopted.csv.gz,2508,ordinance,VR-05,Negative amount,WARN,amount -3102608.0
+2011,adopted,2011_adopted.csv.gz,2541,ordinance,VR-05,Negative amount,WARN,amount -2796579.0
+2011,adopted,2011_adopted.csv.gz,2577,ordinance,VR-05,Negative amount,WARN,amount -706975.0
+2011,adopted,2011_adopted.csv.gz,2597,ordinance,VR-05,Negative amount,WARN,amount -152157.0
+2011,adopted,2011_adopted.csv.gz,2614,ordinance,VR-05,Negative amount,WARN,amount -2715572.0
+2011,adopted,2011_adopted.csv.gz,2636,ordinance,VR-05,Negative amount,WARN,amount -82310.0
+2011,adopted,2011_adopted.csv.gz,2659,ordinance,VR-05,Negative amount,WARN,amount -160159.0
+2011,adopted,2011_adopted.csv.gz,2676,ordinance,VR-05,Negative amount,WARN,amount -4593886.0
+2011,adopted,2011_adopted.csv.gz,2704,ordinance,VR-05,Negative amount,WARN,amount -248714.0
+2011,adopted,2011_adopted.csv.gz,2721,ordinance,VR-05,Negative amount,WARN,amount -961421.0
+2011,adopted,2011_adopted.csv.gz,2742,ordinance,VR-05,Negative amount,WARN,amount -680187.0
+2011,adopted,2011_adopted.csv.gz,2780,ordinance,VR-05,Negative amount,WARN,amount -115461.0
+2011,adopted,2011_adopted.csv.gz,2806,ordinance,VR-05,Negative amount,WARN,amount -189270.0
+2011,adopted,2011_adopted.csv.gz,2841,ordinance,VR-05,Negative amount,WARN,amount -588797.0
+2011,adopted,2011_adopted.csv.gz,2867,ordinance,VR-05,Negative amount,WARN,amount -16013.0
+2011,adopted,2011_adopted.csv.gz,2876,ordinance,VR-05,Negative amount,WARN,amount -7003.0
+2011,adopted,2011_adopted.csv.gz,2879,ordinance,VR-05,Negative amount,WARN,amount -8065.0
+2011,adopted,2011_adopted.csv.gz,2883,ordinance,VR-05,Negative amount,WARN,amount -10335.0
+2011,adopted,2011_adopted.csv.gz,2896,ordinance,VR-05,Negative amount,WARN,amount -190727.0
+2011,adopted,2011_adopted.csv.gz,2933,ordinance,VR-05,Negative amount,WARN,amount -110130.0
+2011,adopted,2011_adopted.csv.gz,2956,ordinance,VR-05,Negative amount,WARN,amount -35243.0
+2011,adopted,2011_adopted.csv.gz,2959,ordinance,VR-05,Negative amount,WARN,amount -54086.0
+2011,adopted,2011_adopted.csv.gz,2965,ordinance,VR-05,Negative amount,WARN,amount -50335.0
+2011,adopted,2011_adopted.csv.gz,2970,ordinance,VR-05,Negative amount,WARN,amount -17621.0
+2011,adopted,2011_adopted.csv.gz,2973,ordinance,VR-05,Negative amount,WARN,amount -45480.0
+2011,adopted,2011_adopted.csv.gz,2978,ordinance,VR-05,Negative amount,WARN,amount -6785.0
+2011,adopted,2011_adopted.csv.gz,2981,ordinance,VR-05,Negative amount,WARN,amount -35243.0
+2011,adopted,2011_adopted.csv.gz,3004,ordinance,VR-05,Negative amount,WARN,amount -137207.0
+2011,adopted,2011_adopted.csv.gz,3030,ordinance,VR-05,Negative amount,WARN,amount -20451.0
+2011,adopted,2011_adopted.csv.gz,3041,ordinance,VR-05,Negative amount,WARN,amount -6702.0
+2011,adopted,2011_adopted.csv.gz,3062,ordinance,VR-05,Negative amount,WARN,amount -103083.0
+2011,adopted,2011_adopted.csv.gz,3112,ordinance,VR-05,Negative amount,WARN,amount -7311.0
+2011,adopted,2011_adopted.csv.gz,3121,ordinance,VR-05,Negative amount,WARN,amount -6124.0
+2011,adopted,2011_adopted.csv.gz,3127,ordinance,VR-05,Negative amount,WARN,amount -5252.0
+2011,adopted,2011_adopted.csv.gz,3133,ordinance,VR-05,Negative amount,WARN,amount -200612.0
+2011,adopted,2011_adopted.csv.gz,3160,ordinance,VR-05,Negative amount,WARN,amount -269119.0
+2011,adopted,2011_adopted.csv.gz,3182,ordinance,VR-05,Negative amount,WARN,amount -10132.0
+2011,adopted,2011_adopted.csv.gz,3186,ordinance,VR-05,Negative amount,WARN,amount -60632.0
+2011,adopted,2011_adopted.csv.gz,3201,ordinance,VR-05,Negative amount,WARN,amount -90615.0
+2011,adopted,2011_adopted.csv.gz,3206,ordinance,VR-05,Negative amount,WARN,amount -50539.0
+2011,adopted,2011_adopted.csv.gz,3238,ordinance,VR-05,Negative amount,WARN,amount -100000.0
+2011,adopted,2011_adopted.csv.gz,3471,ordinance,VR-05,Negative amount,WARN,amount -1448829.0
+2011,adopted,2011_adopted.csv.gz,3532,ordinance,VR-05,Negative amount,WARN,amount -50565.0
+2011,adopted,2011_adopted.csv.gz,3548,ordinance,VR-05,Negative amount,WARN,amount -46001.0
+2011,adopted,2011_adopted.csv.gz,3552,ordinance,VR-05,Negative amount,WARN,amount -74065.0
+2011,adopted,2011_adopted.csv.gz,3564,ordinance,VR-05,Negative amount,WARN,amount -229569.0
+2011,adopted,2011_adopted.csv.gz,3573,ordinance,VR-05,Negative amount,WARN,amount -101780.0
+2011,adopted,2011_adopted.csv.gz,3589,ordinance,VR-05,Negative amount,WARN,amount -1531094.0
+2011,adopted,2011_adopted.csv.gz,3606,ordinance,VR-05,Negative amount,WARN,amount -177336.0
+2011,adopted,2011_adopted.csv.gz,3649,ordinance,VR-05,Negative amount,WARN,amount -124379.0
+2011,adopted,2011_adopted.csv.gz,3659,ordinance,VR-05,Negative amount,WARN,amount -93806.0
+2011,adopted,2011_adopted.csv.gz,3675,ordinance,VR-05,Negative amount,WARN,amount -711040.0
+2011,adopted,2011_adopted.csv.gz,3714,ordinance,VR-05,Negative amount,WARN,amount -182154.0
+2011,adopted,2011_adopted.csv.gz,3717,ordinance,VR-05,Negative amount,WARN,amount -73259.0
+2011,adopted,2011_adopted.csv.gz,3763,ordinance,VR-05,Negative amount,WARN,amount -33338.0
+2011,adopted,2011_adopted.csv.gz,3779,ordinance,VR-05,Negative amount,WARN,amount -14459.0
+2011,adopted,2011_adopted.csv.gz,3782,ordinance,VR-05,Negative amount,WARN,amount -36766.0
+2011,adopted,2011_adopted.csv.gz,3798,ordinance,VR-05,Negative amount,WARN,amount -21194.0
+2011,adopted,2011_adopted.csv.gz,3803,ordinance,VR-05,Negative amount,WARN,amount -6411.0
+2011,adopted,2011_adopted.csv.gz,3808,ordinance,VR-05,Negative amount,WARN,amount -38325.0
+2011,adopted,2011_adopted.csv.gz,3821,ordinance,VR-05,Negative amount,WARN,amount -37443.0
+2011,adopted,2011_adopted.csv.gz,3827,ordinance,VR-05,Negative amount,WARN,amount -27255.0
+2011,adopted,2011_adopted.csv.gz,3842,ordinance,VR-05,Negative amount,WARN,amount -7230.0
+2011,adopted,2011_adopted.csv.gz,3851,ordinance,VR-05,Negative amount,WARN,amount -97989.0
+2011,adopted,2011_adopted.csv.gz,3869,ordinance,VR-05,Negative amount,WARN,amount -65312.0
+2011,adopted,2011_adopted.csv.gz,3870,ordinance,VR-05,Negative amount,WARN,amount -21628.0
+2011,adopted,2011_adopted.csv.gz,3887,ordinance,VR-05,Negative amount,WARN,amount -207309.0
+2011,adopted,2011_adopted.csv.gz,3928,ordinance,VR-05,Negative amount,WARN,amount -58861.0
+2011,adopted,2011_adopted.csv.gz,3951,ordinance,VR-05,Negative amount,WARN,amount -99398.0
+2011,adopted,2011_adopted.csv.gz,3975,ordinance,VR-05,Negative amount,WARN,amount -199077.0
+2011,adopted,2011_adopted.csv.gz,3994,ordinance,VR-05,Negative amount,WARN,amount -5821.0
+2011,adopted,2011_adopted.csv.gz,4004,ordinance,VR-05,Negative amount,WARN,amount -57017.0
+2011,adopted,2011_adopted.csv.gz,4023,ordinance,VR-05,Negative amount,WARN,amount -5821.0
+2011,adopted,2011_adopted.csv.gz,4030,ordinance,VR-05,Negative amount,WARN,amount -44228.0
+2011,adopted,2011_adopted.csv.gz,4041,ordinance,VR-05,Negative amount,WARN,amount -6785.0
+2011,adopted,2011_adopted.csv.gz,4045,ordinance,VR-05,Negative amount,WARN,amount -6185.0
+2011,adopted,2011_adopted.csv.gz,4061,ordinance,VR-05,Negative amount,WARN,amount -3064536.0
+2011,adopted,2011_adopted.csv.gz,4097,ordinance,VR-05,Negative amount,WARN,amount -71128.0
+2011,adopted,2011_adopted.csv.gz,4102,ordinance,VR-05,Negative amount,WARN,amount -167978.0
+2011,adopted,2011_adopted.csv.gz,4114,ordinance,VR-05,Negative amount,WARN,amount -28080.0
+2011,adopted,2011_adopted.csv.gz,4130,ordinance,VR-05,Negative amount,WARN,amount -13405.0
+2011,adopted,2011_adopted.csv.gz,4148,ordinance,VR-05,Negative amount,WARN,amount -7082.0
+2011,adopted,2011_adopted.csv.gz,4159,ordinance,VR-05,Negative amount,WARN,amount -193350.0
+2011,adopted,2011_adopted.csv.gz,4174,ordinance,VR-05,Negative amount,WARN,amount -10201.0
+2011,adopted,2011_adopted.csv.gz,4176,ordinance,VR-05,Negative amount,WARN,amount -8055.0
+2011,adopted,2011_adopted.csv.gz,4180,ordinance,VR-05,Negative amount,WARN,amount -45959.0
+2011,adopted,2011_adopted.csv.gz,4195,ordinance,VR-05,Negative amount,WARN,amount -38582.0
+2011,adopted,2011_adopted.csv.gz,4198,ordinance,VR-05,Negative amount,WARN,amount -73443.0
+2011,adopted,2011_adopted.csv.gz,4210,ordinance,VR-05,Negative amount,WARN,amount -122100.0
+2011,adopted,2011_adopted.csv.gz,4227,ordinance,VR-05,Negative amount,WARN,amount -13427.0
+2011,adopted,2011_adopted.csv.gz,4229,ordinance,VR-05,Negative amount,WARN,amount -7645.0
+2011,adopted,2011_adopted.csv.gz,4231,ordinance,VR-05,Negative amount,WARN,amount -7900.0
+2011,adopted,2011_adopted.csv.gz,4238,ordinance,VR-05,Negative amount,WARN,amount -519910.0
+2011,adopted,2011_adopted.csv.gz,4254,ordinance,VR-05,Negative amount,WARN,amount -36432.0
+2011,adopted,2011_adopted.csv.gz,4257,ordinance,VR-05,Negative amount,WARN,amount -14295.0
+2012,adopted,2012_adopted.csv.gz,2552,ordinance,VR-05,Negative amount,WARN,amount -1750000.0
+2012,adopted,2012_adopted.csv.gz,2554,ordinance,VR-05,Negative amount,WARN,amount -537000.0
+2012,adopted,2012_adopted.csv.gz,2665,ordinance,VR-05,Negative amount,WARN,amount -4911.0
+2012,adopted,2012_adopted.csv.gz,3097,ordinance,VR-05,Negative amount,WARN,amount -3689.0
+2012,proposed,2012_proposed.csv.gz,18,prior_appropriation,VR-05,Negative amount,WARN,amount -519910.0
+2012,proposed,2012_proposed.csv.gz,18,prior_revised,VR-05,Negative amount,WARN,amount -519910.0
+2012,proposed,2012_proposed.csv.gz,41,prior_appropriation,VR-05,Negative amount,WARN,amount -207309.0
+2012,proposed,2012_proposed.csv.gz,41,prior_revised,VR-05,Negative amount,WARN,amount -207309.0
+2012,proposed,2012_proposed.csv.gz,58,prior_appropriation,VR-05,Negative amount,WARN,amount -193350.0
+2012,proposed,2012_proposed.csv.gz,58,prior_revised,VR-05,Negative amount,WARN,amount -193350.0
+2012,proposed,2012_proposed.csv.gz,77,prior_appropriation,VR-05,Negative amount,WARN,amount -588797.0
+2012,proposed,2012_proposed.csv.gz,77,prior_revised,VR-05,Negative amount,WARN,amount -588797.0
+2012,proposed,2012_proposed.csv.gz,94,prior_appropriation,VR-05,Negative amount,WARN,amount -870881.0
+2012,proposed,2012_proposed.csv.gz,94,prior_revised,VR-05,Negative amount,WARN,amount -870881.0
+2012,proposed,2012_proposed.csv.gz,113,prior_appropriation,VR-05,Negative amount,WARN,amount -92523.0
+2012,proposed,2012_proposed.csv.gz,113,prior_revised,VR-05,Negative amount,WARN,amount -92523.0
+2012,proposed,2012_proposed.csv.gz,176,prior_appropriation,VR-05,Negative amount,WARN,amount -6124.0
+2012,proposed,2012_proposed.csv.gz,176,prior_revised,VR-05,Negative amount,WARN,amount -6124.0
+2012,proposed,2012_proposed.csv.gz,192,prior_appropriation,VR-05,Negative amount,WARN,amount -123921.0
+2012,proposed,2012_proposed.csv.gz,192,prior_revised,VR-05,Negative amount,WARN,amount -123921.0
+2012,proposed,2012_proposed.csv.gz,193,prior_appropriation,VR-05,Negative amount,WARN,amount -473040.0
+2012,proposed,2012_proposed.csv.gz,193,prior_revised,VR-05,Negative amount,WARN,amount -473040.0
+2012,proposed,2012_proposed.csv.gz,215,prior_appropriation,VR-05,Negative amount,WARN,amount -98995.0
+2012,proposed,2012_proposed.csv.gz,215,prior_revised,VR-05,Negative amount,WARN,amount -98995.0
+2012,proposed,2012_proposed.csv.gz,335,prior_appropriation,VR-05,Negative amount,WARN,amount -109330.0
+2012,proposed,2012_proposed.csv.gz,335,prior_revised,VR-05,Negative amount,WARN,amount -109330.0
+2012,proposed,2012_proposed.csv.gz,338,prior_appropriation,VR-05,Negative amount,WARN,amount -687750.0
+2012,proposed,2012_proposed.csv.gz,338,prior_revised,VR-05,Negative amount,WARN,amount -687750.0
+2012,proposed,2012_proposed.csv.gz,391,prior_appropriation,VR-05,Negative amount,WARN,amount -143007.0
+2012,proposed,2012_proposed.csv.gz,391,prior_revised,VR-05,Negative amount,WARN,amount -143007.0
+2012,proposed,2012_proposed.csv.gz,421,prior_appropriation,VR-05,Negative amount,WARN,amount -1809674.0
+2012,proposed,2012_proposed.csv.gz,421,prior_revised,VR-05,Negative amount,WARN,amount -1809674.0
+2012,proposed,2012_proposed.csv.gz,424,prior_appropriation,VR-05,Negative amount,WARN,amount -122100.0
+2012,proposed,2012_proposed.csv.gz,424,prior_revised,VR-05,Negative amount,WARN,amount -122100.0
+2012,proposed,2012_proposed.csv.gz,466,prior_appropriation,VR-05,Negative amount,WARN,amount -411964.0
+2012,proposed,2012_proposed.csv.gz,466,prior_revised,VR-05,Negative amount,WARN,amount -411964.0
+2012,proposed,2012_proposed.csv.gz,490,prior_appropriation,VR-05,Negative amount,WARN,amount -294231.0
+2012,proposed,2012_proposed.csv.gz,490,prior_revised,VR-05,Negative amount,WARN,amount -294231.0
+2012,proposed,2012_proposed.csv.gz,495,prior_appropriation,VR-05,Negative amount,WARN,amount -46001.0
+2012,proposed,2012_proposed.csv.gz,495,prior_revised,VR-05,Negative amount,WARN,amount -46001.0
+2012,proposed,2012_proposed.csv.gz,513,prior_appropriation,VR-05,Negative amount,WARN,amount -74065.0
+2012,proposed,2012_proposed.csv.gz,513,prior_revised,VR-05,Negative amount,WARN,amount -74065.0
+2012,proposed,2012_proposed.csv.gz,517,prior_appropriation,VR-05,Negative amount,WARN,amount -229569.0
+2012,proposed,2012_proposed.csv.gz,517,prior_revised,VR-05,Negative amount,WARN,amount -229569.0
+2012,proposed,2012_proposed.csv.gz,529,prior_appropriation,VR-05,Negative amount,WARN,amount -101780.0
+2012,proposed,2012_proposed.csv.gz,529,prior_revised,VR-05,Negative amount,WARN,amount -101780.0
+2012,proposed,2012_proposed.csv.gz,543,prior_appropriation,VR-05,Negative amount,WARN,amount -1531094.0
+2012,proposed,2012_proposed.csv.gz,543,prior_revised,VR-05,Negative amount,WARN,amount -1531094.0
+2012,proposed,2012_proposed.csv.gz,578,prior_appropriation,VR-05,Negative amount,WARN,amount -177336.0
+2012,proposed,2012_proposed.csv.gz,578,prior_revised,VR-05,Negative amount,WARN,amount -177336.0
+2012,proposed,2012_proposed.csv.gz,677,prior_appropriation,VR-05,Negative amount,WARN,amount -607288.0
+2012,proposed,2012_proposed.csv.gz,677,prior_revised,VR-05,Negative amount,WARN,amount -607288.0
+2012,proposed,2012_proposed.csv.gz,678,prior_appropriation,VR-05,Negative amount,WARN,amount -1657005.0
+2012,proposed,2012_proposed.csv.gz,678,prior_revised,VR-05,Negative amount,WARN,amount -1657005.0
+2012,proposed,2012_proposed.csv.gz,717,prior_appropriation,VR-05,Negative amount,WARN,amount -754229.0
+2012,proposed,2012_proposed.csv.gz,717,prior_revised,VR-05,Negative amount,WARN,amount -754229.0
+2012,proposed,2012_proposed.csv.gz,778,prior_appropriation,VR-05,Negative amount,WARN,amount -458783.0
+2012,proposed,2012_proposed.csv.gz,778,prior_revised,VR-05,Negative amount,WARN,amount -458783.0
+2012,proposed,2012_proposed.csv.gz,796,prior_appropriation,VR-05,Negative amount,WARN,amount -114758.0
+2012,proposed,2012_proposed.csv.gz,796,prior_revised,VR-05,Negative amount,WARN,amount -114758.0
+2012,proposed,2012_proposed.csv.gz,817,prior_appropriation,VR-05,Negative amount,WARN,amount -57017.0
+2012,proposed,2012_proposed.csv.gz,817,prior_revised,VR-05,Negative amount,WARN,amount -57017.0
+2012,proposed,2012_proposed.csv.gz,850,prior_appropriation,VR-05,Negative amount,WARN,amount -190727.0
+2012,proposed,2012_proposed.csv.gz,850,prior_revised,VR-05,Negative amount,WARN,amount -190727.0
+2012,proposed,2012_proposed.csv.gz,891,prior_appropriation,VR-05,Negative amount,WARN,amount -711040.0
+2012,proposed,2012_proposed.csv.gz,891,prior_revised,VR-05,Negative amount,WARN,amount -711040.0
+2012,proposed,2012_proposed.csv.gz,908,prior_appropriation,VR-05,Negative amount,WARN,amount -14295.0
+2012,proposed,2012_proposed.csv.gz,908,prior_revised,VR-05,Negative amount,WARN,amount -14295.0
+2012,proposed,2012_proposed.csv.gz,927,prior_appropriation,VR-05,Negative amount,WARN,amount -199077.0
+2012,proposed,2012_proposed.csv.gz,927,prior_revised,VR-05,Negative amount,WARN,amount -199077.0
+2012,proposed,2012_proposed.csv.gz,980,prior_appropriation,VR-05,Negative amount,WARN,amount -2688173.0
+2012,proposed,2012_proposed.csv.gz,980,prior_revised,VR-05,Negative amount,WARN,amount -2688173.0
+2012,proposed,2012_proposed.csv.gz,997,prior_appropriation,VR-05,Negative amount,WARN,amount -167651.0
+2012,proposed,2012_proposed.csv.gz,997,prior_revised,VR-05,Negative amount,WARN,amount -167651.0
+2012,proposed,2012_proposed.csv.gz,1025,prior_appropriation,VR-05,Negative amount,WARN,amount -3064536.0
+2012,proposed,2012_proposed.csv.gz,1025,prior_revised,VR-05,Negative amount,WARN,amount -3064536.0
+2012,proposed,2012_proposed.csv.gz,1074,prior_appropriation,VR-05,Negative amount,WARN,amount -1448829.0
+2012,proposed,2012_proposed.csv.gz,1074,prior_revised,VR-05,Negative amount,WARN,amount -1448829.0
+2012,proposed,2012_proposed.csv.gz,1104,prior_appropriation,VR-05,Negative amount,WARN,amount -1192573.0
+2012,proposed,2012_proposed.csv.gz,1104,prior_revised,VR-05,Negative amount,WARN,amount -1192573.0
+2012,proposed,2012_proposed.csv.gz,1144,prior_appropriation,VR-05,Negative amount,WARN,amount -679120.0
+2012,proposed,2012_proposed.csv.gz,1144,prior_revised,VR-05,Negative amount,WARN,amount -679120.0
+2012,proposed,2012_proposed.csv.gz,1146,prior_appropriation,VR-05,Negative amount,WARN,amount -150203.0
+2012,proposed,2012_proposed.csv.gz,1146,prior_revised,VR-05,Negative amount,WARN,amount -150203.0
+2012,proposed,2012_proposed.csv.gz,1203,prior_appropriation,VR-05,Negative amount,WARN,amount -130729.0
+2012,proposed,2012_proposed.csv.gz,1203,prior_revised,VR-05,Negative amount,WARN,amount -130729.0
+2012,proposed,2012_proposed.csv.gz,1214,prior_appropriation,VR-05,Negative amount,WARN,amount -5821.0
+2012,proposed,2012_proposed.csv.gz,1214,prior_revised,VR-05,Negative amount,WARN,amount -5821.0
+2012,proposed,2012_proposed.csv.gz,1229,prior_appropriation,VR-05,Negative amount,WARN,amount -51777.0
+2012,proposed,2012_proposed.csv.gz,1229,prior_revised,VR-05,Negative amount,WARN,amount -51777.0
+2012,proposed,2012_proposed.csv.gz,1250,prior_appropriation,VR-05,Negative amount,WARN,amount -82310.0
+2012,proposed,2012_proposed.csv.gz,1250,prior_revised,VR-05,Negative amount,WARN,amount -82310.0
+2012,proposed,2012_proposed.csv.gz,1268,prior_appropriation,VR-05,Negative amount,WARN,amount -160159.0
+2012,proposed,2012_proposed.csv.gz,1268,prior_revised,VR-05,Negative amount,WARN,amount -160159.0
+2012,proposed,2012_proposed.csv.gz,1295,prior_appropriation,VR-05,Negative amount,WARN,amount -4593886.0
+2012,proposed,2012_proposed.csv.gz,1295,prior_revised,VR-05,Negative amount,WARN,amount -4593886.0
+2012,proposed,2012_proposed.csv.gz,1311,prior_appropriation,VR-05,Negative amount,WARN,amount -248714.0
+2012,proposed,2012_proposed.csv.gz,1311,prior_revised,VR-05,Negative amount,WARN,amount -248714.0
+2012,proposed,2012_proposed.csv.gz,1333,prior_appropriation,VR-05,Negative amount,WARN,amount -961421.0
+2012,proposed,2012_proposed.csv.gz,1333,prior_revised,VR-05,Negative amount,WARN,amount -961421.0
+2012,proposed,2012_proposed.csv.gz,1365,prior_appropriation,VR-05,Negative amount,WARN,amount -680187.0
+2012,proposed,2012_proposed.csv.gz,1365,prior_revised,VR-05,Negative amount,WARN,amount -680187.0
+2012,proposed,2012_proposed.csv.gz,1388,prior_appropriation,VR-05,Negative amount,WARN,amount -154316.0
+2012,proposed,2012_proposed.csv.gz,1388,prior_revised,VR-05,Negative amount,WARN,amount -154316.0
+2012,proposed,2012_proposed.csv.gz,1414,prior_appropriation,VR-05,Negative amount,WARN,amount -241013.0
+2012,proposed,2012_proposed.csv.gz,1414,prior_revised,VR-05,Negative amount,WARN,amount -241013.0
+2012,proposed,2012_proposed.csv.gz,1431,prior_appropriation,VR-05,Negative amount,WARN,amount -231764.0
+2012,proposed,2012_proposed.csv.gz,1431,prior_revised,VR-05,Negative amount,WARN,amount -231764.0
+2012,proposed,2012_proposed.csv.gz,1466,prior_appropriation,VR-05,Negative amount,WARN,amount -261043.0
+2012,proposed,2012_proposed.csv.gz,1466,prior_revised,VR-05,Negative amount,WARN,amount -261043.0
+2012,proposed,2012_proposed.csv.gz,1497,prior_appropriation,VR-05,Negative amount,WARN,amount -1166622.0
+2012,proposed,2012_proposed.csv.gz,1497,prior_revised,VR-05,Negative amount,WARN,amount -1166622.0
+2012,proposed,2012_proposed.csv.gz,1525,prior_appropriation,VR-05,Negative amount,WARN,amount -626869.0
+2012,proposed,2012_proposed.csv.gz,1525,prior_revised,VR-05,Negative amount,WARN,amount -626869.0
+2012,proposed,2012_proposed.csv.gz,1562,prior_appropriation,VR-05,Negative amount,WARN,amount -100000.0
+2012,proposed,2012_proposed.csv.gz,1562,prior_revised,VR-05,Negative amount,WARN,amount -100000.0
+2012,proposed,2012_proposed.csv.gz,1591,prior_appropriation,VR-05,Negative amount,WARN,amount -65312.0
+2012,proposed,2012_proposed.csv.gz,1591,prior_revised,VR-05,Negative amount,WARN,amount -65312.0
+2012,proposed,2012_proposed.csv.gz,1593,prior_appropriation,VR-05,Negative amount,WARN,amount -10201.0
+2012,proposed,2012_proposed.csv.gz,1593,prior_revised,VR-05,Negative amount,WARN,amount -10201.0
+2012,proposed,2012_proposed.csv.gz,1598,prior_appropriation,VR-05,Negative amount,WARN,amount -9390.0
+2012,proposed,2012_proposed.csv.gz,1598,prior_revised,VR-05,Negative amount,WARN,amount -9390.0
+2012,proposed,2012_proposed.csv.gz,1627,prior_appropriation,VR-05,Negative amount,WARN,amount -36284.0
+2012,proposed,2012_proposed.csv.gz,1627,prior_revised,VR-05,Negative amount,WARN,amount -36284.0
+2012,proposed,2012_proposed.csv.gz,1672,prior_appropriation,VR-05,Negative amount,WARN,amount -92065.0
+2012,proposed,2012_proposed.csv.gz,1672,prior_revised,VR-05,Negative amount,WARN,amount -92065.0
+2012,proposed,2012_proposed.csv.gz,1677,prior_appropriation,VR-05,Negative amount,WARN,amount -13427.0
+2012,proposed,2012_proposed.csv.gz,1677,prior_revised,VR-05,Negative amount,WARN,amount -13427.0
+2012,proposed,2012_proposed.csv.gz,1686,prior_appropriation,VR-05,Negative amount,WARN,amount -10460.0
+2012,proposed,2012_proposed.csv.gz,1686,prior_revised,VR-05,Negative amount,WARN,amount -10460.0
+2012,proposed,2012_proposed.csv.gz,1692,prior_appropriation,VR-05,Negative amount,WARN,amount -12903.0
+2012,proposed,2012_proposed.csv.gz,1692,prior_revised,VR-05,Negative amount,WARN,amount -12903.0
+2012,proposed,2012_proposed.csv.gz,1715,prior_appropriation,VR-05,Negative amount,WARN,amount -250225.0
+2012,proposed,2012_proposed.csv.gz,1715,prior_revised,VR-05,Negative amount,WARN,amount -250225.0
+2012,proposed,2012_proposed.csv.gz,1733,prior_appropriation,VR-05,Negative amount,WARN,amount -196328.0
+2012,proposed,2012_proposed.csv.gz,1733,prior_revised,VR-05,Negative amount,WARN,amount -196328.0
+2012,proposed,2012_proposed.csv.gz,1762,prior_appropriation,VR-05,Negative amount,WARN,amount -185229.0
+2012,proposed,2012_proposed.csv.gz,1762,prior_revised,VR-05,Negative amount,WARN,amount -185229.0
+2012,proposed,2012_proposed.csv.gz,1786,prior_appropriation,VR-05,Negative amount,WARN,amount -174092.0
+2012,proposed,2012_proposed.csv.gz,1786,prior_revised,VR-05,Negative amount,WARN,amount -174092.0
+2012,proposed,2012_proposed.csv.gz,1810,prior_appropriation,VR-05,Negative amount,WARN,amount -283056.0
+2012,proposed,2012_proposed.csv.gz,1810,prior_revised,VR-05,Negative amount,WARN,amount -283056.0
+2012,proposed,2012_proposed.csv.gz,1843,prior_appropriation,VR-05,Negative amount,WARN,amount -3102608.0
+2012,proposed,2012_proposed.csv.gz,1843,prior_revised,VR-05,Negative amount,WARN,amount -3102608.0
+2012,proposed,2012_proposed.csv.gz,1878,prior_appropriation,VR-05,Negative amount,WARN,amount -2796579.0
+2012,proposed,2012_proposed.csv.gz,1878,prior_revised,VR-05,Negative amount,WARN,amount -2796579.0
+2012,proposed,2012_proposed.csv.gz,1898,prior_appropriation,VR-05,Negative amount,WARN,amount -706975.0
+2012,proposed,2012_proposed.csv.gz,1898,prior_revised,VR-05,Negative amount,WARN,amount -706975.0
+2012,proposed,2012_proposed.csv.gz,1945,prior_appropriation,VR-05,Negative amount,WARN,amount -111420.0
+2012,proposed,2012_proposed.csv.gz,1945,prior_revised,VR-05,Negative amount,WARN,amount -111420.0
+2012,proposed,2012_proposed.csv.gz,1980,prior_appropriation,VR-05,Negative amount,WARN,amount -61405.0
+2012,proposed,2012_proposed.csv.gz,1980,prior_revised,VR-05,Negative amount,WARN,amount -61405.0
+2012,proposed,2012_proposed.csv.gz,2041,prior_appropriation,VR-05,Negative amount,WARN,amount -115461.0
+2012,proposed,2012_proposed.csv.gz,2041,prior_revised,VR-05,Negative amount,WARN,amount -115461.0
+2012,proposed,2012_proposed.csv.gz,2070,prior_appropriation,VR-05,Negative amount,WARN,amount -189270.0
+2012,proposed,2012_proposed.csv.gz,2070,prior_revised,VR-05,Negative amount,WARN,amount -189270.0
+2012,proposed,2012_proposed.csv.gz,2100,prior_appropriation,VR-05,Negative amount,WARN,amount -148022.0
+2012,proposed,2012_proposed.csv.gz,2100,prior_revised,VR-05,Negative amount,WARN,amount -148022.0
+2012,proposed,2012_proposed.csv.gz,2134,prior_appropriation,VR-05,Negative amount,WARN,amount -302357.0
+2012,proposed,2012_proposed.csv.gz,2134,prior_revised,VR-05,Negative amount,WARN,amount -302357.0
+2012,proposed,2012_proposed.csv.gz,2202,prior_appropriation,VR-05,Negative amount,WARN,amount -609270.0
+2012,proposed,2012_proposed.csv.gz,2202,prior_revised,VR-05,Negative amount,WARN,amount -609270.0
+2012,proposed,2012_proposed.csv.gz,2274,prior_appropriation,VR-05,Negative amount,WARN,amount -58861.0
+2012,proposed,2012_proposed.csv.gz,2274,prior_revised,VR-05,Negative amount,WARN,amount -58861.0
+2012,proposed,2012_proposed.csv.gz,2308,prior_appropriation,VR-05,Negative amount,WARN,amount -31953.0
+2012,proposed,2012_proposed.csv.gz,2308,prior_revised,VR-05,Negative amount,WARN,amount -31953.0
+2012,proposed,2012_proposed.csv.gz,2333,prior_appropriation,VR-05,Negative amount,WARN,amount -211819.0
+2012,proposed,2012_proposed.csv.gz,2333,prior_revised,VR-05,Negative amount,WARN,amount -211819.0
+2012,proposed,2012_proposed.csv.gz,2352,prior_appropriation,VR-05,Negative amount,WARN,amount -84127.0
+2012,proposed,2012_proposed.csv.gz,2352,prior_revised,VR-05,Negative amount,WARN,amount -84127.0
+2012,proposed,2012_proposed.csv.gz,2370,prior_appropriation,VR-05,Negative amount,WARN,amount -152157.0
+2012,proposed,2012_proposed.csv.gz,2370,prior_revised,VR-05,Negative amount,WARN,amount -152157.0
+2012,proposed,2012_proposed.csv.gz,2391,prior_appropriation,VR-05,Negative amount,WARN,amount -2715572.0
+2012,proposed,2012_proposed.csv.gz,2391,prior_revised,VR-05,Negative amount,WARN,amount -2715572.0
+2012,proposed,2012_proposed.csv.gz,2432,prior_appropriation,VR-05,Negative amount,WARN,amount -124379.0
+2012,proposed,2012_proposed.csv.gz,2432,prior_revised,VR-05,Negative amount,WARN,amount -124379.0
+2012,proposed,2012_proposed.csv.gz,2442,prior_appropriation,VR-05,Negative amount,WARN,amount -93806.0
+2012,proposed,2012_proposed.csv.gz,2442,prior_revised,VR-05,Negative amount,WARN,amount -93806.0
+2012,proposed,2012_proposed.csv.gz,2488,prior_appropriation,VR-05,Negative amount,WARN,amount -429826.0
+2012,proposed,2012_proposed.csv.gz,2488,prior_revised,VR-05,Negative amount,WARN,amount -429826.0
+2012,proposed,2012_proposed.csv.gz,2511,prior_appropriation,VR-05,Negative amount,WARN,amount -36432.0
+2012,proposed,2012_proposed.csv.gz,2511,prior_revised,VR-05,Negative amount,WARN,amount -36432.0
+2012,proposed,2012_proposed.csv.gz,2516,prior_appropriation,VR-05,Negative amount,WARN,amount -263371.0
+2012,proposed,2012_proposed.csv.gz,2516,prior_revised,VR-05,Negative amount,WARN,amount -263371.0
+2012,proposed,2012_proposed.csv.gz,2541,prior_appropriation,VR-05,Negative amount,WARN,amount -313728.0
+2012,proposed,2012_proposed.csv.gz,2541,prior_revised,VR-05,Negative amount,WARN,amount -313728.0
+2012,proposed,2012_proposed.csv.gz,2635,prior_appropriation,VR-05,Negative amount,WARN,amount -5821.0
+2012,proposed,2012_proposed.csv.gz,2635,prior_revised,VR-05,Negative amount,WARN,amount -5821.0
+2012,proposed,2012_proposed.csv.gz,2697,prior_appropriation,VR-05,Negative amount,WARN,amount -40357.0
+2012,proposed,2012_proposed.csv.gz,2697,prior_revised,VR-05,Negative amount,WARN,amount -40357.0
+2012,proposed,2012_proposed.csv.gz,2702,prior_appropriation,VR-05,Negative amount,WARN,amount -7645.0
+2012,proposed,2012_proposed.csv.gz,2702,prior_revised,VR-05,Negative amount,WARN,amount -7645.0
+2012,proposed,2012_proposed.csv.gz,2706,prior_appropriation,VR-05,Negative amount,WARN,amount -5468.0
+2012,proposed,2012_proposed.csv.gz,2706,prior_revised,VR-05,Negative amount,WARN,amount -5468.0
+2012,proposed,2012_proposed.csv.gz,2730,prior_appropriation,VR-05,Negative amount,WARN,amount -71547.0
+2012,proposed,2012_proposed.csv.gz,2730,prior_revised,VR-05,Negative amount,WARN,amount -71547.0
+2012,proposed,2012_proposed.csv.gz,2765,prior_appropriation,VR-05,Negative amount,WARN,amount -71128.0
+2012,proposed,2012_proposed.csv.gz,2765,prior_revised,VR-05,Negative amount,WARN,amount -71128.0
+2012,proposed,2012_proposed.csv.gz,2826,prior_appropriation,VR-05,Negative amount,WARN,amount -497230.0
+2012,proposed,2012_proposed.csv.gz,2826,prior_revised,VR-05,Negative amount,WARN,amount -497230.0
+2012,proposed,2012_proposed.csv.gz,2884,prior_appropriation,VR-05,Negative amount,WARN,amount -99398.0
+2012,proposed,2012_proposed.csv.gz,2884,prior_revised,VR-05,Negative amount,WARN,amount -99398.0
+2012,proposed,2012_proposed.csv.gz,2886,prior_appropriation,VR-05,Negative amount,WARN,amount -89745.0
+2012,proposed,2012_proposed.csv.gz,2886,prior_revised,VR-05,Negative amount,WARN,amount -89745.0
+2012,proposed,2012_proposed.csv.gz,2929,prior_appropriation,VR-05,Negative amount,WARN,amount -5693.0
+2012,proposed,2012_proposed.csv.gz,2929,prior_revised,VR-05,Negative amount,WARN,amount -5693.0
+2012,proposed,2012_proposed.csv.gz,2956,prior_appropriation,VR-05,Negative amount,WARN,amount -125129.0
+2012,proposed,2012_proposed.csv.gz,2956,prior_revised,VR-05,Negative amount,WARN,amount -125129.0
+2012,proposed,2012_proposed.csv.gz,2962,prior_appropriation,VR-05,Negative amount,WARN,amount -7900.0
+2012,proposed,2012_proposed.csv.gz,2962,prior_revised,VR-05,Negative amount,WARN,amount -7900.0
+2012,proposed,2012_proposed.csv.gz,2972,prior_appropriation,VR-05,Negative amount,WARN,amount -12894.0
+2012,proposed,2012_proposed.csv.gz,2972,prior_revised,VR-05,Negative amount,WARN,amount -12894.0
+2012,proposed,2012_proposed.csv.gz,2982,prior_appropriation,VR-05,Negative amount,WARN,amount -93141.0
+2012,proposed,2012_proposed.csv.gz,2982,prior_revised,VR-05,Negative amount,WARN,amount -93141.0
+2012,proposed,2012_proposed.csv.gz,3010,prior_appropriation,VR-05,Negative amount,WARN,amount -379477.0
+2012,proposed,2012_proposed.csv.gz,3010,prior_revised,VR-05,Negative amount,WARN,amount -379477.0
+2012,proposed,2012_proposed.csv.gz,3044,prior_appropriation,VR-05,Negative amount,WARN,amount -14254.0
+2012,proposed,2012_proposed.csv.gz,3044,prior_revised,VR-05,Negative amount,WARN,amount -14254.0
+2012,proposed,2012_proposed.csv.gz,3049,prior_appropriation,VR-05,Negative amount,WARN,amount -167978.0
+2012,proposed,2012_proposed.csv.gz,3049,prior_revised,VR-05,Negative amount,WARN,amount -167978.0
+2012,proposed,2012_proposed.csv.gz,3064,prior_appropriation,VR-05,Negative amount,WARN,amount -50565.0
+2012,proposed,2012_proposed.csv.gz,3064,prior_revised,VR-05,Negative amount,WARN,amount -50565.0
+2012,proposed,2012_proposed.csv.gz,3123,prior_appropriation,VR-05,Negative amount,WARN,amount -4444561.0
+2012,proposed,2012_proposed.csv.gz,3123,prior_revised,VR-05,Negative amount,WARN,amount -4444561.0
+2012,proposed,2012_proposed.csv.gz,3171,prior_appropriation,VR-05,Negative amount,WARN,amount -47326.0
+2012,proposed,2012_proposed.csv.gz,3171,prior_revised,VR-05,Negative amount,WARN,amount -47326.0
+2012,proposed,2012_proposed.csv.gz,3172,prior_appropriation,VR-05,Negative amount,WARN,amount -37226.0
+2012,proposed,2012_proposed.csv.gz,3172,prior_revised,VR-05,Negative amount,WARN,amount -37226.0
+2012,proposed,2012_proposed.csv.gz,3178,prior_appropriation,VR-05,Negative amount,WARN,amount -8055.0
+2012,proposed,2012_proposed.csv.gz,3178,prior_revised,VR-05,Negative amount,WARN,amount -8055.0
+2012,proposed,2012_proposed.csv.gz,3179,prior_appropriation,VR-05,Negative amount,WARN,amount -18081.0
+2012,proposed,2012_proposed.csv.gz,3179,prior_revised,VR-05,Negative amount,WARN,amount -18081.0
+2012,proposed,2012_proposed.csv.gz,3184,prior_appropriation,VR-05,Negative amount,WARN,amount -94542.0
+2012,proposed,2012_proposed.csv.gz,3184,prior_revised,VR-05,Negative amount,WARN,amount -94542.0
+2012,proposed,2012_proposed.csv.gz,3189,prior_appropriation,VR-05,Negative amount,WARN,amount -182154.0
+2012,proposed,2012_proposed.csv.gz,3189,prior_revised,VR-05,Negative amount,WARN,amount -182154.0
+2012,proposed,2012_proposed.csv.gz,3207,prior_appropriation,VR-05,Negative amount,WARN,amount -277759.0
+2012,proposed,2012_proposed.csv.gz,3207,prior_revised,VR-05,Negative amount,WARN,amount -277759.0
+2012,proposed,2012_proposed.csv.gz,3222,prior_appropriation,VR-05,Negative amount,WARN,amount -26110.0
+2012,proposed,2012_proposed.csv.gz,3222,prior_revised,VR-05,Negative amount,WARN,amount -26110.0
+2012,proposed,2012_proposed.csv.gz,3237,prior_appropriation,VR-05,Negative amount,WARN,amount -20451.0
+2012,proposed,2012_proposed.csv.gz,3237,prior_revised,VR-05,Negative amount,WARN,amount -20451.0
+2012,proposed,2012_proposed.csv.gz,3254,prior_appropriation,VR-05,Negative amount,WARN,amount -73443.0
+2012,proposed,2012_proposed.csv.gz,3254,prior_revised,VR-05,Negative amount,WARN,amount -73443.0
+2012,proposed,2012_proposed.csv.gz,3271,prior_appropriation,VR-05,Negative amount,WARN,amount -6702.0
+2012,proposed,2012_proposed.csv.gz,3271,prior_revised,VR-05,Negative amount,WARN,amount -6702.0
+2012,proposed,2012_proposed.csv.gz,3303,recommendation,VR-05,Negative amount,WARN,amount -1750000.0
+2012,proposed,2012_proposed.csv.gz,3303,prior_appropriation,VR-05,Negative amount,WARN,amount -1750000.0
+2012,proposed,2012_proposed.csv.gz,3303,prior_revised,VR-05,Negative amount,WARN,amount -1750000.0
+2012,proposed,2012_proposed.csv.gz,3305,recommendation,VR-05,Negative amount,WARN,amount -537000.0
+2012,proposed,2012_proposed.csv.gz,3305,prior_appropriation,VR-05,Negative amount,WARN,amount -537000.0
+2012,proposed,2012_proposed.csv.gz,3305,prior_revised,VR-05,Negative amount,WARN,amount -537000.0
+2012,proposed,2012_proposed.csv.gz,3307,prior_appropriation,VR-05,Negative amount,WARN,amount -18020.0
+2012,proposed,2012_proposed.csv.gz,3307,prior_revised,VR-05,Negative amount,WARN,amount -18020.0
+2012,proposed,2012_proposed.csv.gz,3316,prior_appropriation,VR-05,Negative amount,WARN,amount -109878.0
+2012,proposed,2012_proposed.csv.gz,3316,prior_revised,VR-05,Negative amount,WARN,amount -109878.0
+2012,proposed,2012_proposed.csv.gz,3331,prior_appropriation,VR-05,Negative amount,WARN,amount -12343.0
+2012,proposed,2012_proposed.csv.gz,3331,prior_revised,VR-05,Negative amount,WARN,amount -12343.0
+2012,proposed,2012_proposed.csv.gz,3352,prior_appropriation,VR-05,Negative amount,WARN,amount -19871.0
+2012,proposed,2012_proposed.csv.gz,3352,prior_revised,VR-05,Negative amount,WARN,amount -19871.0
+2012,proposed,2012_proposed.csv.gz,3358,prior_appropriation,VR-05,Negative amount,WARN,amount -9544.0
+2012,proposed,2012_proposed.csv.gz,3358,prior_revised,VR-05,Negative amount,WARN,amount -9544.0
+2012,proposed,2012_proposed.csv.gz,3390,prior_appropriation,VR-05,Negative amount,WARN,amount -37697.0
+2012,proposed,2012_proposed.csv.gz,3390,prior_revised,VR-05,Negative amount,WARN,amount -37697.0
+2012,proposed,2012_proposed.csv.gz,3422,prior_appropriation,VR-05,Negative amount,WARN,amount -8991.0
+2012,proposed,2012_proposed.csv.gz,3422,prior_revised,VR-05,Negative amount,WARN,amount -8991.0
+2012,proposed,2012_proposed.csv.gz,3437,recommendation,VR-05,Negative amount,WARN,amount -4911.0
+2012,proposed,2012_proposed.csv.gz,3450,prior_appropriation,VR-05,Negative amount,WARN,amount -8817.0
+2012,proposed,2012_proposed.csv.gz,3450,prior_revised,VR-05,Negative amount,WARN,amount -8817.0
+2012,proposed,2012_proposed.csv.gz,3462,prior_appropriation,VR-05,Negative amount,WARN,amount -13503.0
+2012,proposed,2012_proposed.csv.gz,3462,prior_revised,VR-05,Negative amount,WARN,amount -13503.0
+2012,proposed,2012_proposed.csv.gz,3481,prior_appropriation,VR-05,Negative amount,WARN,amount -9544.0
+2012,proposed,2012_proposed.csv.gz,3481,prior_revised,VR-05,Negative amount,WARN,amount -9544.0
+2012,proposed,2012_proposed.csv.gz,3496,prior_appropriation,VR-05,Negative amount,WARN,amount -77087.0
+2012,proposed,2012_proposed.csv.gz,3496,prior_revised,VR-05,Negative amount,WARN,amount -77087.0
+2012,proposed,2012_proposed.csv.gz,3515,prior_appropriation,VR-05,Negative amount,WARN,amount -6785.0
+2012,proposed,2012_proposed.csv.gz,3515,prior_revised,VR-05,Negative amount,WARN,amount -6785.0
+2012,proposed,2012_proposed.csv.gz,3546,prior_appropriation,VR-05,Negative amount,WARN,amount -88859.0
+2012,proposed,2012_proposed.csv.gz,3546,prior_revised,VR-05,Negative amount,WARN,amount -88859.0
+2012,proposed,2012_proposed.csv.gz,3562,prior_appropriation,VR-05,Negative amount,WARN,amount -38983.0
+2012,proposed,2012_proposed.csv.gz,3562,prior_revised,VR-05,Negative amount,WARN,amount -38983.0
+2012,proposed,2012_proposed.csv.gz,3583,prior_appropriation,VR-05,Negative amount,WARN,amount -13224.0
+2012,proposed,2012_proposed.csv.gz,3583,prior_revised,VR-05,Negative amount,WARN,amount -13224.0
+2012,proposed,2012_proposed.csv.gz,3601,prior_appropriation,VR-05,Negative amount,WARN,amount -103083.0
+2012,proposed,2012_proposed.csv.gz,3601,prior_revised,VR-05,Negative amount,WARN,amount -103083.0
+2012,proposed,2012_proposed.csv.gz,3621,prior_appropriation,VR-05,Negative amount,WARN,amount -9390.0
+2012,proposed,2012_proposed.csv.gz,3621,prior_revised,VR-05,Negative amount,WARN,amount -9390.0
+2012,proposed,2012_proposed.csv.gz,3653,prior_appropriation,VR-05,Negative amount,WARN,amount -6185.0
+2012,proposed,2012_proposed.csv.gz,3653,prior_revised,VR-05,Negative amount,WARN,amount -6185.0
+2012,proposed,2012_proposed.csv.gz,3691,prior_appropriation,VR-05,Negative amount,WARN,amount -15750.0
+2012,proposed,2012_proposed.csv.gz,3691,prior_revised,VR-05,Negative amount,WARN,amount -15750.0
+2012,proposed,2012_proposed.csv.gz,3715,prior_appropriation,VR-05,Negative amount,WARN,amount -8140.0
+2012,proposed,2012_proposed.csv.gz,3715,prior_revised,VR-05,Negative amount,WARN,amount -8140.0
+2012,proposed,2012_proposed.csv.gz,3747,prior_appropriation,VR-05,Negative amount,WARN,amount -144975.0
+2012,proposed,2012_proposed.csv.gz,3747,prior_revised,VR-05,Negative amount,WARN,amount -144975.0
+2012,proposed,2012_proposed.csv.gz,3763,prior_appropriation,VR-05,Negative amount,WARN,amount -9462.0
+2012,proposed,2012_proposed.csv.gz,3763,prior_revised,VR-05,Negative amount,WARN,amount -9462.0
+2012,proposed,2012_proposed.csv.gz,3782,prior_appropriation,VR-05,Negative amount,WARN,amount -14585.0
+2012,proposed,2012_proposed.csv.gz,3782,prior_revised,VR-05,Negative amount,WARN,amount -14585.0
+2012,proposed,2012_proposed.csv.gz,3794,prior_appropriation,VR-05,Negative amount,WARN,amount -38530.0
+2012,proposed,2012_proposed.csv.gz,3794,prior_revised,VR-05,Negative amount,WARN,amount -38530.0
+2012,proposed,2012_proposed.csv.gz,3801,prior_appropriation,VR-05,Negative amount,WARN,amount -7311.0
+2012,proposed,2012_proposed.csv.gz,3801,prior_revised,VR-05,Negative amount,WARN,amount -7311.0
+2012,proposed,2012_proposed.csv.gz,3808,prior_appropriation,VR-05,Negative amount,WARN,amount -6124.0
+2012,proposed,2012_proposed.csv.gz,3808,prior_revised,VR-05,Negative amount,WARN,amount -6124.0
+2012,proposed,2012_proposed.csv.gz,3815,prior_appropriation,VR-05,Negative amount,WARN,amount -5252.0
+2012,proposed,2012_proposed.csv.gz,3815,prior_revised,VR-05,Negative amount,WARN,amount -5252.0
+2012,proposed,2012_proposed.csv.gz,3821,prior_appropriation,VR-05,Negative amount,WARN,amount -200612.0
+2012,proposed,2012_proposed.csv.gz,3821,prior_revised,VR-05,Negative amount,WARN,amount -200612.0
+2012,proposed,2012_proposed.csv.gz,3850,prior_appropriation,VR-05,Negative amount,WARN,amount -269119.0
+2012,proposed,2012_proposed.csv.gz,3850,prior_revised,VR-05,Negative amount,WARN,amount -269119.0
+2012,proposed,2012_proposed.csv.gz,3869,prior_appropriation,VR-05,Negative amount,WARN,amount -25115.0
+2012,proposed,2012_proposed.csv.gz,3869,prior_revised,VR-05,Negative amount,WARN,amount -25115.0
+2012,proposed,2012_proposed.csv.gz,3883,prior_appropriation,VR-05,Negative amount,WARN,amount -86563.0
+2012,proposed,2012_proposed.csv.gz,3883,prior_revised,VR-05,Negative amount,WARN,amount -86563.0
+2012,proposed,2012_proposed.csv.gz,3927,prior_appropriation,VR-05,Negative amount,WARN,amount -5821.0
+2012,proposed,2012_proposed.csv.gz,3927,prior_revised,VR-05,Negative amount,WARN,amount -5821.0
+2012,proposed,2012_proposed.csv.gz,3945,recommendation,VR-05,Negative amount,WARN,amount -3689.0
+2012,proposed,2012_proposed.csv.gz,3946,prior_appropriation,VR-05,Negative amount,WARN,amount -6785.0
+2012,proposed,2012_proposed.csv.gz,3946,prior_revised,VR-05,Negative amount,WARN,amount -6785.0
+2012,proposed,2012_proposed.csv.gz,3957,prior_appropriation,VR-05,Negative amount,WARN,amount -12505.0
+2012,proposed,2012_proposed.csv.gz,3957,prior_revised,VR-05,Negative amount,WARN,amount -12505.0
+2012,proposed,2012_proposed.csv.gz,4004,prior_appropriation,VR-05,Negative amount,WARN,amount -9172.0
+2012,proposed,2012_proposed.csv.gz,4004,prior_revised,VR-05,Negative amount,WARN,amount -9172.0
+2012,proposed,2012_proposed.csv.gz,4014,prior_appropriation,VR-05,Negative amount,WARN,amount -4785.0
+2012,proposed,2012_proposed.csv.gz,4014,prior_revised,VR-05,Negative amount,WARN,amount -4785.0
+2012,proposed,2012_proposed.csv.gz,4022,prior_appropriation,VR-05,Negative amount,WARN,amount -97989.0
+2012,proposed,2012_proposed.csv.gz,4022,prior_revised,VR-05,Negative amount,WARN,amount -97989.0
+2012,proposed,2012_proposed.csv.gz,4036,prior_appropriation,VR-05,Negative amount,WARN,amount -10132.0
+2012,proposed,2012_proposed.csv.gz,4036,prior_revised,VR-05,Negative amount,WARN,amount -10132.0
+2012,proposed,2012_proposed.csv.gz,4050,prior_appropriation,VR-05,Negative amount,WARN,amount -28080.0
+2012,proposed,2012_proposed.csv.gz,4050,prior_revised,VR-05,Negative amount,WARN,amount -28080.0
+2012,proposed,2012_proposed.csv.gz,4062,prior_appropriation,VR-05,Negative amount,WARN,amount -13405.0
+2012,proposed,2012_proposed.csv.gz,4062,prior_revised,VR-05,Negative amount,WARN,amount -13405.0
+2012,proposed,2012_proposed.csv.gz,4082,prior_appropriation,VR-05,Negative amount,WARN,amount -7082.0
+2012,proposed,2012_proposed.csv.gz,4082,prior_revised,VR-05,Negative amount,WARN,amount -7082.0
+2012,proposed,2012_proposed.csv.gz,4107,prior_appropriation,VR-05,Negative amount,WARN,amount -60632.0
+2012,proposed,2012_proposed.csv.gz,4107,prior_revised,VR-05,Negative amount,WARN,amount -60632.0
+2012,proposed,2012_proposed.csv.gz,4166,prior_appropriation,VR-05,Negative amount,WARN,amount -8817.0
+2012,proposed,2012_proposed.csv.gz,4166,prior_revised,VR-05,Negative amount,WARN,amount -8817.0
+2012,proposed,2012_proposed.csv.gz,4239,prior_appropriation,VR-05,Negative amount,WARN,amount -5902.0
+2012,proposed,2012_proposed.csv.gz,4239,prior_revised,VR-05,Negative amount,WARN,amount -5902.0
+2012,proposed,2012_proposed.csv.gz,4376,prior_appropriation,VR-05,Negative amount,WARN,amount -137207.0
+2012,proposed,2012_proposed.csv.gz,4376,prior_revised,VR-05,Negative amount,WARN,amount -137207.0
+2012,proposed,2012_proposed.csv.gz,4444,prior_appropriation,VR-05,Negative amount,WARN,amount -90615.0
+2012,proposed,2012_proposed.csv.gz,4444,prior_revised,VR-05,Negative amount,WARN,amount -90615.0
+2012,proposed,2012_proposed.csv.gz,4460,prior_appropriation,VR-05,Negative amount,WARN,amount -50539.0
+2012,proposed,2012_proposed.csv.gz,4460,prior_revised,VR-05,Negative amount,WARN,amount -50539.0
+2012,proposed,2012_proposed.csv.gz,4560,prior_appropriation,VR-05,Negative amount,WARN,amount -21628.0
+2012,proposed,2012_proposed.csv.gz,4560,prior_revised,VR-05,Negative amount,WARN,amount -21628.0
+2012,proposed,2012_proposed.csv.gz,4592,prior_appropriation,VR-05,Negative amount,WARN,amount -45959.0
+2012,proposed,2012_proposed.csv.gz,4592,prior_revised,VR-05,Negative amount,WARN,amount -45959.0
+2012,proposed,2012_proposed.csv.gz,4593,prior_appropriation,VR-05,Negative amount,WARN,amount -38582.0
+2012,proposed,2012_proposed.csv.gz,4593,prior_revised,VR-05,Negative amount,WARN,amount -38582.0
+2012,proposed,2012_proposed.csv.gz,4611,prior_appropriation,VR-05,Negative amount,WARN,amount -216019.0
+2012,proposed,2012_proposed.csv.gz,4611,prior_revised,VR-05,Negative amount,WARN,amount -216019.0
+2012,proposed,2012_proposed.csv.gz,4612,prior_appropriation,VR-05,Negative amount,WARN,amount -37148.0
+2012,proposed,2012_proposed.csv.gz,4612,prior_revised,VR-05,Negative amount,WARN,amount -37148.0
+2012,proposed,2012_proposed.csv.gz,4645,prior_appropriation,VR-05,Negative amount,WARN,amount -77323.0
+2012,proposed,2012_proposed.csv.gz,4645,prior_revised,VR-05,Negative amount,WARN,amount -77323.0
+2012,proposed,2012_proposed.csv.gz,4668,prior_appropriation,VR-05,Negative amount,WARN,amount -16424.0
+2012,proposed,2012_proposed.csv.gz,4668,prior_revised,VR-05,Negative amount,WARN,amount -16424.0
+2012,proposed,2012_proposed.csv.gz,4679,prior_appropriation,VR-05,Negative amount,WARN,amount -158322.0
+2012,proposed,2012_proposed.csv.gz,4679,prior_revised,VR-05,Negative amount,WARN,amount -158322.0
+2012,proposed,2012_proposed.csv.gz,4689,prior_appropriation,VR-05,Negative amount,WARN,amount -8171.0
+2012,proposed,2012_proposed.csv.gz,4689,prior_revised,VR-05,Negative amount,WARN,amount -8171.0
+2012,proposed,2012_proposed.csv.gz,4710,prior_appropriation,VR-05,Negative amount,WARN,amount -10608.0
+2012,proposed,2012_proposed.csv.gz,4710,prior_revised,VR-05,Negative amount,WARN,amount -10608.0
+2012,proposed,2012_proposed.csv.gz,4714,prior_appropriation,VR-05,Negative amount,WARN,amount -15602.0
+2012,proposed,2012_proposed.csv.gz,4714,prior_revised,VR-05,Negative amount,WARN,amount -15602.0
+2012,proposed,2012_proposed.csv.gz,4729,prior_appropriation,VR-05,Negative amount,WARN,amount -8728.0
+2012,proposed,2012_proposed.csv.gz,4729,prior_revised,VR-05,Negative amount,WARN,amount -8728.0
+2012,proposed,2012_proposed.csv.gz,4742,prior_appropriation,VR-05,Negative amount,WARN,amount -5821.0
+2012,proposed,2012_proposed.csv.gz,4742,prior_revised,VR-05,Negative amount,WARN,amount -5821.0
+2012,proposed,2012_proposed.csv.gz,4748,prior_appropriation,VR-05,Negative amount,WARN,amount -44228.0
+2012,proposed,2012_proposed.csv.gz,4748,prior_revised,VR-05,Negative amount,WARN,amount -44228.0
+2012,proposed,2012_proposed.csv.gz,4761,prior_appropriation,VR-05,Negative amount,WARN,amount -6785.0
+2012,proposed,2012_proposed.csv.gz,4761,prior_revised,VR-05,Negative amount,WARN,amount -6785.0
+2012,proposed,2012_proposed.csv.gz,4765,prior_appropriation,VR-05,Negative amount,WARN,amount -110130.0
+2012,proposed,2012_proposed.csv.gz,4765,prior_revised,VR-05,Negative amount,WARN,amount -110130.0
+2012,proposed,2012_proposed.csv.gz,4766,prior_appropriation,VR-05,Negative amount,WARN,amount -35243.0
+2012,proposed,2012_proposed.csv.gz,4766,prior_revised,VR-05,Negative amount,WARN,amount -35243.0
+2012,proposed,2012_proposed.csv.gz,4788,prior_appropriation,VR-05,Negative amount,WARN,amount -54086.0
+2012,proposed,2012_proposed.csv.gz,4788,prior_revised,VR-05,Negative amount,WARN,amount -54086.0
+2012,proposed,2012_proposed.csv.gz,4793,prior_appropriation,VR-05,Negative amount,WARN,amount -50335.0
+2012,proposed,2012_proposed.csv.gz,4793,prior_revised,VR-05,Negative amount,WARN,amount -50335.0
+2012,proposed,2012_proposed.csv.gz,4794,prior_appropriation,VR-05,Negative amount,WARN,amount -17621.0
+2012,proposed,2012_proposed.csv.gz,4794,prior_revised,VR-05,Negative amount,WARN,amount -17621.0
+2012,proposed,2012_proposed.csv.gz,4803,prior_appropriation,VR-05,Negative amount,WARN,amount -45480.0
+2012,proposed,2012_proposed.csv.gz,4803,prior_revised,VR-05,Negative amount,WARN,amount -45480.0
+2012,proposed,2012_proposed.csv.gz,4808,prior_appropriation,VR-05,Negative amount,WARN,amount -35243.0
+2012,proposed,2012_proposed.csv.gz,4808,prior_revised,VR-05,Negative amount,WARN,amount -35243.0
+2012,proposed,2012_proposed.csv.gz,4809,prior_appropriation,VR-05,Negative amount,WARN,amount -6785.0
+2012,proposed,2012_proposed.csv.gz,4809,prior_revised,VR-05,Negative amount,WARN,amount -6785.0
+2012,proposed,2012_proposed.csv.gz,4817,prior_appropriation,VR-05,Negative amount,WARN,amount -73259.0
+2012,proposed,2012_proposed.csv.gz,4817,prior_revised,VR-05,Negative amount,WARN,amount -73259.0
+2012,proposed,2012_proposed.csv.gz,4865,prior_appropriation,VR-05,Negative amount,WARN,amount -33338.0
+2012,proposed,2012_proposed.csv.gz,4865,prior_revised,VR-05,Negative amount,WARN,amount -33338.0
+2012,proposed,2012_proposed.csv.gz,4866,prior_appropriation,VR-05,Negative amount,WARN,amount -14459.0
+2012,proposed,2012_proposed.csv.gz,4866,prior_revised,VR-05,Negative amount,WARN,amount -14459.0
+2012,proposed,2012_proposed.csv.gz,4886,prior_appropriation,VR-05,Negative amount,WARN,amount -36766.0
+2012,proposed,2012_proposed.csv.gz,4886,prior_revised,VR-05,Negative amount,WARN,amount -36766.0
+2012,proposed,2012_proposed.csv.gz,4904,prior_appropriation,VR-05,Negative amount,WARN,amount -21194.0
+2012,proposed,2012_proposed.csv.gz,4904,prior_revised,VR-05,Negative amount,WARN,amount -21194.0
+2012,proposed,2012_proposed.csv.gz,4909,prior_appropriation,VR-05,Negative amount,WARN,amount -6411.0
+2012,proposed,2012_proposed.csv.gz,4909,prior_revised,VR-05,Negative amount,WARN,amount -6411.0
+2012,proposed,2012_proposed.csv.gz,4914,prior_appropriation,VR-05,Negative amount,WARN,amount -38325.0
+2012,proposed,2012_proposed.csv.gz,4914,prior_revised,VR-05,Negative amount,WARN,amount -38325.0
+2012,proposed,2012_proposed.csv.gz,4915,prior_appropriation,VR-05,Negative amount,WARN,amount -37443.0
+2012,proposed,2012_proposed.csv.gz,4915,prior_revised,VR-05,Negative amount,WARN,amount -37443.0
+2012,proposed,2012_proposed.csv.gz,4935,prior_appropriation,VR-05,Negative amount,WARN,amount -27255.0
+2012,proposed,2012_proposed.csv.gz,4935,prior_revised,VR-05,Negative amount,WARN,amount -27255.0
+2012,proposed,2012_proposed.csv.gz,4936,prior_appropriation,VR-05,Negative amount,WARN,amount -7230.0
+2012,proposed,2012_proposed.csv.gz,4936,prior_revised,VR-05,Negative amount,WARN,amount -7230.0
+2012,proposed,2012_proposed.csv.gz,4955,prior_appropriation,VR-05,Negative amount,WARN,amount -211145.0
+2012,proposed,2012_proposed.csv.gz,4955,prior_revised,VR-05,Negative amount,WARN,amount -211145.0
+2012,proposed,2012_proposed.csv.gz,4965,prior_appropriation,VR-05,Negative amount,WARN,amount -213684.0
+2012,proposed,2012_proposed.csv.gz,4965,prior_revised,VR-05,Negative amount,WARN,amount -213684.0
+2013,adopted,2013_adopted.csv.gz,2501,ordinance,VR-05,Negative amount,WARN,amount -1750000.0
+2013,adopted,2013_adopted.csv.gz,2503,ordinance,VR-05,Negative amount,WARN,amount -537000.0
+2013,proposed,2013_proposed.csv.gz,2710,recommendation,VR-05,Negative amount,WARN,amount -1750000.0
+2013,proposed,2013_proposed.csv.gz,2710,prior_appropriation,VR-05,Negative amount,WARN,amount -1750000.0
+2013,proposed,2013_proposed.csv.gz,2710,prior_revised,VR-05,Negative amount,WARN,amount -1750000.0
+2013,proposed,2013_proposed.csv.gz,2712,recommendation,VR-05,Negative amount,WARN,amount -537000.0
+2013,proposed,2013_proposed.csv.gz,2712,prior_appropriation,VR-05,Negative amount,WARN,amount -537000.0
+2013,proposed,2013_proposed.csv.gz,2712,prior_revised,VR-05,Negative amount,WARN,amount -537000.0
+2014,adopted,2014_adopted.csv.gz,3123,ordinance,VR-05,Negative amount,WARN,amount -1750000.0
+2014,adopted,2014_adopted.csv.gz,3125,ordinance,VR-05,Negative amount,WARN,amount -537000.0
+2014,proposed,2014_proposed.csv.gz,2625,recommendation,VR-05,Negative amount,WARN,amount -1750000.0
+2014,proposed,2014_proposed.csv.gz,2625,prior_appropriation,VR-05,Negative amount,WARN,amount -1750000.0
+2014,proposed,2014_proposed.csv.gz,2625,prior_revised,VR-05,Negative amount,WARN,amount -1750000.0
+2014,proposed,2014_proposed.csv.gz,2627,recommendation,VR-05,Negative amount,WARN,amount -537000.0
+2014,proposed,2014_proposed.csv.gz,2627,prior_appropriation,VR-05,Negative amount,WARN,amount -537000.0
+2014,proposed,2014_proposed.csv.gz,2627,prior_revised,VR-05,Negative amount,WARN,amount -537000.0
+2015,adopted,2015_adopted.csv.gz,2576,ordinance,VR-05,Negative amount,WARN,amount -1750000.0
+2015,adopted,2015_adopted.csv.gz,2578,ordinance,VR-05,Negative amount,WARN,amount -537000.0
+2015,proposed,2015_proposed.csv.gz,2920,recommendation,VR-05,Negative amount,WARN,amount -1750000.0
+2015,proposed,2015_proposed.csv.gz,2920,prior_appropriation,VR-05,Negative amount,WARN,amount -1750000.0
+2015,proposed,2015_proposed.csv.gz,2920,prior_revised,VR-05,Negative amount,WARN,amount -1750000.0
+2015,proposed,2015_proposed.csv.gz,2922,recommendation,VR-05,Negative amount,WARN,amount -537000.0
+2015,proposed,2015_proposed.csv.gz,2922,prior_appropriation,VR-05,Negative amount,WARN,amount -537000.0
+2015,proposed,2015_proposed.csv.gz,2922,prior_revised,VR-05,Negative amount,WARN,amount -537000.0
+2016,adopted,2016_adopted.csv.gz,3197,ordinance,VR-05,Negative amount,WARN,amount -1750000.0
+2016,adopted,2016_adopted.csv.gz,3199,ordinance,VR-05,Negative amount,WARN,amount -537000.0
+2016,proposed,2016_proposed.csv.gz,3193,recommendation,VR-05,Negative amount,WARN,amount -1750000.0
+2016,proposed,2016_proposed.csv.gz,3193,prior_appropriation,VR-05,Negative amount,WARN,amount -1750000.0
+2016,proposed,2016_proposed.csv.gz,3193,prior_revised,VR-05,Negative amount,WARN,amount -1750000.0
+2016,proposed,2016_proposed.csv.gz,3196,recommendation,VR-05,Negative amount,WARN,amount -537000.0
+2016,proposed,2016_proposed.csv.gz,3196,prior_appropriation,VR-05,Negative amount,WARN,amount -537000.0
+2016,proposed,2016_proposed.csv.gz,3196,prior_revised,VR-05,Negative amount,WARN,amount -537000.0
+2016,proposed,2016_proposed.csv.gz,3298,recommendation,VR-05,Negative amount,WARN,amount -319135.0
+2017,adopted,2017_adopted.csv.gz,2976,ordinance,VR-05,Negative amount,WARN,amount -1750000.0
+2017,adopted,2017_adopted.csv.gz,2978,ordinance,VR-05,Negative amount,WARN,amount -537000.0
+2017,proposed,2017_proposed.csv.gz,3715,recommendation,VR-05,Negative amount,WARN,amount -1750000.0
+2017,proposed,2017_proposed.csv.gz,3715,prior_appropriation,VR-05,Negative amount,WARN,amount -1750000.0
+2017,proposed,2017_proposed.csv.gz,3715,prior_revised,VR-05,Negative amount,WARN,amount -1750000.0
+2017,proposed,2017_proposed.csv.gz,3717,recommendation,VR-05,Negative amount,WARN,amount -537000.0
+2017,proposed,2017_proposed.csv.gz,3717,prior_appropriation,VR-05,Negative amount,WARN,amount -537000.0
+2017,proposed,2017_proposed.csv.gz,3717,prior_revised,VR-05,Negative amount,WARN,amount -537000.0
+2018,adopted,2018_adopted.csv.gz,2512,ordinance,VR-05,Negative amount,WARN,amount -507700.0
+2018,adopted,2018_adopted.csv.gz,3047,ordinance,VR-05,Negative amount,WARN,amount -1750000.0
+2018,adopted,2018_adopted.csv.gz,3049,ordinance,VR-05,Negative amount,WARN,amount -537000.0
+2018,adopted,2018_adopted.csv.gz,3073,ordinance,VR-05,Negative amount,WARN,amount -1479848.0
+2018,adopted,2018_adopted.csv.gz,3084,ordinance,VR-05,Negative amount,WARN,amount -2062737.0
+2018,adopted,2018_adopted.csv.gz,3189,ordinance,VR-05,Negative amount,WARN,amount -150000.0
+2018,proposed,2018_proposed.csv.gz,2612,recommendation,VR-05,Negative amount,WARN,amount -507700.0
+2018,proposed,2018_proposed.csv.gz,3497,recommendation,VR-05,Negative amount,WARN,amount -1750000.0
+2018,proposed,2018_proposed.csv.gz,3497,prior_appropriation,VR-05,Negative amount,WARN,amount -1750000.0
+2018,proposed,2018_proposed.csv.gz,3497,prior_revised,VR-05,Negative amount,WARN,amount -1750000.0
+2018,proposed,2018_proposed.csv.gz,3499,recommendation,VR-05,Negative amount,WARN,amount -537000.0
+2018,proposed,2018_proposed.csv.gz,3499,prior_appropriation,VR-05,Negative amount,WARN,amount -537000.0
+2018,proposed,2018_proposed.csv.gz,3499,prior_revised,VR-05,Negative amount,WARN,amount -537000.0
+2018,proposed,2018_proposed.csv.gz,3540,recommendation,VR-05,Negative amount,WARN,amount -1479848.0
+2018,proposed,2018_proposed.csv.gz,3561,recommendation,VR-05,Negative amount,WARN,amount -2062737.0
+2018,proposed,2018_proposed.csv.gz,3707,recommendation,VR-05,Negative amount,WARN,amount -150000.0
+2019,adopted,2019_adopted.csv.gz,416,ordinance,VR-05,Negative amount,WARN,amount -1750000.0
+2019,adopted,2019_adopted.csv.gz,1271,ordinance,VR-05,Negative amount,WARN,amount -537000.0
+2019,adopted,2019_adopted.csv.gz,2562,ordinance,VR-05,Negative amount,WARN,amount -15515.0
+2019,proposed,2019_proposed.csv.gz,2589,recommendation,VR-05,Negative amount,WARN,amount -15515.0
+2019,proposed,2019_proposed.csv.gz,2699,prior_appropriation,VR-05,Negative amount,WARN,amount -507700.0
+2019,proposed,2019_proposed.csv.gz,2699,prior_revised,VR-05,Negative amount,WARN,amount -507700.0
+2019,proposed,2019_proposed.csv.gz,3064,prior_appropriation,VR-05,Negative amount,WARN,amount -22974.0
+2019,proposed,2019_proposed.csv.gz,3064,prior_revised,VR-05,Negative amount,WARN,amount -22974.0
+2019,proposed,2019_proposed.csv.gz,3486,recommendation,VR-05,Negative amount,WARN,amount -1750000.0
+2019,proposed,2019_proposed.csv.gz,3486,prior_appropriation,VR-05,Negative amount,WARN,amount -1750000.0
+2019,proposed,2019_proposed.csv.gz,3486,prior_revised,VR-05,Negative amount,WARN,amount -1750000.0
+2019,proposed,2019_proposed.csv.gz,3488,recommendation,VR-05,Negative amount,WARN,amount -537000.0
+2019,proposed,2019_proposed.csv.gz,3488,prior_appropriation,VR-05,Negative amount,WARN,amount -537000.0
+2019,proposed,2019_proposed.csv.gz,3488,prior_revised,VR-05,Negative amount,WARN,amount -537000.0
+2019,proposed,2019_proposed.csv.gz,3500,prior_appropriation,VR-05,Negative amount,WARN,amount -1479848.0
+2019,proposed,2019_proposed.csv.gz,3500,prior_revised,VR-05,Negative amount,WARN,amount -1479848.0
+2019,proposed,2019_proposed.csv.gz,3514,prior_appropriation,VR-05,Negative amount,WARN,amount -2062737.0
+2019,proposed,2019_proposed.csv.gz,3514,prior_revised,VR-05,Negative amount,WARN,amount -2062737.0
+2020,proposed,2020_proposed.csv.gz,2656,prior_appropriation,VR-05,Negative amount,WARN,amount -15515.0
+2020,proposed,2020_proposed.csv.gz,2656,prior_revised,VR-05,Negative amount,WARN,amount -15515.0
+2020,proposed,2020_proposed.csv.gz,3154,prior_revised,VR-05,Negative amount,WARN,amount -27000.0
+2021,adopted,2021_adopted.csv.gz,2047,ordinance,VR-05,Negative amount,WARN,amount -1304868.0
+2021,adopted,2021_adopted.csv.gz,2077,ordinance,VR-05,Negative amount,WARN,amount -25000000.0
+2021,adopted,2021_adopted.csv.gz,2303,ordinance,VR-05,Negative amount,WARN,amount -144680.0
+2021,adopted,2021_adopted.csv.gz,2505,ordinance,VR-05,Negative amount,WARN,amount -100673.0
+2021,adopted,2021_adopted.csv.gz,2546,ordinance,VR-05,Negative amount,WARN,amount -14464.0
+2021,adopted,2021_adopted.csv.gz,2652,ordinance,VR-05,Negative amount,WARN,amount -34251.0
+2021,adopted,2021_adopted.csv.gz,2733,ordinance,VR-05,Negative amount,WARN,amount -44001.0
+2021,adopted,2021_adopted.csv.gz,2795,ordinance,VR-05,Negative amount,WARN,amount -21836.0
+2021,adopted,2021_adopted.csv.gz,2840,ordinance,VR-05,Negative amount,WARN,amount -33131.0
+2021,adopted,2021_adopted.csv.gz,3041,ordinance,VR-05,Negative amount,WARN,amount -27033.0
+2021,adopted,2021_adopted.csv.gz,3265,ordinance,VR-05,Negative amount,WARN,amount -199482.0
+2021,adopted,2021_adopted.csv.gz,3302,ordinance,VR-05,Negative amount,WARN,amount -4092.0
+2021,adopted,2021_adopted.csv.gz,3339,ordinance,VR-05,Negative amount,WARN,amount -46406.0
+2021,adopted,2021_adopted.csv.gz,3353,ordinance,VR-05,Negative amount,WARN,amount -30466.0
+2021,adopted,2021_adopted.csv.gz,3375,ordinance,VR-05,Negative amount,WARN,amount -12615.0
+2021,proposed,2021_proposed.csv.gz,2265,recommendation,VR-05,Negative amount,WARN,amount -15317435.0
+2021,proposed,2021_proposed.csv.gz,2299,recommendation,VR-05,Negative amount,WARN,amount -25000000.0
+2021,proposed,2021_proposed.csv.gz,2316,recommendation,VR-05,Negative amount,WARN,amount -3639265.0
+2021,proposed,2021_proposed.csv.gz,2354,recommendation,VR-05,Negative amount,WARN,amount -981899.0
+2021,proposed,2021_proposed.csv.gz,2372,recommendation,VR-05,Negative amount,WARN,amount -1919735.0
+2021,proposed,2021_proposed.csv.gz,2384,recommendation,VR-05,Negative amount,WARN,amount -552148.0
+2021,proposed,2021_proposed.csv.gz,2418,recommendation,VR-05,Negative amount,WARN,amount -413621.0
+2021,proposed,2021_proposed.csv.gz,2440,recommendation,VR-05,Negative amount,WARN,amount -52024.0
+2021,proposed,2021_proposed.csv.gz,2456,recommendation,VR-05,Negative amount,WARN,amount -229097.0
+2021,proposed,2021_proposed.csv.gz,2499,recommendation,VR-05,Negative amount,WARN,amount -539520.0
+2021,proposed,2021_proposed.csv.gz,2541,recommendation,VR-05,Negative amount,WARN,amount -1825008.0
+2021,proposed,2021_proposed.csv.gz,2572,recommendation,VR-05,Negative amount,WARN,amount -23630.0
+2021,proposed,2021_proposed.csv.gz,2585,recommendation,VR-05,Negative amount,WARN,amount -214640.0
+2021,proposed,2021_proposed.csv.gz,2594,recommendation,VR-05,Negative amount,WARN,amount -688551.0
+2021,proposed,2021_proposed.csv.gz,2605,recommendation,VR-05,Negative amount,WARN,amount -12615.0
+2022,proposed,2022_proposed.csv.gz,2221,prior_appropriation,VR-05,Negative amount,WARN,amount -1304868.0
+2022,proposed,2022_proposed.csv.gz,2221,prior_revised,VR-05,Negative amount,WARN,amount -1304868.0
+2022,proposed,2022_proposed.csv.gz,2257,prior_appropriation,VR-05,Negative amount,WARN,amount -25000000.0
+2022,proposed,2022_proposed.csv.gz,2257,prior_revised,VR-05,Negative amount,WARN,amount -25000000.0
+2022,proposed,2022_proposed.csv.gz,2276,prior_appropriation,VR-05,Negative amount,WARN,amount -144680.0
+2022,proposed,2022_proposed.csv.gz,2276,prior_revised,VR-05,Negative amount,WARN,amount -144680.0
+2022,proposed,2022_proposed.csv.gz,2316,prior_appropriation,VR-05,Negative amount,WARN,amount -100673.0
+2022,proposed,2022_proposed.csv.gz,2316,prior_revised,VR-05,Negative amount,WARN,amount -100673.0
+2022,proposed,2022_proposed.csv.gz,2335,prior_appropriation,VR-05,Negative amount,WARN,amount -14464.0
+2022,proposed,2022_proposed.csv.gz,2335,prior_revised,VR-05,Negative amount,WARN,amount -14464.0
+2022,proposed,2022_proposed.csv.gz,2346,prior_appropriation,VR-05,Negative amount,WARN,amount -34251.0
+2022,proposed,2022_proposed.csv.gz,2346,prior_revised,VR-05,Negative amount,WARN,amount -34251.0
+2022,proposed,2022_proposed.csv.gz,2381,prior_appropriation,VR-05,Negative amount,WARN,amount -44001.0
+2022,proposed,2022_proposed.csv.gz,2381,prior_revised,VR-05,Negative amount,WARN,amount -44001.0
+2022,proposed,2022_proposed.csv.gz,2404,prior_appropriation,VR-05,Negative amount,WARN,amount -21836.0
+2022,proposed,2022_proposed.csv.gz,2404,prior_revised,VR-05,Negative amount,WARN,amount -21836.0
+2022,proposed,2022_proposed.csv.gz,2421,prior_appropriation,VR-05,Negative amount,WARN,amount -33131.0
+2022,proposed,2022_proposed.csv.gz,2421,prior_revised,VR-05,Negative amount,WARN,amount -33131.0
+2022,proposed,2022_proposed.csv.gz,2461,prior_appropriation,VR-05,Negative amount,WARN,amount -27033.0
+2022,proposed,2022_proposed.csv.gz,2461,prior_revised,VR-05,Negative amount,WARN,amount -27033.0
+2022,proposed,2022_proposed.csv.gz,2504,prior_appropriation,VR-05,Negative amount,WARN,amount -199482.0
+2022,proposed,2022_proposed.csv.gz,2504,prior_revised,VR-05,Negative amount,WARN,amount -199482.0
+2022,proposed,2022_proposed.csv.gz,2537,prior_appropriation,VR-05,Negative amount,WARN,amount -4092.0
+2022,proposed,2022_proposed.csv.gz,2537,prior_revised,VR-05,Negative amount,WARN,amount -4092.0
+2022,proposed,2022_proposed.csv.gz,2551,prior_appropriation,VR-05,Negative amount,WARN,amount -46406.0
+2022,proposed,2022_proposed.csv.gz,2551,prior_revised,VR-05,Negative amount,WARN,amount -46406.0
+2022,proposed,2022_proposed.csv.gz,2560,prior_appropriation,VR-05,Negative amount,WARN,amount -30466.0
+2022,proposed,2022_proposed.csv.gz,2560,prior_revised,VR-05,Negative amount,WARN,amount -30466.0
+2022,proposed,2022_proposed.csv.gz,2572,prior_appropriation,VR-05,Negative amount,WARN,amount -12615.0
+2022,proposed,2022_proposed.csv.gz,2572,prior_revised,VR-05,Negative amount,WARN,amount -12615.0
+2025,adopted,2025_adopted.csv.gz,1463,ordinance,VR-05,Negative amount,WARN,amount -74000000.0
+2025,adopted,2025_adopted.csv.gz,2344,ordinance,VR-05,Negative amount,WARN,amount -18521799.0
+2025,adopted,2025_adopted.csv.gz,2852,ordinance,VR-05,Negative amount,WARN,amount -481825.0
+2025,adopted,2025_adopted.csv.gz,3008,ordinance,VR-05,Negative amount,WARN,amount -59199.0
+2025,adopted,2025_adopted.csv.gz,3025,ordinance,VR-05,Negative amount,WARN,amount -5295.0
+2025,adopted,2025_adopted.csv.gz,3046,ordinance,VR-05,Negative amount,WARN,amount -1953.0
+2025,adopted,2025_adopted.csv.gz,3055,ordinance,VR-05,Negative amount,WARN,amount -42186.0
+2025,adopted,2025_adopted.csv.gz,3114,ordinance,VR-05,Negative amount,WARN,amount -32862.0
+2025,adopted,2025_adopted.csv.gz,3123,ordinance,VR-05,Negative amount,WARN,amount -51789.0
+2025,adopted,2025_adopted.csv.gz,3175,ordinance,VR-05,Negative amount,WARN,amount -16062.0
+2025,proposed,2025_proposed.csv.gz,2809,prior_appropriation,VR-05,Negative amount,WARN,amount -632996.0
+2025,proposed,2025_proposed.csv.gz,2809,prior_revised,VR-05,Negative amount,WARN,amount -632996.0
+2025,proposed,2025_proposed.csv.gz,2824,prior_appropriation,VR-05,Negative amount,WARN,amount -991710.0
+2025,proposed,2025_proposed.csv.gz,2824,prior_revised,VR-05,Negative amount,WARN,amount -991710.0
+2025,proposed,2025_proposed.csv.gz,2826,prior_appropriation,VR-05,Negative amount,WARN,amount -137051.0
+2025,proposed,2025_proposed.csv.gz,2826,prior_revised,VR-05,Negative amount,WARN,amount -137051.0
+2025,proposed,2025_proposed.csv.gz,2847,prior_appropriation,VR-05,Negative amount,WARN,amount -3831772.0
+2025,proposed,2025_proposed.csv.gz,2847,prior_revised,VR-05,Negative amount,WARN,amount -3831772.0
+2025,proposed,2025_proposed.csv.gz,2920,prior_appropriation,VR-05,Negative amount,WARN,amount -514098.0
+2025,proposed,2025_proposed.csv.gz,2920,prior_revised,VR-05,Negative amount,WARN,amount -514098.0
+2025,proposed,2025_proposed.csv.gz,2928,prior_appropriation,VR-05,Negative amount,WARN,amount -413.0
+2025,proposed,2025_proposed.csv.gz,2928,prior_revised,VR-05,Negative amount,WARN,amount -413.0
+2025,proposed,2025_proposed.csv.gz,2930,prior_appropriation,VR-05,Negative amount,WARN,amount -360388.0
+2025,proposed,2025_proposed.csv.gz,2930,prior_revised,VR-05,Negative amount,WARN,amount -360388.0
+2025,proposed,2025_proposed.csv.gz,2984,prior_appropriation,VR-05,Negative amount,WARN,amount -6019124.0
+2025,proposed,2025_proposed.csv.gz,2984,prior_revised,VR-05,Negative amount,WARN,amount -6019124.0
+2025,proposed,2025_proposed.csv.gz,3008,prior_appropriation,VR-05,Negative amount,WARN,amount -1095000.0
+2025,proposed,2025_proposed.csv.gz,3008,prior_revised,VR-05,Negative amount,WARN,amount -1095000.0
+2025,proposed,2025_proposed.csv.gz,3071,prior_appropriation,VR-05,Negative amount,WARN,amount -652000.0
+2025,proposed,2025_proposed.csv.gz,3071,prior_revised,VR-05,Negative amount,WARN,amount -652000.0
+2025,proposed,2025_proposed.csv.gz,3074,recommendation,VR-05,Negative amount,WARN,amount -481825.0
+2025,proposed,2025_proposed.csv.gz,3078,prior_appropriation,VR-05,Negative amount,WARN,amount -2985872.0
+2025,proposed,2025_proposed.csv.gz,3078,prior_revised,VR-05,Negative amount,WARN,amount -2985872.0
+2025,proposed,2025_proposed.csv.gz,3173,prior_appropriation,VR-05,Negative amount,WARN,amount -50000.0
+2025,proposed,2025_proposed.csv.gz,3173,prior_revised,VR-05,Negative amount,WARN,amount -50000.0
+2025,proposed,2025_proposed.csv.gz,3218,prior_appropriation,VR-05,Negative amount,WARN,amount -3330947.0
+2025,proposed,2025_proposed.csv.gz,3218,prior_revised,VR-05,Negative amount,WARN,amount -3330947.0
+2025,proposed,2025_proposed.csv.gz,3279,prior_appropriation,VR-05,Negative amount,WARN,amount -111663.0
+2025,proposed,2025_proposed.csv.gz,3279,prior_revised,VR-05,Negative amount,WARN,amount -111663.0
+2025,proposed,2025_proposed.csv.gz,3298,prior_appropriation,VR-05,Negative amount,WARN,amount -191000.0
+2025,proposed,2025_proposed.csv.gz,3298,prior_revised,VR-05,Negative amount,WARN,amount -191000.0
+2025,proposed,2025_proposed.csv.gz,3329,recommendation,VR-05,Negative amount,WARN,amount -59199.0
+2025,proposed,2025_proposed.csv.gz,3332,prior_appropriation,VR-05,Negative amount,WARN,amount -2662074.0
+2025,proposed,2025_proposed.csv.gz,3332,prior_revised,VR-05,Negative amount,WARN,amount -2662074.0
+2025,proposed,2025_proposed.csv.gz,3349,recommendation,VR-05,Negative amount,WARN,amount -5295.0
+2025,proposed,2025_proposed.csv.gz,3365,prior_appropriation,VR-05,Negative amount,WARN,amount -509000.0
+2025,proposed,2025_proposed.csv.gz,3365,prior_revised,VR-05,Negative amount,WARN,amount -509000.0
+2025,proposed,2025_proposed.csv.gz,3372,recommendation,VR-05,Negative amount,WARN,amount -1953.0
+2025,proposed,2025_proposed.csv.gz,3383,recommendation,VR-05,Negative amount,WARN,amount -42186.0
+2025,proposed,2025_proposed.csv.gz,3407,prior_appropriation,VR-05,Negative amount,WARN,amount -321000.0
+2025,proposed,2025_proposed.csv.gz,3407,prior_revised,VR-05,Negative amount,WARN,amount -321000.0
+2025,proposed,2025_proposed.csv.gz,3418,prior_appropriation,VR-05,Negative amount,WARN,amount -59000.0
+2025,proposed,2025_proposed.csv.gz,3418,prior_revised,VR-05,Negative amount,WARN,amount -59000.0
+2025,proposed,2025_proposed.csv.gz,3423,prior_appropriation,VR-05,Negative amount,WARN,amount -158303.0
+2025,proposed,2025_proposed.csv.gz,3423,prior_revised,VR-05,Negative amount,WARN,amount -158303.0
+2025,proposed,2025_proposed.csv.gz,3456,recommendation,VR-05,Negative amount,WARN,amount -32862.0
+2025,proposed,2025_proposed.csv.gz,3465,recommendation,VR-05,Negative amount,WARN,amount -51789.0
+2025,proposed,2025_proposed.csv.gz,3474,prior_appropriation,VR-05,Negative amount,WARN,amount -315000.0
+2025,proposed,2025_proposed.csv.gz,3474,prior_revised,VR-05,Negative amount,WARN,amount -315000.0
+2025,proposed,2025_proposed.csv.gz,3496,prior_appropriation,VR-05,Negative amount,WARN,amount -26000000.0
+2025,proposed,2025_proposed.csv.gz,3496,prior_revised,VR-05,Negative amount,WARN,amount -26000000.0
+2025,proposed,2025_proposed.csv.gz,3501,prior_appropriation,VR-05,Negative amount,WARN,amount -24640151.0
+2025,proposed,2025_proposed.csv.gz,3501,prior_revised,VR-05,Negative amount,WARN,amount -24640151.0
+2025,proposed,2025_proposed.csv.gz,3521,prior_appropriation,VR-05,Negative amount,WARN,amount -850000.0
+2025,proposed,2025_proposed.csv.gz,3521,prior_revised,VR-05,Negative amount,WARN,amount -850000.0
+2025,proposed,2025_proposed.csv.gz,3536,prior_appropriation,VR-05,Negative amount,WARN,amount -1600000.0
+2025,proposed,2025_proposed.csv.gz,3536,prior_revised,VR-05,Negative amount,WARN,amount -1600000.0
+2025,proposed,2025_proposed.csv.gz,3556,recommendation,VR-05,Negative amount,WARN,amount -16062.0
+2025,proposed,2025_proposed.csv.gz,3679,prior_appropriation,VR-05,Negative amount,WARN,amount -330000.0
+2025,proposed,2025_proposed.csv.gz,3679,prior_revised,VR-05,Negative amount,WARN,amount -330000.0
+2025,proposed,2025_proposed.csv.gz,3697,prior_appropriation,VR-05,Negative amount,WARN,amount -6880000.0
+2025,proposed,2025_proposed.csv.gz,3697,prior_revised,VR-05,Negative amount,WARN,amount -6880000.0
+2025,proposed,2025_proposed.csv.gz,3710,prior_appropriation,VR-05,Negative amount,WARN,amount -142500.0
+2025,proposed,2025_proposed.csv.gz,3710,prior_revised,VR-05,Negative amount,WARN,amount -142500.0
+2025,proposed,2025_proposed.csv.gz,3736,prior_appropriation,VR-05,Negative amount,WARN,amount -1500000.0
+2025,proposed,2025_proposed.csv.gz,3736,prior_revised,VR-05,Negative amount,WARN,amount -1500000.0
+2025,proposed,2025_proposed.csv.gz,3795,prior_appropriation,VR-05,Negative amount,WARN,amount -221179.0
+2025,proposed,2025_proposed.csv.gz,3795,prior_revised,VR-05,Negative amount,WARN,amount -221179.0
+2025,proposed,2025_proposed.csv.gz,3824,prior_appropriation,VR-05,Negative amount,WARN,amount -463086.0
+2025,proposed,2025_proposed.csv.gz,3824,prior_revised,VR-05,Negative amount,WARN,amount -463086.0
+2025,proposed,2025_proposed.csv.gz,3833,prior_appropriation,VR-05,Negative amount,WARN,amount -588882.0
+2025,proposed,2025_proposed.csv.gz,3833,prior_revised,VR-05,Negative amount,WARN,amount -588882.0
+2025,proposed,2025_proposed.csv.gz,3840,prior_appropriation,VR-05,Negative amount,WARN,amount -891975.0
+2025,proposed,2025_proposed.csv.gz,3840,prior_revised,VR-05,Negative amount,WARN,amount -891975.0
+2025,proposed,2025_proposed.csv.gz,3842,prior_appropriation,VR-05,Negative amount,WARN,amount -510000.0
+2025,proposed,2025_proposed.csv.gz,3842,prior_revised,VR-05,Negative amount,WARN,amount -510000.0
+2025,proposed,2025_proposed.csv.gz,3847,prior_appropriation,VR-05,Negative amount,WARN,amount -185179.0
+2025,proposed,2025_proposed.csv.gz,3847,prior_revised,VR-05,Negative amount,WARN,amount -185179.0
+2025,proposed,2025_proposed.csv.gz,3852,prior_appropriation,VR-05,Negative amount,WARN,amount -3490796.0
+2025,proposed,2025_proposed.csv.gz,3852,prior_revised,VR-05,Negative amount,WARN,amount -3490796.0
+2025,proposed,2025_proposed.csv.gz,3863,prior_appropriation,VR-05,Negative amount,WARN,amount -521444.0
+2025,proposed,2025_proposed.csv.gz,3863,prior_revised,VR-05,Negative amount,WARN,amount -521444.0
+2025,proposed,2025_proposed.csv.gz,3872,prior_appropriation,VR-05,Negative amount,WARN,amount -1830738.0
+2025,proposed,2025_proposed.csv.gz,3872,prior_revised,VR-05,Negative amount,WARN,amount -1830738.0
+2025,proposed,2025_proposed.csv.gz,3881,prior_appropriation,VR-05,Negative amount,WARN,amount -3342296.0
+2025,proposed,2025_proposed.csv.gz,3881,prior_revised,VR-05,Negative amount,WARN,amount -3342296.0
+2025,proposed,2025_proposed.csv.gz,3889,prior_appropriation,VR-05,Negative amount,WARN,amount -327389.0
+2025,proposed,2025_proposed.csv.gz,3889,prior_revised,VR-05,Negative amount,WARN,amount -327389.0
+2025,proposed,2025_proposed.csv.gz,3899,prior_appropriation,VR-05,Negative amount,WARN,amount -495593.0
+2025,proposed,2025_proposed.csv.gz,3899,prior_revised,VR-05,Negative amount,WARN,amount -495593.0
+2025,proposed,2025_proposed.csv.gz,3910,prior_appropriation,VR-05,Negative amount,WARN,amount -343407.0
+2025,proposed,2025_proposed.csv.gz,3910,prior_revised,VR-05,Negative amount,WARN,amount -343407.0
+2025,proposed,2025_proposed.csv.gz,3916,prior_appropriation,VR-05,Negative amount,WARN,amount -578990.0
+2025,proposed,2025_proposed.csv.gz,3916,prior_revised,VR-05,Negative amount,WARN,amount -578990.0
+2025,proposed,2025_proposed.csv.gz,3931,prior_appropriation,VR-05,Negative amount,WARN,amount -139024.0
+2025,proposed,2025_proposed.csv.gz,3931,prior_revised,VR-05,Negative amount,WARN,amount -139024.0
+2025,proposed,2025_proposed.csv.gz,3944,prior_appropriation,VR-05,Negative amount,WARN,amount -112223.0
+2025,proposed,2025_proposed.csv.gz,3944,prior_revised,VR-05,Negative amount,WARN,amount -112223.0
+2025,proposed,2025_proposed.csv.gz,3955,prior_appropriation,VR-05,Negative amount,WARN,amount -2788270.0
+2025,proposed,2025_proposed.csv.gz,3955,prior_revised,VR-05,Negative amount,WARN,amount -2788270.0
+2025,proposed,2025_proposed.csv.gz,3961,prior_appropriation,VR-05,Negative amount,WARN,amount -1215275.0
+2025,proposed,2025_proposed.csv.gz,3961,prior_revised,VR-05,Negative amount,WARN,amount -1215275.0
+2025,proposed,2025_proposed.csv.gz,3966,prior_appropriation,VR-05,Negative amount,WARN,amount -541196.0
+2025,proposed,2025_proposed.csv.gz,3966,prior_revised,VR-05,Negative amount,WARN,amount -541196.0
+2025,proposed,2025_proposed.csv.gz,3974,prior_appropriation,VR-05,Negative amount,WARN,amount -809613.0
+2025,proposed,2025_proposed.csv.gz,3974,prior_revised,VR-05,Negative amount,WARN,amount -809613.0
+2025,proposed,2025_proposed.csv.gz,3979,prior_appropriation,VR-05,Negative amount,WARN,amount -778314.0
+2025,proposed,2025_proposed.csv.gz,3979,prior_revised,VR-05,Negative amount,WARN,amount -778314.0
+2025,proposed,2025_proposed.csv.gz,3982,prior_appropriation,VR-05,Negative amount,WARN,amount -5750000.0
+2025,proposed,2025_proposed.csv.gz,3982,prior_revised,VR-05,Negative amount,WARN,amount -5750000.0
+2026,adopted,2026_adopted.csv.gz,1051,ordinance,VR-05,Negative amount,WARN,amount -3085466.0
+2026,adopted,2026_adopted.csv.gz,2313,ordinance,VR-05,Negative amount,WARN,amount -56600000.0
+2026,proposed,2026_proposed.csv.gz,634,recommendation,VR-05,Negative amount,WARN,amount -3085466.0
+2026,proposed,2026_proposed.csv.gz,865,prior_appropriation,VR-05,Negative amount,WARN,amount -74000000.0
+2026,proposed,2026_proposed.csv.gz,865,prior_revised,VR-05,Negative amount,WARN,amount -74000000.0
+2026,proposed,2026_proposed.csv.gz,1289,recommendation,VR-05,Negative amount,WARN,amount -10000000.0
+2026,proposed,2026_proposed.csv.gz,1289,prior_appropriation,VR-05,Negative amount,WARN,amount -18521799.0
+2026,proposed,2026_proposed.csv.gz,1289,prior_revised,VR-05,Negative amount,WARN,amount -18521799.0
+2026,proposed,2026_proposed.csv.gz,2790,prior_appropriation,VR-05,Negative amount,WARN,amount -2000000.0
+2026,proposed,2026_proposed.csv.gz,2790,prior_revised,VR-05,Negative amount,WARN,amount -2000000.0
+2026,proposed,2026_proposed.csv.gz,2818,prior_appropriation,VR-05,Negative amount,WARN,amount -1337000.0
+2026,proposed,2026_proposed.csv.gz,2818,prior_revised,VR-05,Negative amount,WARN,amount -1337000.0
+2026,proposed,2026_proposed.csv.gz,2869,prior_appropriation,VR-05,Negative amount,WARN,amount -983000.0
+2026,proposed,2026_proposed.csv.gz,2869,prior_revised,VR-05,Negative amount,WARN,amount -983000.0
+2026,proposed,2026_proposed.csv.gz,2887,prior_appropriation,VR-05,Negative amount,WARN,amount -3493000.0
+2026,proposed,2026_proposed.csv.gz,2887,prior_revised,VR-05,Negative amount,WARN,amount -3493000.0
+2026,proposed,2026_proposed.csv.gz,2900,prior_appropriation,VR-05,Negative amount,WARN,amount -1049000.0
+2026,proposed,2026_proposed.csv.gz,2900,prior_revised,VR-05,Negative amount,WARN,amount -1049000.0
+2026,proposed,2026_proposed.csv.gz,2957,prior_appropriation,VR-05,Negative amount,WARN,amount -654200.0
+2026,proposed,2026_proposed.csv.gz,2957,prior_revised,VR-05,Negative amount,WARN,amount -654200.0
+2026,proposed,2026_proposed.csv.gz,3029,prior_appropriation,VR-05,Negative amount,WARN,amount -2040000.0
+2026,proposed,2026_proposed.csv.gz,3029,prior_revised,VR-05,Negative amount,WARN,amount -2040000.0
+2026,proposed,2026_proposed.csv.gz,3036,prior_appropriation,VR-05,Negative amount,WARN,amount -17000.0
+2026,proposed,2026_proposed.csv.gz,3036,prior_revised,VR-05,Negative amount,WARN,amount -17000.0
+2026,proposed,2026_proposed.csv.gz,3039,prior_appropriation,VR-05,Negative amount,WARN,amount -33000.0
+2026,proposed,2026_proposed.csv.gz,3039,prior_revised,VR-05,Negative amount,WARN,amount -33000.0
+2026,proposed,2026_proposed.csv.gz,3045,prior_appropriation,VR-05,Negative amount,WARN,amount -385000.0
+2026,proposed,2026_proposed.csv.gz,3045,prior_revised,VR-05,Negative amount,WARN,amount -385000.0
+2026,proposed,2026_proposed.csv.gz,3055,prior_appropriation,VR-05,Negative amount,WARN,amount -7569047.0
+2026,proposed,2026_proposed.csv.gz,3055,prior_revised,VR-05,Negative amount,WARN,amount -7569047.0
+2026,proposed,2026_proposed.csv.gz,3062,prior_appropriation,VR-05,Negative amount,WARN,amount -1707000.0
+2026,proposed,2026_proposed.csv.gz,3062,prior_revised,VR-05,Negative amount,WARN,amount -1707000.0
+2026,proposed,2026_proposed.csv.gz,3067,prior_appropriation,VR-05,Negative amount,WARN,amount -37797023.0
+2026,proposed,2026_proposed.csv.gz,3067,prior_revised,VR-05,Negative amount,WARN,amount -37797023.0
+2026,proposed,2026_proposed.csv.gz,3076,prior_appropriation,VR-05,Negative amount,WARN,amount -6151000.0
+2026,proposed,2026_proposed.csv.gz,3076,prior_revised,VR-05,Negative amount,WARN,amount -6151000.0
+2026,proposed,2026_proposed.csv.gz,3083,prior_appropriation,VR-05,Negative amount,WARN,amount -729000.0
+2026,proposed,2026_proposed.csv.gz,3083,prior_revised,VR-05,Negative amount,WARN,amount -729000.0
+2026,proposed,2026_proposed.csv.gz,3091,prior_appropriation,VR-05,Negative amount,WARN,amount -105000.0
+2026,proposed,2026_proposed.csv.gz,3091,prior_revised,VR-05,Negative amount,WARN,amount -105000.0
+2026,proposed,2026_proposed.csv.gz,3098,prior_appropriation,VR-05,Negative amount,WARN,amount -22184000.0
+2026,proposed,2026_proposed.csv.gz,3098,prior_revised,VR-05,Negative amount,WARN,amount -22184000.0
+2026,proposed,2026_proposed.csv.gz,3111,prior_appropriation,VR-05,Negative amount,WARN,amount -4725627.0
+2026,proposed,2026_proposed.csv.gz,3111,prior_revised,VR-05,Negative amount,WARN,amount -4725627.0
+2026,proposed,2026_proposed.csv.gz,3122,prior_appropriation,VR-05,Negative amount,WARN,amount -9066243.0
+2026,proposed,2026_proposed.csv.gz,3122,prior_revised,VR-05,Negative amount,WARN,amount -9066243.0
+2026,proposed,2026_proposed.csv.gz,3130,prior_appropriation,VR-05,Negative amount,WARN,amount -481825.0
+2026,proposed,2026_proposed.csv.gz,3130,prior_revised,VR-05,Negative amount,WARN,amount -481825.0
+2026,proposed,2026_proposed.csv.gz,3142,prior_appropriation,VR-05,Negative amount,WARN,amount -989537.0
+2026,proposed,2026_proposed.csv.gz,3142,prior_revised,VR-05,Negative amount,WARN,amount -989537.0
+2026,proposed,2026_proposed.csv.gz,3152,prior_appropriation,VR-05,Negative amount,WARN,amount -12879686.0
+2026,proposed,2026_proposed.csv.gz,3152,prior_revised,VR-05,Negative amount,WARN,amount -12879686.0
+2026,proposed,2026_proposed.csv.gz,3160,prior_appropriation,VR-05,Negative amount,WARN,amount -546124.0
+2026,proposed,2026_proposed.csv.gz,3160,prior_revised,VR-05,Negative amount,WARN,amount -546124.0
+2026,proposed,2026_proposed.csv.gz,3166,prior_appropriation,VR-05,Negative amount,WARN,amount -412000.0
+2026,proposed,2026_proposed.csv.gz,3166,prior_revised,VR-05,Negative amount,WARN,amount -412000.0
+2026,proposed,2026_proposed.csv.gz,3182,prior_appropriation,VR-05,Negative amount,WARN,amount -3260743.0
+2026,proposed,2026_proposed.csv.gz,3182,prior_revised,VR-05,Negative amount,WARN,amount -3260743.0
+2026,proposed,2026_proposed.csv.gz,3187,prior_appropriation,VR-05,Negative amount,WARN,amount -1092534.0
+2026,proposed,2026_proposed.csv.gz,3187,prior_revised,VR-05,Negative amount,WARN,amount -1092534.0
+2026,proposed,2026_proposed.csv.gz,3195,prior_appropriation,VR-05,Negative amount,WARN,amount -6492000.0
+2026,proposed,2026_proposed.csv.gz,3195,prior_revised,VR-05,Negative amount,WARN,amount -6492000.0
+2026,proposed,2026_proposed.csv.gz,3212,prior_appropriation,VR-05,Negative amount,WARN,amount -264000.0
+2026,proposed,2026_proposed.csv.gz,3212,prior_revised,VR-05,Negative amount,WARN,amount -264000.0
+2026,proposed,2026_proposed.csv.gz,3216,prior_appropriation,VR-05,Negative amount,WARN,amount -211625.0
+2026,proposed,2026_proposed.csv.gz,3216,prior_revised,VR-05,Negative amount,WARN,amount -211625.0
+2026,proposed,2026_proposed.csv.gz,3225,prior_appropriation,VR-05,Negative amount,WARN,amount -2056000.0
+2026,proposed,2026_proposed.csv.gz,3225,prior_revised,VR-05,Negative amount,WARN,amount -2056000.0
+2026,proposed,2026_proposed.csv.gz,3232,prior_appropriation,VR-05,Negative amount,WARN,amount -176600.0
+2026,proposed,2026_proposed.csv.gz,3232,prior_revised,VR-05,Negative amount,WARN,amount -176600.0
+2026,proposed,2026_proposed.csv.gz,3239,prior_appropriation,VR-05,Negative amount,WARN,amount -253313.0
+2026,proposed,2026_proposed.csv.gz,3239,prior_revised,VR-05,Negative amount,WARN,amount -253313.0
+2026,proposed,2026_proposed.csv.gz,3247,prior_appropriation,VR-05,Negative amount,WARN,amount -59199.0
+2026,proposed,2026_proposed.csv.gz,3247,prior_revised,VR-05,Negative amount,WARN,amount -59199.0
+2026,proposed,2026_proposed.csv.gz,3250,prior_appropriation,VR-05,Negative amount,WARN,amount -3568074.0
+2026,proposed,2026_proposed.csv.gz,3250,prior_revised,VR-05,Negative amount,WARN,amount -3568074.0
+2026,proposed,2026_proposed.csv.gz,3270,prior_appropriation,VR-05,Negative amount,WARN,amount -5295.0
+2026,proposed,2026_proposed.csv.gz,3270,prior_revised,VR-05,Negative amount,WARN,amount -5295.0
+2026,proposed,2026_proposed.csv.gz,3272,prior_appropriation,VR-05,Negative amount,WARN,amount -217935.0
+2026,proposed,2026_proposed.csv.gz,3272,prior_revised,VR-05,Negative amount,WARN,amount -217935.0
+2026,proposed,2026_proposed.csv.gz,3278,prior_appropriation,VR-05,Negative amount,WARN,amount -20307307.0
+2026,proposed,2026_proposed.csv.gz,3278,prior_revised,VR-05,Negative amount,WARN,amount -20307307.0
+2026,proposed,2026_proposed.csv.gz,3283,prior_appropriation,VR-05,Negative amount,WARN,amount -163387.0
+2026,proposed,2026_proposed.csv.gz,3283,prior_revised,VR-05,Negative amount,WARN,amount -163387.0
+2026,proposed,2026_proposed.csv.gz,3286,prior_appropriation,VR-05,Negative amount,WARN,amount -1953.0
+2026,proposed,2026_proposed.csv.gz,3286,prior_revised,VR-05,Negative amount,WARN,amount -1953.0
+2026,proposed,2026_proposed.csv.gz,3289,prior_appropriation,VR-05,Negative amount,WARN,amount -24890519.0
+2026,proposed,2026_proposed.csv.gz,3289,prior_revised,VR-05,Negative amount,WARN,amount -24890519.0
+2026,proposed,2026_proposed.csv.gz,3296,prior_appropriation,VR-05,Negative amount,WARN,amount -42186.0
+2026,proposed,2026_proposed.csv.gz,3296,prior_revised,VR-05,Negative amount,WARN,amount -42186.0
+2026,proposed,2026_proposed.csv.gz,3299,prior_appropriation,VR-05,Negative amount,WARN,amount -1297097.0
+2026,proposed,2026_proposed.csv.gz,3299,prior_revised,VR-05,Negative amount,WARN,amount -1297097.0
+2026,proposed,2026_proposed.csv.gz,3331,prior_appropriation,VR-05,Negative amount,WARN,amount -2018029.0
+2026,proposed,2026_proposed.csv.gz,3331,prior_revised,VR-05,Negative amount,WARN,amount -2018029.0
+2026,proposed,2026_proposed.csv.gz,3338,prior_appropriation,VR-05,Negative amount,WARN,amount -500000.0
+2026,proposed,2026_proposed.csv.gz,3338,prior_revised,VR-05,Negative amount,WARN,amount -500000.0
+2026,proposed,2026_proposed.csv.gz,3356,prior_appropriation,VR-05,Negative amount,WARN,amount -636000.0
+2026,proposed,2026_proposed.csv.gz,3356,prior_revised,VR-05,Negative amount,WARN,amount -636000.0
+2026,proposed,2026_proposed.csv.gz,3358,prior_appropriation,VR-05,Negative amount,WARN,amount -10000.0
+2026,proposed,2026_proposed.csv.gz,3358,prior_revised,VR-05,Negative amount,WARN,amount -10000.0
+2026,proposed,2026_proposed.csv.gz,3361,prior_appropriation,VR-05,Negative amount,WARN,amount -16062.0
+2026,proposed,2026_proposed.csv.gz,3361,prior_revised,VR-05,Negative amount,WARN,amount -16062.0
+2026,proposed,2026_proposed.csv.gz,3364,prior_appropriation,VR-05,Negative amount,WARN,amount -100000.0
+2026,proposed,2026_proposed.csv.gz,3364,prior_revised,VR-05,Negative amount,WARN,amount -100000.0
+2026,proposed,2026_proposed.csv.gz,3366,prior_appropriation,VR-05,Negative amount,WARN,amount -357000.0
+2026,proposed,2026_proposed.csv.gz,3366,prior_revised,VR-05,Negative amount,WARN,amount -357000.0
+2026,proposed,2026_proposed.csv.gz,3373,prior_appropriation,VR-05,Negative amount,WARN,amount -11475000.0
+2026,proposed,2026_proposed.csv.gz,3373,prior_revised,VR-05,Negative amount,WARN,amount -11475000.0
+2026,proposed,2026_proposed.csv.gz,3378,prior_appropriation,VR-05,Negative amount,WARN,amount -13789000.0
+2026,proposed,2026_proposed.csv.gz,3378,prior_revised,VR-05,Negative amount,WARN,amount -13789000.0
+2026,proposed,2026_proposed.csv.gz,3415,prior_appropriation,VR-05,Negative amount,WARN,amount -1094000.0
+2026,proposed,2026_proposed.csv.gz,3415,prior_revised,VR-05,Negative amount,WARN,amount -1094000.0
+2026,proposed,2026_proposed.csv.gz,3417,prior_appropriation,VR-05,Negative amount,WARN,amount -196847000.0
+2026,proposed,2026_proposed.csv.gz,3417,prior_revised,VR-05,Negative amount,WARN,amount -196847000.0
+2026,proposed,2026_proposed.csv.gz,3420,prior_appropriation,VR-05,Negative amount,WARN,amount -697000.0
+2026,proposed,2026_proposed.csv.gz,3420,prior_revised,VR-05,Negative amount,WARN,amount -697000.0
+2026,proposed,2026_proposed.csv.gz,3425,prior_appropriation,VR-05,Negative amount,WARN,amount -689144.0
+2026,proposed,2026_proposed.csv.gz,3425,prior_revised,VR-05,Negative amount,WARN,amount -689144.0
+2026,proposed,2026_proposed.csv.gz,3427,prior_appropriation,VR-05,Negative amount,WARN,amount -62602000.0
+2026,proposed,2026_proposed.csv.gz,3427,prior_revised,VR-05,Negative amount,WARN,amount -62602000.0
+2026,proposed,2026_proposed.csv.gz,3429,prior_appropriation,VR-05,Negative amount,WARN,amount -3825000.0
+2026,proposed,2026_proposed.csv.gz,3429,prior_revised,VR-05,Negative amount,WARN,amount -3825000.0
+2026,proposed,2026_proposed.csv.gz,3433,prior_appropriation,VR-05,Negative amount,WARN,amount -408000.0
+2026,proposed,2026_proposed.csv.gz,3433,prior_revised,VR-05,Negative amount,WARN,amount -408000.0
+2026,proposed,2026_proposed.csv.gz,3435,prior_appropriation,VR-05,Negative amount,WARN,amount -20000000.0
+2026,proposed,2026_proposed.csv.gz,3435,prior_revised,VR-05,Negative amount,WARN,amount -20000000.0
+2026,proposed,2026_proposed.csv.gz,3438,prior_appropriation,VR-05,Negative amount,WARN,amount -1000000.0
+2026,proposed,2026_proposed.csv.gz,3438,prior_revised,VR-05,Negative amount,WARN,amount -1000000.0
+2026,proposed,2026_proposed.csv.gz,3456,prior_appropriation,VR-05,Negative amount,WARN,amount -309306000.0
+2026,proposed,2026_proposed.csv.gz,3456,prior_revised,VR-05,Negative amount,WARN,amount -309306000.0
+2026,proposed,2026_proposed.csv.gz,3458,prior_appropriation,VR-05,Negative amount,WARN,amount -914000.0
+2026,proposed,2026_proposed.csv.gz,3458,prior_revised,VR-05,Negative amount,WARN,amount -914000.0
+2026,proposed,2026_proposed.csv.gz,3460,prior_appropriation,VR-05,Negative amount,WARN,amount -1500000.0
+2026,proposed,2026_proposed.csv.gz,3460,prior_revised,VR-05,Negative amount,WARN,amount -1500000.0
+2026,proposed,2026_proposed.csv.gz,3462,prior_appropriation,VR-05,Negative amount,WARN,amount -259000.0
+2026,proposed,2026_proposed.csv.gz,3462,prior_revised,VR-05,Negative amount,WARN,amount -259000.0
+2026,proposed,2026_proposed.csv.gz,3464,prior_appropriation,VR-05,Negative amount,WARN,amount -984000.0
+2026,proposed,2026_proposed.csv.gz,3464,prior_revised,VR-05,Negative amount,WARN,amount -984000.0
+2026,proposed,2026_proposed.csv.gz,3466,prior_appropriation,VR-05,Negative amount,WARN,amount -15000000.0
+2026,proposed,2026_proposed.csv.gz,3466,prior_revised,VR-05,Negative amount,WARN,amount -15000000.0
+2026,proposed,2026_proposed.csv.gz,3468,prior_appropriation,VR-05,Negative amount,WARN,amount -595000.0
+2026,proposed,2026_proposed.csv.gz,3468,prior_revised,VR-05,Negative amount,WARN,amount -595000.0
+2026,proposed,2026_proposed.csv.gz,3470,prior_appropriation,VR-05,Negative amount,WARN,amount -457000.0
+2026,proposed,2026_proposed.csv.gz,3470,prior_revised,VR-05,Negative amount,WARN,amount -457000.0
+2026,proposed,2026_proposed.csv.gz,3476,prior_appropriation,VR-05,Negative amount,WARN,amount -21171000.0
+2026,proposed,2026_proposed.csv.gz,3476,prior_revised,VR-05,Negative amount,WARN,amount -21171000.0
+2026,proposed,2026_proposed.csv.gz,3478,prior_appropriation,VR-05,Negative amount,WARN,amount -32367000.0
+2026,proposed,2026_proposed.csv.gz,3478,prior_revised,VR-05,Negative amount,WARN,amount -32367000.0
+2026,proposed,2026_proposed.csv.gz,3480,prior_appropriation,VR-05,Negative amount,WARN,amount -30000000.0
+2026,proposed,2026_proposed.csv.gz,3480,prior_revised,VR-05,Negative amount,WARN,amount -30000000.0
+2026,proposed,2026_proposed.csv.gz,3482,prior_appropriation,VR-05,Negative amount,WARN,amount -277060000.0
+2026,proposed,2026_proposed.csv.gz,3482,prior_revised,VR-05,Negative amount,WARN,amount -277060000.0
+2026,proposed,2026_proposed.csv.gz,3502,prior_appropriation,VR-05,Negative amount,WARN,amount -144000.0
+2026,proposed,2026_proposed.csv.gz,3502,prior_revised,VR-05,Negative amount,WARN,amount -144000.0
+2026,proposed,2026_proposed.csv.gz,3504,prior_appropriation,VR-05,Negative amount,WARN,amount -101000.0
+2026,proposed,2026_proposed.csv.gz,3504,prior_revised,VR-05,Negative amount,WARN,amount -101000.0
+2026,proposed,2026_proposed.csv.gz,3506,prior_appropriation,VR-05,Negative amount,WARN,amount -33000.0
+2026,proposed,2026_proposed.csv.gz,3506,prior_revised,VR-05,Negative amount,WARN,amount -33000.0
+2026,proposed,2026_proposed.csv.gz,3508,prior_appropriation,VR-05,Negative amount,WARN,amount -1800000.0
+2026,proposed,2026_proposed.csv.gz,3508,prior_revised,VR-05,Negative amount,WARN,amount -1800000.0
+2026,proposed,2026_proposed.csv.gz,3519,prior_appropriation,VR-05,Negative amount,WARN,amount -746713.0
+2026,proposed,2026_proposed.csv.gz,3519,prior_revised,VR-05,Negative amount,WARN,amount -746713.0
+2026,proposed,2026_proposed.csv.gz,3533,prior_appropriation,VR-05,Negative amount,WARN,amount -678000.0
+2026,proposed,2026_proposed.csv.gz,3533,prior_revised,VR-05,Negative amount,WARN,amount -678000.0
+2026,proposed,2026_proposed.csv.gz,3540,prior_appropriation,VR-05,Negative amount,WARN,amount -19000.0
+2026,proposed,2026_proposed.csv.gz,3540,prior_revised,VR-05,Negative amount,WARN,amount -19000.0
+2026,proposed,2026_proposed.csv.gz,3558,prior_appropriation,VR-05,Negative amount,WARN,amount -19000.0
+2026,proposed,2026_proposed.csv.gz,3558,prior_revised,VR-05,Negative amount,WARN,amount -19000.0
+2026,proposed,2026_proposed.csv.gz,3560,prior_appropriation,VR-05,Negative amount,WARN,amount -37000.0
+2026,proposed,2026_proposed.csv.gz,3560,prior_revised,VR-05,Negative amount,WARN,amount -37000.0
+2026,proposed,2026_proposed.csv.gz,3567,prior_appropriation,VR-05,Negative amount,WARN,amount -15530000.0
+2026,proposed,2026_proposed.csv.gz,3567,prior_revised,VR-05,Negative amount,WARN,amount -15530000.0
+2026,proposed,2026_proposed.csv.gz,3584,prior_appropriation,VR-05,Negative amount,WARN,amount -195000.0
+2026,proposed,2026_proposed.csv.gz,3584,prior_revised,VR-05,Negative amount,WARN,amount -195000.0
+2026,proposed,2026_proposed.csv.gz,3586,prior_appropriation,VR-05,Negative amount,WARN,amount -4000000.0
+2026,proposed,2026_proposed.csv.gz,3586,prior_revised,VR-05,Negative amount,WARN,amount -4000000.0
+2026,proposed,2026_proposed.csv.gz,3591,prior_appropriation,VR-05,Negative amount,WARN,amount -24064000.0
+2026,proposed,2026_proposed.csv.gz,3591,prior_revised,VR-05,Negative amount,WARN,amount -24064000.0
+2026,proposed,2026_proposed.csv.gz,3593,prior_appropriation,VR-05,Negative amount,WARN,amount -47000.0
+2026,proposed,2026_proposed.csv.gz,3593,prior_revised,VR-05,Negative amount,WARN,amount -47000.0
+2026,proposed,2026_proposed.csv.gz,3597,prior_appropriation,VR-05,Negative amount,WARN,amount -332000.0
+2026,proposed,2026_proposed.csv.gz,3597,prior_revised,VR-05,Negative amount,WARN,amount -332000.0
+2026,proposed,2026_proposed.csv.gz,3601,prior_appropriation,VR-05,Negative amount,WARN,amount -104451.0
+2026,proposed,2026_proposed.csv.gz,3601,prior_revised,VR-05,Negative amount,WARN,amount -104451.0
+2026,proposed,2026_proposed.csv.gz,3606,prior_appropriation,VR-05,Negative amount,WARN,amount -141000.0
+2026,proposed,2026_proposed.csv.gz,3606,prior_revised,VR-05,Negative amount,WARN,amount -141000.0
+2026,proposed,2026_proposed.csv.gz,3620,prior_appropriation,VR-05,Negative amount,WARN,amount -734000.0
+2026,proposed,2026_proposed.csv.gz,3620,prior_revised,VR-05,Negative amount,WARN,amount -734000.0
+2026,proposed,2026_proposed.csv.gz,3625,prior_appropriation,VR-05,Negative amount,WARN,amount -168000.0
+2026,proposed,2026_proposed.csv.gz,3625,prior_revised,VR-05,Negative amount,WARN,amount -168000.0
+2026,proposed,2026_proposed.csv.gz,3629,prior_appropriation,VR-05,Negative amount,WARN,amount -318000.0
+2026,proposed,2026_proposed.csv.gz,3629,prior_revised,VR-05,Negative amount,WARN,amount -318000.0
+2026,proposed,2026_proposed.csv.gz,3635,prior_appropriation,VR-05,Negative amount,WARN,amount -850000.0
+2026,proposed,2026_proposed.csv.gz,3635,prior_revised,VR-05,Negative amount,WARN,amount -850000.0
+2026,proposed,2026_proposed.csv.gz,3640,prior_appropriation,VR-05,Negative amount,WARN,amount -273054.0
+2026,proposed,2026_proposed.csv.gz,3640,prior_revised,VR-05,Negative amount,WARN,amount -273054.0
+2026,proposed,2026_proposed.csv.gz,3644,prior_appropriation,VR-05,Negative amount,WARN,amount -990843.0
+2026,proposed,2026_proposed.csv.gz,3644,prior_revised,VR-05,Negative amount,WARN,amount -990843.0
+2026,proposed,2026_proposed.csv.gz,3652,prior_appropriation,VR-05,Negative amount,WARN,amount -2000.0
+2026,proposed,2026_proposed.csv.gz,3652,prior_revised,VR-05,Negative amount,WARN,amount -2000.0
+2026,proposed,2026_proposed.csv.gz,3661,prior_appropriation,VR-05,Negative amount,WARN,amount -6000.0
+2026,proposed,2026_proposed.csv.gz,3661,prior_revised,VR-05,Negative amount,WARN,amount -6000.0
+2026,proposed,2026_proposed.csv.gz,3683,prior_appropriation,VR-05,Negative amount,WARN,amount -334000.0
+2026,proposed,2026_proposed.csv.gz,3683,prior_revised,VR-05,Negative amount,WARN,amount -334000.0
+2026,proposed,2026_proposed.csv.gz,3686,prior_appropriation,VR-05,Negative amount,WARN,amount -32862.0
+2026,proposed,2026_proposed.csv.gz,3686,prior_revised,VR-05,Negative amount,WARN,amount -32862.0
+2026,proposed,2026_proposed.csv.gz,3689,prior_appropriation,VR-05,Negative amount,WARN,amount -58075000.0
+2026,proposed,2026_proposed.csv.gz,3689,prior_revised,VR-05,Negative amount,WARN,amount -58075000.0
+2026,proposed,2026_proposed.csv.gz,3695,prior_appropriation,VR-05,Negative amount,WARN,amount -298000.0
+2026,proposed,2026_proposed.csv.gz,3695,prior_revised,VR-05,Negative amount,WARN,amount -298000.0
+2026,proposed,2026_proposed.csv.gz,3709,prior_appropriation,VR-05,Negative amount,WARN,amount -2258275.0
+2026,proposed,2026_proposed.csv.gz,3709,prior_revised,VR-05,Negative amount,WARN,amount -2258275.0
+2026,proposed,2026_proposed.csv.gz,3715,prior_appropriation,VR-05,Negative amount,WARN,amount -5000000.0
+2026,proposed,2026_proposed.csv.gz,3715,prior_revised,VR-05,Negative amount,WARN,amount -5000000.0
+2026,proposed,2026_proposed.csv.gz,3718,prior_appropriation,VR-05,Negative amount,WARN,amount -288433.0
+2026,proposed,2026_proposed.csv.gz,3718,prior_revised,VR-05,Negative amount,WARN,amount -288433.0
+2026,proposed,2026_proposed.csv.gz,3733,prior_appropriation,VR-05,Negative amount,WARN,amount -127532000.0
+2026,proposed,2026_proposed.csv.gz,3733,prior_revised,VR-05,Negative amount,WARN,amount -127532000.0
+2026,proposed,2026_proposed.csv.gz,3738,prior_appropriation,VR-05,Negative amount,WARN,amount -156000.0
+2026,proposed,2026_proposed.csv.gz,3738,prior_revised,VR-05,Negative amount,WARN,amount -156000.0
+2026,proposed,2026_proposed.csv.gz,3748,prior_appropriation,VR-05,Negative amount,WARN,amount -521698.0
+2026,proposed,2026_proposed.csv.gz,3748,prior_revised,VR-05,Negative amount,WARN,amount -521698.0
+2026,proposed,2026_proposed.csv.gz,3774,prior_appropriation,VR-05,Negative amount,WARN,amount -51789.0
+2026,proposed,2026_proposed.csv.gz,3774,prior_revised,VR-05,Negative amount,WARN,amount -51789.0
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0011: GREEN STREETS | GREENSTREETS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 001C: FAMILES FIRST COVID RESPONSE ACT TITLE I | FAMILES FIRST COVID RESPONSE ACT TITLE III
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 002C: HOUSING OPPORTUNITIES FOR PEOPLE WITH AI | HOUSING OPPORTUNITIES FOR PEOPLE WITH AIDS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 003C: CORONAVIRUS RELIEF | CORONAVIRUS RELIEF FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 004C: RYAN WHITE HIV CARE ACT - ER | RYAN WHITE HIV CARE ACT - PART A EMERGENCY RELIEF
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 005C: CDBG - CARES ACT | COMMUNITY DEVELOPMENT BLOCK GRANT - CARES ACT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0074: AGING-PRIVATELY FUNDED | AGING-PRIVATELY FUNDED PROGRAMS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0075: GRANTS MANAGEMENT FUND | OBM GRANT MANAGEMENT | OBM GRANT MANAGEMT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0079: DEPARTMENT OF GENERAL SERVICES PROGRAMS | DGS PROGRAMS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 008C: COMMUNITY SERVICES BLOCK GRANT (CSBG) - CARES ACT | CSBG - CARES ACT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 010C: CESF | CORONAVIRUS EMERGENCY SUPPLEMENTAL FUNDING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0168: WINTER SHELTER FOR THE HOMELESS | WINTER SHELTER HMLS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0191: ASSET FORFEITURE - STATE | STATE ASSET FORFEITURE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 022C: HEAD START AND EARLY HEAD START - CARES | HEAD START AND EARLY HEAD START - CARES ACT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 023C: ASSISTANCE TO FIREFIGHTERS ? CARES ACT | ASSISTANCE TO FIREFIGHTERS  CARES ACT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0243: TRANSPORTATION SECURITY ADMIN AGREEMENT | TRANSPORTATION SECURITY ADMIN AGRMT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0248: ST LEAD POISONG/VIS | ST LEAD POISONGS AND VISION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0300: VEHICLE FUND | VEHICLE TAX FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 033C: CDBG - CARES ACT | COMMUNITY DEVELOPMENT BLOCK GRANT - CARES ACT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0346: LIB F MAINT/OPERATN | LIBRARY FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0353: EMERGENCY COMMUN FD | EMERGENCY COMMUNICATION FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0355: SPECIAL EVENTS / MUNICIPAL HOTEL T/F | SPECIAL EVENTS AND MUNICIPAL HOTEL OPERATORS' OCCUPATION TAX FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0383: MFT DEBT SERVICE | MOTOR FUEL TAX DEBT SERVICE | MOTOR FUEL TAX DEBT SERVICE FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 039C: HEALTH DISPARITIES CHICAGO | HEALTH DISPARITIES IN CHICAGO'S HIGH-RISK AND UNDERSERVED COMMUNITIES
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 040C: HEALTH DISPARITIES CHICAGO | HEALTH DISPARITIES IN CHICAGO'S HIGH-RISK AND UNDERSERVED COMMUNITIES
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0505: SALES TAX BOND | SALES TAX BOND REDEMPTION FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0509: NOTE REDEMPTION AND INTEREST | NOTE REDEMPTION AND INTEREST SERIES FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0510: BOND REDEMPTION AND INTEREST | BOND REDEMPTION AND INTEREST SERIES FUND | BOND REDMPTN/IN F
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0516: LIBRARY BOND REDEMPTION | LIBRARY BOND REDEMPTION FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,"fund_code 0521: LIB NOTE RED/INT-B | LIBRARY NOTE REDEMPTION AND INTEREST TENDER NOTES SERIES ""B"" FUND | LIBRARY PROPERTY TAX LEVY FUND"
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0525: EMERGENCY COMMUN BD | EMERGENCY COMMUNICATION BOND REDEMPTION AND INTEREST FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0549: CITY COL RED/INT-D | CITY COLLEGES BOND REDEMPTION AND INTEREST FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0610: CHICAGO MIDWAY AIRPORT FUND | MIDWAY AIRPORT FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0623: AIP-MIDWAY | AIRPORT IMPROVEMENT PROGRAM-AND TEA-21
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0657: POLICE | POLICE PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0681: MUNICIPAL ANNUNITY AND BENEFIT | MUNICIPAL EMPLOYEE | MUNICIPAL EMPLOYEES' ANNUITY AND BENEFIT FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0682: LABORERS' AND RETIREMENT BOARD ANNUITY AND BENEFIT FUND | LABORERS' ANNUNITY AND BENEFIT | LABORERS'/RETIREMNT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0683: POLICEMEN ANN/BENFT | POLICEMEN'S ANNUITY AND BENEFIT | POLICEMEN'S ANNUITY AND BENEFIT FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0684: FIREMEN'S ANNUITY AND BENEFIT | FIREMEN'S ANNUITY AND BENEFIT FUND | FIREMENS ANN/BENFT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0740: CHICAGO O'HARE AIRPORT FUND | O HARE REVENUE FUND | O'HARE REVENUE FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0772: CHICAGO METROPOLITAN AGENCY FOR PLANNING | TRANSPORT PLANNING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0783: ILLINOIS DEPARTMENT OF TRANSPORTATION | STP-FEDERAL ENGINER
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0784: CMAQ | CMAQ - FEDERAL
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0792: BIS GRANTS | DOIT GRANTS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0799: HEALTH - PUBLIC HEALTH PROGRAMS | PUBLIC HOUSING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0816: CHICAGO TRANSIT AUTHORITY (CTA) | CTA / RTA
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0819: ACCESS CHICAGO SUP | ACCESS CHICAGO SUPPORT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0833: MOPD PRIVATE FUNDED | MOPD PRIVATE FUNDED PROGRAMS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0842: INCUMBENT WORKER PG | PUBLIC HEALTH FED HEALTH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0866: DHS SUPPORTIVE HOUSING | SUPPORTIVE HOUSING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0869: SHELTER PLUS CARE | SHELTER PLUS CARE-1998
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0934: AFFORDABLE HOUSING FUND | AFFORDABLE HOUSING OPPORTUNITY FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0994: CONTROLLED SUBSTANCES | CONTROLLED SUBSTANCES FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0B09: CTA REAL PROPERTY TRANSFER TAX | CTA REAL PROPERTY TRANSFER TAX FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0B17: ASSET FORFEITURE - FEDERAL | FEDERAL ASSET FORFEITURE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0B21: TAX INCREMENT FINANCING ADMINISTRATION FUND | TIF ADMINISTRATION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0B25: CHICAGO CPD CTA DETAIL | CHICAGO POLICE CTA DETAIL FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0B26: CHICAGO PARKING METERS | CHICAGO PARKING METERS FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0B39: HUMAN CAPITAL INNOVATION | HUMAN CAPITAL INNOVATION FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0B40: HOUSESHARE SURCHARGE - HOMELESS SERVICES | HOUSESHARE SURCHARGE - HOMELESS SERVICES FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0B43: HOUSESHARE SURCHARGE - DOMESTIC VIOLENCE | HOUSESHARE SURCHARGE - DOMESTIC VIOLENCE FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0H26: RESOURCE CONSERVATION AND RECOVERY ACT - SUBTITLE D | RESOURCE CONSERVATION AND RECOVERY ACT D
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0H36: HOUSING OPPORTUNITIES FOR PEOPLE W/ AIDS | HOUSING OPPORTUNITIES FOR PEOPLE WITH AIDS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0H50: BUILDING EPIDEMIOLOGY AND HEALTH IT | BUILDING EPIDEMIOLOGY AND HEALTH IT CAPACITY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,"fund_code 0H63: WOMEN INFANTS AND CHILDREN NUTRITION | WOMEN, INFANTS AND CHILDREN NUTRITION"
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0H80: HOUSING OPPORTUNITIES FOR PEOPLE W/ AIDS | HOUSING OPPORTUNITIES FOR PEOPLE WITH AIDS (HOPWA)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J03: INTEGRATED HIV PROGRAMS | INTEGRATED HIV PROGRAMS TO SUPPORT ENDING THE HIV EPIDEMIC | LONG TERM CARE OMBUDSMAN PROGRAM - CMP
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J19: NEA - ART WORKS PROGRAM - MATCH | WORK INCENTIVE PLANNING AND ASSISTANCE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J32: HOPWA | HOUSING OPPORTUNITIES FOR PEOPLE WITH AIDS (HOPWA)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J38: SMART GRID / ENERGY EFF. CONSUMER ED. | SMART GRID / ENERGY EFFICIENCY CONSUMER EDUCATION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J44: CDBG | COMMUNITY DEVELOPMENT BLOCK GRANT YEAR XLIV
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J45: CDBG | COMMUNITY DEVELOPMENT BLOCK GRANT YEAR XLV
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J46: CDBG | COMMUNITY DEVELOPMENT BLOCK GRANT YEAR XLVI
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J47: CDBG | COMMUNITY DEVELOPMENT BLOCK GRANT YEAR XLVII
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J48: CDBG | COMMUNITY DEVELOPMENT BLOCK GRANT YEAR XLVIII
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J63: CDBG - DISASTER RECOVERY | COMMUNITY DEVELOPMENT BLOCK GRANT - DISASTER RECOVERY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J68: ENDING HIV EPIDEMIC-RYAN WHITE HIV/AIDS | ENDING HIV EPIDEMIC:RYAN WHITE HIV/AIDS | ENDING THE HIV EPIDEMIC - A PLAN FOR AMERICA - RYAN WHITE HIV/AIDS | ENDING THE HIV EPIDEMIC: A PLAN FOR AMERICA ? RYAN WHITE HIV/AIDS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J79: SUBSTANCE ABUSE AND AID PREVENTION PGM | SUBSTANCE ABUSE AND AIDS PREVENTION PROGRAM FOR THE HEARING IMPAIRED
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J87: CHA HOME MODIFICATION | CHA HOME MODIFICATION PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J89: ENGAGING LIBRARY PATRONS - DIGITAL SPACE | ENGAGING LIBRARY PATRONS IN THE DIGITAL SPACE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J95: ILLINOIS LIBRARY DEVELOPMENT - PER CAPITA AND AREA | ILLINOIS LIBRARY DEVELOPMENT-PER CAPITA
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0J99: PUBLIC SECTOR ELECTRIC EFFICIENCY | PUBLIC SECTOR ELECTRICAL EFFICIENCY PROGRAM - ELECTRICITY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0K24: CITIES OF SERVICE LEADERSHIP GRANT | MISC. DHED PRIVATE FUNDED GRANTS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0K31: INITIATED RESEARCH AND EVAL FIREARM VIOL | INITIATED RESEARCH AND EVALUATION ON FIREARM VIOLENCE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0K32: FORECLOSURE PREVENTION | FORECLOSURE PREVENTION PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,"fund_code 0K46: WOMEN INFANTS AND CHILDREN NUTRITION | WOMEN, INFANTS AND CHILDREN NUTRITION"
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0K65: EDWARD BYRNE MEMORIAL JAG | EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT (JAG)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0K79: OPTIMIZING VIDEO TECHNOLOGY | OPTIMIZING VIDEO TECHNOLOGY IN URBAN POLICING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0K80: HOPWA HOUSING AND HEALTH STUDY PROGRAM | HOPWA HOUSING AND HEALTH STUDY PROGRAM - CARES
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0L26: ASSISTANCE GRANTS FOR VICTIMS OF HUMAN T | ASSISTANCE GRANTS FOR VICTIMS OF HUMAN TRAFFICKING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0L32: CONGESTION MITIGATION AIR QUALITY | CONGESTION MITIGATION AIR QUALITY - FEDERAL
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0L37: COOK COUNTY HIGHWAY | COOK COUNTY HIGHWAY PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0L48: STATE ONLY CHICAGO COMMITMENT | SURFACE TRANSPORTATION PROGRAM - FEDERAL - CONSTRUCTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0L64: ENHANCED MOBILITY OF SENIORS AND INDIVIDUALS WITH DISABILITIES | MOBILITY OF SENIORS/DISABLED
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0L71: CHICAGO METROPOLITAN AGENCY FOR PLANNING (CMAP) LOCAL ASSISTANCE PROGRAM | CMAP LOCAL ASSISTANCE PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0L72: CHICAGO TRANSIT AUTHORITY INFRASTRUCTURE IMPROVEMENT | CTA INFRASTRUCTURE IMPROVEMENT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0L73: CONGESTION MITIGATION AIR QUALITY | CONGESTION MITIGATION AIR QUALITY - FEDERAL
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0L77: HIGHWAY SAFETY IMPROVEMENT | HIGHWAY SAFETY IMPROVEMENT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0L87: STP - CONSTRUCTION | SURFACE TRANSPORTATION PROGRAM - CONSTRUCTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0L90: TRANSPORTATION INVESTMENTS ECON RECOVERY | TRANSPORTATION INVESTMENTS GENERATING ECONOMIC RECOVERY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0L93: FEDERAL RAILROAD ADMIN | FEDERAL RAILROAD ADMINISTRATION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0L99: NATIONAL PRIORITY SAFETY | NATIONAL PRIORITY SAFETY PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0M07: CDOT - PRIVATE GRANTS | PRIVATE FUNDED GRANTS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0M11: FEDERAL U.S. ENVIRONMENTAL PROTECTION AGENCY | FEDERAL USEPA
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0M35: CHICAGO CLIMATE ACTION PLAN | ILLINOIS ENVIRONMENTAL PROTECTION AGENCY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0M50: I-GO PEER TO PEER CAR SHARING | STP - PRIORITY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0M52: SAFE ROUTES TO SCHOOL | SAFE ROUTES TP SCHOOL
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0M55: ARTERIAL STREETS - IDOT | IDOT FUNDS - ARTERIAL STREETS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0M86: BELMONT / WILTON RE-LANDSCAPING PROJECT | I-GO PEER TO PEER CAR SHARING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0M88: CONGESTION MITIGATION AIR QUALITY | CONGESTION MITIGATION AIR QUALITY - FEDERAL
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0M93: STP CONSTRUCTION | SURFACE TRANSPORTATION PROGRAM - CONSTRUCTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0N00: IMPROVING CPD'S RESPONSE TO DOMESTIC VIOLENCE SEXUAL ASSAULT AND STALKING | IMPROVING CPD'S RESPONSE TO DV/SA/STALKI
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0N14: HELP AMERICA VOTE ACT | HELP AMERICA VOTE ACT - ELECTIONS SECURITY GRANT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0P07: DEPT. OF ENVIRONMENT - FEDERAL | HEGEWISCH MARSH RESTORATION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0P14: DEPARTMENT OF GENERAL SERVICES - FEDERAL | DEPT OF GENERAL SERVICES PROGRAMS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0P17: CPD - TRANSPORTATION | HOLIDAY MOBILIZATION GRANT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0P19: UNITED STATES DEPARTMENT OF JUSTICE | US DEPT OF JUSTICE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0P20: IL DEPT OF COMMERCE | ILLINOIS DEPARTMENT OF COMMERCE AND ECONOMIC OPPORTUNITY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0P36: DFSS - FEDERAL - FGP/SCP | DFSS- FEDERAL - FGP/SCP
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0P39: FEDERAL U.S. DEPARTMENT OF JUSTICE | FEDERAL U.S. DOJ
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0P55: CDP - JAG | CPD - JAG | EDWARD BYRNE MEMORIAL JAG
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0P64: DFSS - PRIVATE GRANTS | SENIOR PROGRAM PRIVATE CONTRIBUTIONS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0P68: CPD - U.S. DOJ | EDWARD BYRNE MEMORIAL JAG | EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT (JAG)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0P71: INNOVATION DELIVERY GRANT | INNOVATIVE DELIVERY GRANT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0P72: CULTURAL AFFAIRS / SPECIAL EVENTS | DCASE - PRIVATE GRANTS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0P87: CPD - PRIVATE GRANTS | PUBLIC SAFETY PRIVATE SUPPORT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0P95: RESIDENT SERVICES COORDINATION / CASE MANAGEMENT | RESIDENT SERVICES COORDINATION / CASE MG
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0R11: ELECTRICAL EFFICIENCY PROGRAM | PUBLIC SECTOR ELECTRIC ENERGY EFFICIENCY PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0S13: ARRA - NEIGHBORHOOD STABILIZATION PGM 3 | NEIGHBORHOOD STABILIZATION PROGRAM 3
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0S85: ARRA - NEIGHBORHOOD STABILIZATION PROGRAM | NEIGHBORHOOD STABILIZATION PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T23: EARLY HEAD START - CHILD CARE PARTNERSHIP | EHS - CHILD CARE PARTNERSHIP
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T33: ENUMERATION OF HOMELESS VETERANS | ENUMERATION OF HOMELESS VETERANS POINT IN TIME COUNT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T34: PERFORMANCE PARTNERSHIP PILOTS FOR DISCONNECTED YOUTH | PERFORMANCE PARTNERSHIP PILOTS FOR YOUTH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T36: AREA PLAN ON AGING - OLDER AMERICANS ACT | AREA PLAN ON AGING - OLDER AMERICANS ACT - FEDERAL
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T42: EARLY HEAD START - CHILD CARE PARTNERSHIP | EARLY HEAD START-CHILD CARE PARTNERSHIP
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T45: EMERGENCY SOLUTIONS | EMERGENCY SOLUTIONS GRANT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T48: LONG TERM CARE OMBUDSMAN PROGRAM - MONEY FOLLOWS THE PERSON | MONEY FOLLOWS THE PERSON
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T54: OAA TITLE V / SENIOR COMMUNITY SERVICE | OAA TITLE V / SENIOR COMMUNITY SERVICE EMPLOYMENT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T63: SPECIAL PROJECTS - PREVENT DOM. VIOLENCE | SPECIAL PROJECTS - PREVENTION DOMESTIC VIOLENCE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T67: PERFORMANCE PARTNERSHIP PILOTS FOR DISCONNECTED YOUTH | PERFORMANCE PARTNERSHIP PILOTS FOR YOUTH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T73: AREA PLAN ON AGING | AREA PLAN ON AGING - OLDER AMERICANS ACT | AREA PLAN ON AGING - OLDER AMERICANS ACT - FEDERAL
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T79: HEAD START | HEAD START AND EARLY HEAD START
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T86: MONEY FOLLOWS THE PERSON | MONEY FOLLOWS THE PERSON - LONG TERM CARE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T87: LONG TERM CARE OMBUDSMAN - CMP | LONG TERM CARE OMBUDSMAN PROGRAM - CMP
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T88: LONG TERM CARE SYSTEM DEVELOPMENT | LONGERM CARE SYSTEM DEVELOPMENT | LONGTERM CARE SYSTEM DEVELOPMENT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T89: MEDICARE IMPROVEMENTS ACT | MEDICARE IMPROVEMENTS FOR PATIENTS AND PROVIDERS ACT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0T96: SENIOR HEALTH ASSISTANCE | SENIOR HEALTH ASSISTANCE PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U09: BIOTERRORISM HOSPITAL PREPAREDNESS | BIOTERRORISM HOSPITAL PREPAREDNESS PROGRAM | HOSPITAL PREPAREDNESS PROGRAM (HPP)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U10: PHEP | PUBLIC HEALTH EMERGENCY PREPAREDNESS (PHEP)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U11: BREASTFEEDING PEER CONSELING | BREASTFEEDING PEER COUNSELING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U12: BUILDING EPIDEMIOLOGY AND HEALTH IT | BUILDING EPIDEMIOLOGY AND HEALTH IT CAPACITY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U21: NARCAN / OPIOID PREVENTION | RESOURCE CONSERVATION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U22: HOUSING OPPORTUNITIES - AIDS | HOUSING OPPORTUNITIES FOR PEOPLE WITH AIDS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U23: IMMUNIZATION /VACCINES FOR CHILDREN | IMMUNIZATIONS AND VACCINES FOR CHILDREN
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U27: MORBIDITY AND RISK BEHAVIOR SURVEILLANCE | MORBIDITY AND RISK BEHAVIOR SURVEILLANCE / MEDICAL MONITORING PROJECT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U28: MOSQUITO VECTOR PREVENTION | MOSQUITO VECTOR PREVENTION (TIRE FUNDS) | MOSQUITO VECTOR PREVENTION PROGRAM (TIRE FUNDS)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U29: RYAN WHITE HIV CARE ACT - PART A | RYAN WHITE HIV CARE ACT - PART A EMERGENCY RELIEF
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U30: SEXUALLY TRANSMITTED DISEASE PREVENTION | STD PREVENTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U40: INTEGRATED HIV SURVEILLANCE AND PREV. | INTEGRATED HIV SURVEILLANCE AND PROTECTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U52: BUILDING EPIDEMIOLOGY AND HEALTH IT CAPA | BUILDING EPIDEMIOLOGY AND HEALTH IT CAPACITY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U54: HIGH RISK INFANT FOLLOW-UP | HIGH RISK INFANT FOLLOW-UP - FEDERAL
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U55: SPP TO SUPPORT ENDING HIV | STRATEGIC PARTNERSHIP AND PLANNING TO SUPPORT ENDING HIV
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U60: HOPWA | HOUSING OPPORTUNITIES FOR PEOPLE WITH AIDS (HOPWA)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U64: RYAN WHITE HIV CARE ACT - PART A EMERGENCY RELIEF | RYAN WHITE HIV CARE ACT PART A - EM REL. | RYAN WHITE HIV CARE ACT PART A - EMERGENCY RELIEF
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U65: SEXUALLY TRANSMITTED DISEASE PREVENTION | STD PREVENTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U66: MOSQUITO VECTOR PREVENTION | MOSQUITO VECTOR PREVENTION (TIRE FUNDS)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U78: HIGH RISK INFANT FOLLOW-UP | HIGH RISK INFANT FOLLOW-UP - STATE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U80: CHILDHOOD LEAD POISONING PREVENTION | LEAD POISONING PREVENTION - CHILDHOOD LEAD POISONING PREVENTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U81: CHILDHOOD LEAD POISONING PREVENTION | LEAD POISONING PREVENTION - CHILDHOOD LEAD POISONING PREVENTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U83: COMMUNITY HEALTH WORKER OVERDOSE PREVENT | COMMUNITY HEALTH WORKER OVERDOSE PREVENTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U88: NAT. EXPLOSIVES DETECT. CANINE | NATIONAL EXPLOSIVES DETECTION CANINE TEAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U90: HOUSING OPPORTUNITIES FOR PEOPLE WITH AIDS (HOPWA) | HOUSING OPPTS FOR PEOPLE WITH AIDS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U91: PRE-EXPOSURE PROPHYLAXIS (PREP) | PRE-EXPOSURE PROPHYLAXIS(PREP)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U92: RYAN WHITE HIV CARE ACT - PART A EMERGENCY RELIEF | RYAN WHITE HIV CARE ACT PART A | RYAN WHITE HIV CARE ACT PART A - EMERGENCY RELIEF
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0U94: PORT SECURITY | PORT SECURITY - MATCH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V03: EDWARD BYRNE MEMORIAL JAG | EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT (JAG)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V13: NAT. EXPLOSIVES DETECT. CANINE | NATIONAL EXPLOSIVES DETECTION CANINE TEAM | NATIONAL EXPLOSIVES DETECTION CANINE TEAM PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V19: EDWARD BYRNE MEMORIAL JAG | EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT (JAG)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V20: IDOT SUSTAINED TRAFFIC ENFORCEMENT PGM | IDOT SUSTAINED TRAFFIC ENFORCEMENT PROGRAM (STEP)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V26: PORT SECURITY | PORT SECURITY GRANT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V35: SECURING THE CITIES | SECURING THE CITY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V40: CONSERVATION INNOVATION | CONSERVATION INNOVATION PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V51: IDOT SUSTAINED TRAFFIC ENFORCEMENT | IDOT SUSTAINED TRAFFIC ENFORCEMENT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V54: TRANSIT SECURITY GRANT PROGRAM | TRANSIT SECURITY PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V56: VIOLENCE AGAINST WOMEN ACT - DOM. VIOL. | VIOLENCE AGAINST WOMEN ACT - DOMESTIC VIOLENCE RESPONSE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V57: VIOLENCE AGAINST WOMEN ACT - SEX ASSAULT | VIOLENCE AGAINST WOMEN ACT - SEXUAL ASSAULT RESPONSE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V70: PAUL COVERDELL FORENSIC SCIENCE IMPROVE. | PAUL COVERDELL FORENSIC SCIENCE IMPROVEMENT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V74: COOK COUNTY HIGHWAY PROGRAM (INVEST IN COOK) | INVEST IN COOK
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V75: FIRST RESPONDERS ADDICTION RECOVERY | FIRST RESPONDERS COMPREHENSIVE ADDICTION AND RECOVERY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V81: PORT SECURITY | PORT SECURITY GRANT - LOCAL MATCH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V86: LOCAL LAW ENFORCEMENT CRIME GUN INTEL | LOCAL LAW ENFORCEMENT CRIME GUN INTELLIGENCE INTEGRATION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V87: PORT SECURITY | PORT SECURITY GRANT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V88: PORT SECURITY | PORT SECURITY GRANT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V93: IDOT SUSTAINED TRAFFIC ENFORCEMENT PGM | IDOT SUSTAINED TRAFFIC ENFORCEMENT PROGRAM (STEP) | STEP | SUSTAINED TRAFFIC ENFORCEMENT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0V99: EDWARD BYRNE MEMORIAL JAG | EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT (JAG)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W00: CHICAGO METROPOLITAN AGENCY FOR PLANNING | CHICAGO METROPOLITAN AGENCY FOR PLANNING (CMAP LOCAL ASSISTANCE PROGRAM) | CHICAGO METROPOLITAN AGENCY FOR PLANNING (CMAP) LOCAL ASSISTANCE PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W01: CHICAGO TRANSIT AUTHORITY INFRASTRUCTURE IMPROVEMENT | CTA INFRASTRUCTURE IMPROVEMENT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W02: CMAQ | CONGESTION MITIGATION AIR QUALITY (CMAQ) | CONGESTION MITIGATION AIR QUALITY - FED | CONGESTION MITIGATION AIR QUALITY - FEDERAL
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W05: HIGH PRIORITY / SAFETEA - LU - FEDERAL | HIGH PRIORITY PROJECT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W11: ILLINOIS TRANSPORTATION ENHANCEMENT | ILLINOIS TRANSPORTATION ENHANCEMENT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W12: ILLINOIS SPECIAL BRIDGE PROGRAM (ISPB) / MAJOR BRIDGE | ISBP | MAJOR BRIDGE - FEDERAL
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W13: SAFE ROUTES FOR SCHOOL | SAFE ROUTES TO SCHOOL
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W16: STP | STP - FEDERAL - CONSTRUCTION | SURFACE TRANSPORTATION PROGRAM (STP) | SURFACE TRANSPORTATION PROGRAM - FEDERAL - CONSTRUCTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W18: TRANSPORTATION ALTERNATIVE | TRANSPORTATION ALTERNATIVES | TRANSPORTATION ALTERNATIVES PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W24: DCEO GRANT | DEPARTMENT OF COMMERCE AND ECONOMIC OPPORTUNITY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W27: CITY COLLEGES INFRASTRUCTURE | CITY COLLEGES INFRASTRUCTURE IMPROVEMENTS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W28: MWRD INFRASTRUCTURE | MWRD INFRASTRUCTURE IMPROVEMENTS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W33: ASSISTANCE GRANTS FOR VICTIMS OF HUMAN TRAFFICKING | VICTIMS OF HUMAN TRAFFICKING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W38: ILLINOIS LIBRARY DEVELOPMENT | ILLINOIS LIBRARY DEVELOPMENT - PER CAPITA AND AREA
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W49: CHICAGO SOUTHSIDE EARLY DIVERSION PROGRAM | EARLY DIVERSION PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W51: NATIONAL CRIME STATISTICS - EXCHANGE IMPLEMENTATION | NCS - X IMPLEMENTATION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W52: COMP OPIOID ABUSE PROGRAM | COMPREHENSIVE OPIOID ABUSE SITE-BASED PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W53: LAW ENFORCEMENT-BASED VICTIM SPECIALIST PROGRAM | VICTIM SPECIALIST PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W54: LAW ENFORCEMENT MENTAL HEALTH | LAW ENFORCEMENT MENTAL HEALTH AND WELLNESS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W55: DOM VIOL DATING STALKING CJ RESPONSE | IMPROVING CRIMINAL JUSTICE RESPONSE TO DOMESTIC VIOLENCE DATING AND STALKING PROGRAM | IMPROVING CRIMINAL JUSTICE RESPONSE TO DV AND STALKING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W57: INITIATED RESEARCH AND EVALUATION ON FIREARM VIOLENCE | RESEARCH/EVAL FIREARM VIOL
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W59: UASI | URBAN AREAS SECURITY INITIATIVE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W81: ABANDONED RES PROPERTY MUNI RELIEF | ABANDONED RESIDENTIAL PROPERTY MUNICIPALITY RELIEF
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W85: AFRICAN AMERICAN CIVIL RIGHTS PRESERVATION | AFRICAN AMERICAN CIVIL RIGHTS PRESERVATN
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W88: INNOVATIONS IN COMMUNITY BASED CRIME RED | INNOVATIONS IN COMMUNITY BASED CRIME REDUCTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W93: VIOLENCE AGAINST WOMEN - DOM VIOLENCE | VIOLENCE AGAINST WOMEN - DOMESTIC VIOLENCE RESPONSE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0W99: HAZARDOUS MATERIALS EMERGENCY PREP | HAZARDOUS MATERIALS EMERGENCY PREPAREDNESS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X10: BUILDING AND STRENGTHENING EPIDEMIOLOGY AND HEALTH IT CAPACITY (ZIKA PREG REG) | BUILDING EPIDEMIOLOGY AND HEALTH IT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X15: RESOURCE CONSERVATION AND RECOVERY ACT - SUBTITLE D | RESOURCE CONSERVATION AND RECOVERY ACT D
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X29: BIOTERRORISM PREPAREDNESS RESPONSE PLAN | BIOTERRORISM PREPAREDNESS RESPONSE PLANNING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X34: BIOTERRORISM HOSPITAL PREPAREDNESS PGM | BIOTERRORISM HOSPITAL PREPAREDNESS PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X35: LEAD BASED PAINT HAZARD CONTROL | LEAD BASED PAINT HAZARD CONTROL (TORRENS FUND)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X47: BUILDING & STRENGTHENING EPIDEMIOLOGY & HEALTH IT CAPACITY - EBOLA SUPPLEMENT | EPI-EBOLA
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X52: HIV & CARE - MSM & TRANSGENDER | REDUCE HIV AND IMPROVE CARE FOR MSM AND TRANSGENDER PEOPLE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X55: HOPWA HOUSING AND HEALTH STUDY | HOPWA/HUD
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X60: BIOTERRORISM HOSPITAL PREPAREDNESS PROGR | BIOTERRORISM HOSPITAL PREPAREDNESS PROGRAM | HOSPITAL PREPAREDNESS PROGRAM (HPP)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X61: BIOTERRORISM PREPAREDNESS RESPONSE PLANN | BIOTERRORISM PREPAREDNESS RESPONSE PLANNING | PHEP | PUBLIC HEALTH EMERGENCY PREPAREDNESS (PHEP)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X63: BUILDING EPIDEMIOLOGY AND HEALTH IT | BUILDING EPIDEMIOLOGY AND HEALTH IT CAPACITY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X69: HAZARDOUS MATERIALS EMERGENCY PREP PLAN | HAZARDOUS MATERIALS EMERGENCY PREPAREDNESS | HAZARDOUS MATERIALS EMERGENCY PREPAREDNESS PLANNING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X71: HIV BEHAVIORAL SURVEILLANCE | HOPWA HOUSING AND HEALTH STUDY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X74: HOUSING OPPORTUNITIES FOR PEOPLE W/ AIDS | HOUSING OPPORTUNITIES FOR PEOPLE WITH AIDS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X76: LEAD BASED PAINT HAZARD CONTROL (TORRENS FUND) | LEAD BASED PAINT HAZARD CONTROL(TORRENS)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X80: MOSQUITO VECTOR PREVENTION PROGRAM (TIRE FUNDS) | MOSQUITO VECTOR PREVENTION PROGRAM(TIRE)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X81: RYAN WHITE HIV CARE ACT PART A | RYAN WHITE HIV CARE ACT PART A - EMERGENCY RELIEF
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X86: BODY ART AND TANNING INSPECTION | BODY ART AND TANNING INSPECTION PROGRAM | TATTOO AND BODY ART PIERCING INSPECTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X98: ZIKA SURVEILLANCE | ZIKA SURVEILLANCE INTERVENTION AND REFERRAL PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0X99: RESILIENCY IN COMMUNITIES | RESILIENCY IN COMMUNITIES AFTER STRESS AND TRAUMA
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y06: PERFORMANCE PARTNERSHIP PILOTS (P3) | PERFORMANCE PARTNERSHIP PILOTS FOR DISCONNECTED YOUTH (P3)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y08: ENUMERATION OF HOMELESS VETERANS | ENUMERATION OF HOMELESS VETERANS POINT IN TIME COUNT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y19: CHICAGO DOMESTIC VIOLENCE HELP LINE - M | CHICAGO DOMESTIC VIOLENCE HELP LINE - MATCH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y20: AREA PLAN ON AGING | AREA PLAN ON AGING - MATCH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y21: AREA PLAN ON AGING | AREA PLAN ON AGING - OLDER AMERICANS ACT | AREA PLAN ON AGING - OLDER AMERICANS ACT - FEDERAL
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y22: AREA PLAN ON AGING | AREA PLAN ON AGING - OLDER AMERICANS ACT | AREA PLAN ON AGING - OLDER AMERICANS ACT - LOCAL MATCH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y24: MEDICARE IMPROVEMENTS | MEDICARE IMPROVEMENTS FOR PATIENTS AND P | MEDICARE IMPROVEMENTS FOR PATIENTS AND PROVIDERS ACT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y27: LONG TERM CARE SYSTEM DEVELOPMENT | LONGTERM CARE SYSTEM DEVELOPMENT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y29: OAA NUTRITION PROGRAM INCOME - CON. MEAL | OAA NUTRITION PROGRAM INCOME - CONGREGATE MEALS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y31: SENIOR HEALTH ASSISTANCE | SENIOR HEALTH ASSISTANCE PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y34: HEAD START | HEAD START AND EARLY HEAD START
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y37: SUMMER JOBS CONNECT | SUMMER JOBS CONNECT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y40: OAA TITLE V SENIOR EMPLOYMENT SPECIALIST | OAA TITLE V SENIOR EMPLOYMENT SPECIALIST - MATCH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y41: FOSTER GRANDPARENTS | FOSTER GRANDPARENTS - MATCH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y42: SENIOR COMPANION PROJECT | SENIOR COMPANION PROJECT - ACTION - MATCH | SENIOR COMPANION PROJECT - MATCH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y48: EARLY HEAD START - CHILD CARE PARTNERSHI | EARLY HEAD START - CHILD CARE PARTNERSHIP
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y49: PERFORMANCE PARTNERSHIP PILOTS FOR DISCONNECTED YOUTH | PERFORMANCE PARTNERSHIP PILOTS FOR YOUTH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y59: STATE DOMESTIC VIOLENCE HELP LINE - MATCH | STATE DOMESTIC VIOLENCE HELP LINE MATCH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y62: EARLY HEAD START - CHILD CARE PARTNERSHIP | EARLY HEAD START -CHILD CARE PARTNERSHIP
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y68: MEDICARE IMPROVEMENTS ACT | MEDICARE IMPROVEMENTS FOR PATIENTS AND PROVIDERS ACT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y92: HOPWA | HOUSING OPPORTUNITIES FOR PEOPLE WITH AIDS (HOPWA)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Y96: RYAN WHITE HIV CARE ACT - PART A | RYAN WHITE HIV CARE ACT - PART A EMERGENCY RELIEF
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z00: PUBLIC SECTOR ELECTRIC EFFICIENCY - GAS | PUBLIC SECTOR ELECTRICAL EFFICIENCY PROGRAM - GAS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z01: SMART GRID | SMART GRID / ENERGY EFFICIENCY CONSUMER EDUCATION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z16: FARMER'S MARKET GRANT | FARMERS MARKET GRANT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z19: SUBSTANCE ABUSE AND AIDS PREV - HEARING | SUBSTANCE ABUSE AND AIDS PREVENTION FOR THE HEARING IMPAIRED | SUBSTANCE ABUSE PREVENTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z20: ILLINOIS LIBRARY DEV - PER CAPITAL | ILLINOIS LIBRARY DEVELOPMENT - PER CAPITA AND AREA
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z21: SUB. ABUSE & AIDS PREV. - HEARING IMPAIR | SUBSTANCE ABUSE & AIDS PREVENTION FOR THE HEARING IMPAIRED | SUBSTANCE ABUSE PREVENTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z31: COMMUNITY ARTS ACCESS PROGRAM | IAC - COMMUNITY ARTS ACCESS PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z32: COMMUNITY ARTS ACCESS PROGRAM | IAC - COMMUNITY ARTS ACCESS PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z33: IAC - PARTNERS IN EXCELLENCE | PARTNERS IN EXCELLENCE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z34: IAC - PARTNERS IN EXCELLENCE | PARTNERS IN EXCELLENCE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z37: NEA - ART WORKS | NEA - ART WORKS PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z40: WORK INCENTIVE PLANNING AND ASSISTANCE | WORK INCENTIVE PLANNNING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z41: SUBSTANCE ABUSE AND AIDS PREVENTION | SUBSTANCE ABUSE AND AIDS PREVENTION FOR THE HEARING IMPAIRED | SUBSTANCE ABUSE PREVENTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z44: CHICAGO CULTURAL CENTER EXHIBITION | VISUAL ARTS EXHIBITION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z47: SUBSTANCE ABUSE AND AIDS PREV. HEAR IMP | SUBSTANCE ABUSE AND AIDS PREVENTION FOR THE HEARING IMPAIRED | SUBSTANCE ABUSE PREVENTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z50: CHICAGO GREEN LIVING PROGRAM (GREEN LIVING) | GREEN LIVING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z51: CHICAGO GREEN LIVING PROGRAM (PARTNERS FOR PLACES) | PARTNERS FOR PLACES
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z56: ART WORKS PROGRAM | MILLENNIUM PARK FOUNDATION - ART WORKS PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z57: ILLINOIS LIBRARY DEVELOPMENT | ILLINOIS LIBRARY DEVELOPMENT - PER CAPITA AND AREA
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z59: NEA - OUR TOWN PROGRAM | OUR TOWN
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z61: JOYCE FOUNDATION - ART WORKS PROGRAM - M | JOYCE FOUNDATION - ART WORKS PROGRAM - MATCH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z70: PAUL COVERDELL FORENSIC SCIENCE IMPROVEMENT | PAUL COVERDELL FORENSIC SCIENCE IMPROVMT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z74: STEP | SUSTAINED TRAFFIC ENFORCEMENT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z79: VIOLENCE AGAINST WOMEN ACT - DOMESTIC | VIOLENCE AGAINST WOMEN ACT - DOMESTIC VIOLENCE PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z80: VIOLENCE AGAINST WOMEN ACT - DOMESTIC | VIOLENCE AGAINST WOMEN ACT - DOMESTIC VIOLENCE PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z81: VIOLENCE AGAINST WOMEN ACT - SEXUAL | VIOLENCE AGAINST WOMEN ACT - SEXUAL ASSAULT RESPONSE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z82: VIOLENCE AGAINST WOMEN ACT - SEXUAL | VIOLENCE AGAINST WOMEN ACT - SEXUAL ASSAULT RESPONSE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z83: IDOT SUSTAINED TRAFFIC ENFORCEMENT | IDOT SUSTAINED TRAFFIC ENFORCEMENT PROGRAM | SUSTAINED TRAFFIC ENFORCEMENT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code 0Z95: PREPAREDNESS AND RESPONSE | PREPAREDNESS AND RESPONSE GRANT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G009: MEDICARE IMPROVEMENTS FOR PATIENTS | MEDICARE IMPROVEMENTS FOR PATIENTS AND PROVIDERS ACT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G016: EDWARD BYRNE MEMORIAL JAG | EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT (JAG)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G023: IDOT STEP | IDOT SUSTAINED TRAFFIC ENFORCEMENT PROGRAM (STEP)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G027: VIOLENCE AGAINST WOMEN - DOMESTIC | VIOLENCE AGAINST WOMEN - DOMESTIC VIOLENCE RESPONSE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G028: VIOLENCE AGAINST WOMEN - SEXUAL | VIOLENCE AGAINST WOMEN - SEXUAL ASSAULT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G037: MOSQUITO VECTOR PREVENTION PROGRAM | MOSQUITO VECTOR PREVENTION PROGRAM (TIRE FUNDS)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G039: RESILIENCY IN COMMUNITIES AFTER STRESS AND TRAUMA | RESILIENCY IN COMMUNTIES AFTER STRESS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G041: HIV BEHAVIORAL SURVEILLANCE | HIV BEHAVIORIAL SURVEILLANCE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G044: SENIOR BENEFITS ACCESS APPLICATION PROGR | SENIOR BENEFITS ACCESS APPLICATION PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G060: SEXUAL ASSAULT KIT INITIATIVE (SAKI) | SEXUAL ASSAULT KIT INITIATIVE (SAKI) GRANT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G084: FEDERAL LANDS ACCESS (FLAP) (FHWA) | FEDERAL LANDS ACCESS PROGRAM (FLAP) (FHWA)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G085: FEDERAL LANDS ACCESS (FLAP) (NPS) | FEDERAL LANDS ACCESS PROGRAM (FLAP) (NPS)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G086: RTA COMMUNITY PLANNING | RTA COMMUNITY PLANNING PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G090: IL LIBRARY DEV-PER CAPITA/AREA | ILLINOIS LIBRARY DEVELOPMENT - PER CAPITA AND AREA
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G092: UASI | URBAN AREAS SECURITY INITIATIVE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G106: EMERGENCY SOLUTION | EMERGENCY SOLUTIONS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G109: ALZHEIMER'S DISEASE PROGRAM INITIATIVE | ALZHEIMERS DISEASE PROGRAMS INITIATIVE - GRANTS TO STATES AND COMMUNITIES
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G113: TITLE XX DONATED FUNDS | TITLE XX DONATED FUNDS CASH MATCH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G115: EARLY HEAD START - CHILD CARE PARTNERSHP | EARLY HEAD START -CHILD CARE PARTNERSHIP
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G123: TITLE XX DONATED FUNDS | TITLE XX DONATED FUNDS CASH MATCH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G143: CARE VAN BCBS | CARE VAN BLUE CROSS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G154: MEDICARE IMPROVEMENTS FOR PATIENTS AND PROVIDERS ACT (MIPPA) | MEDICARE IMPROVMTS PATIENTS/PROVIDERS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G165: SUBSTANCE ABUSE PREVENTION FOR DEAF | SUBSTANCE USE PREVENTION PROGRAM FOR THE DEAF AND HARD OF HEARING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G166: SUBSTANCE ABUSE PREVENTION FOR DEAF | SUBSTANCE USE PREVENTION PROGRAM FOR THE DEAF AND HARD OF HEARING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G171: PORT SECURITY | PORT SECURITY GRANT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G172: PORT SECURITY | PORT SECURITY GRANT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G173: PORT SECURITY | PORT SECURITY GRANT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G174: PORT SECURITY | PORT SECURITY GRANT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G181: PAUL COVERDELL FORENSIC SCI IMPROVEMT | PAUL COVERDELL FORENSIC SCIENCE IMPROVEMENT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G182: PORT SECURITY GRANT | PORT SECURITY GRANT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G183: PORT SECURITY GRANT | PORT SECURITY GRANT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G188: UASI | URBAN AREAS SECURITY INITIATIVE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G191: PORT SECURITY GRANT | PORT SECURITY GRANT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G197: EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE | EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G205: INVESTMENTS FOR PUBLIC WORKS AND ECONOMIC DEVELOPMENT FACILITIES | INVESTMNTS FOR PUBLIC WORKS - ECON DEV
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G212: EDWARD BYRNE MEMORIAL JAG | EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT (JAG)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G229: OPIOID USE PREVENTION AND TREATMENT PROGRAM | OPIOID USE PREVENTION/TREATMENT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G230: MOSQUITO VECTOR PREVENTION | MOSQUITO VECTOR PREVENTION (TIRE FUNDS)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G233: BODY ART AND TANNING INSPECTION | BODY ART AND TANNING INSPECTION PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G238: LAW ENFORCEMENT MENTAL HEALTH AND WELLNESS ACT | LAW ENFORCEMENT MENTAL HEALTH AND WELLNS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G247: HAZARDOUS MATERIALS EMERGENCY PREPAREDNESS | REGIONAL CATASTROPHIC PREPAREDNESS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G252: ILLINOIS MULTI-MODAL TRANSPORTATION BOND | ILLINOIS MULTI-MODAL TRANSPORTATION BOND FUND
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G259: HAZARDOUS MATERIALS EMERGENCY PREPARED | HAZARDOUS MATERIALS EMERGENCY PREPAREDNESS | REGIONAL CATASTROPHIC PREPAREDNESS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G272: FIRE ACADEMY TRAINING | FIRE ACADEMY TRAINING AND IMPROVEMENT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G274: PORT SECURITY GRANT | PORT SECURITY GRANT PROGRAM
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G276: STATE URBAN FORESTRY RESILIENCE | STATE URBAN FORESTRY RESILIENCE (TREE PLANTING)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G290: LOCAL LAW ENFORCEMENT CRIME GUN INTEL | LOCAL LAW ENFORCEMENT CRIME GUN INTELLIGENCE CENTER INTEGRATION INITIATIVE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G294: LAW ENFORCEMENT MENTAL HEALTH | LAW ENFORCEMENT MENTAL HEALTH AND WELLNESS ACT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G322: ASSISTIVE RESOURCES ADVISORY AND OUTREACH CENTER | ASSISTIVE RESOURCES ADVISORY/OUTREACH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G394: IMPROVING CPD'S RESPONSE TO DOMESTIC VIOLENCE | IMPROVING CPDS RESPONSE TO DOMESTIC VIOLENCE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G462: STRENGTHENING HEALTH INFRASTRUCTURE WORKFORCE AND DATA SYSTEMS | US PUBLIC HEALTH PATHOGENS GENOMICS CENTERS OF EXCELLENCE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G495: CTA FOR HOMELESSNESS SUPPORT | TRANSIT AND HOMELESSNESS SUPPORT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G496: ECONOMIC DEVELOPMENT INITIATIVE COMMUNITY PROJECT FUNDING AND MISC. GRANTS | ECONOMIC DEVELOPMENT INITIATIVE COMMUNITY PROJECT FUNDING AND MISCELLANEOUS GRANTS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G497: ECONOMIC DEVELOPMENT INITIATIVE COMMUNITY PROJECT FUNDING AND MISC. GRANTS | ECONOMIC DEVELOPMENT INITIATIVE COMMUNITY PROJECT FUNDING AND MISCELLANEOUS GRANTS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G526: COMPREHENSIVE HEALTH PROTECTION | VECTOR SURVEILLANCE AND CONTROL
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G546: BODY ART | COMPREHENSIVE HEALTH PROTECTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G548: COMPREHENSIVE HEALTH PROTECTION | PRE-EXPOSURE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G549: COMPREHENSIVE HEALTH PROTECTION | LOCAL HEALTH PROTECTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G612: EPIDEMIOLOGY & LAB CAPACITY PREVENTION/CTRL EMERGING INFECTIOUS DISEASES | EPIDEMIOLOGY AND LABORATORY CAPACITY FOR PREVENTION AND CONTROL OF EMERGING INFECTIOUS DISEASES (ELC)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G627: BRIDGE INVESTMENT PROGRAM | BRIDGE INVESTMENT PROGRAM (BIP)
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code G676: OUTCOMES TO REDUCE THE BURDEN OF COMMERCIAL TOBACCO PRODUCTS | OUTCOMES TO REDUCE THE BURDEN OF MENTHOL AND OTHER FLAVORED COMMERCIAL TOBACCO PRODUCTS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code GA01: BLDG EPIDEMIOLOGY & LAB CAPACITY (ELC) | BUILDING EPIDEMIOLOGY AND LABORATORY CAPACITY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code GA06: BUILDING EPIDEMIOLOGY AND HEALTH IT CAPA | BUILDING EPIDEMIOLOGY AND HEALTH IT CAPACITY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code GA15: ON THE ROAD TO RECOVERY - TRANSFORMING LIBRARY SPACES | TRANSFORMING LIBRARY SPACES
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,fund_code GA33: STRENGTHENING HEALTH INFRASTRUCTURE WORKFORCE AND DATA SYSTEMS | STRENGTHENING US PUBLIC HEALTH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 001: MAYOR | MO | OFFICE OF THE MAYOR
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 003: IG | INSPECTOR GENERAL | OFFICE OF INSPECTOR GENERAL | OIG
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 005: OBM | OFFICE OF BUDGET & MANAGEMENT | OFFICE OF BUDGET AND MANAGEMENT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 006: DEPARTMENT OF INNOVATION AND TECHNOLOGY | DEPARTMENT OF TECHNOLOGY AND INNOVATION | DOIT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 015: CITY COUNCIL | COUNCIL
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 021: DEPARTMENT OF HOUSING | DOH | HOUSING
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 023: CULTURAL AFFAIRS SPECIAL EVENT | DCASE | DEPARTMENT OF CULTURAL AFFAIRS AND SPECIAL EVENTS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 025: CITY CLERK | CLERK | OFFICE OF CITY CLERK
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 027: DEPARTMENT OF FINANCE | DOF | FINANCE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 028: CITY TREASURER | CITY TREASURER'S OFFICE | CTO | OFFICE OF CITY TREASURER | ...
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 030: ADMINISTRATIVE HEARINGS | DEPARTMENT OF ADMINISTRATIVE HEARINGS | DEPT OF ADMINISTRATIVE HEARING | DOAH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 031: DEPARTMENT OF LAW | LAW
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 033: DEPARTMENT OF HUMAN RESOURCES | DHR
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 035: DEPARTMENT OF PROCUREMENT SERV | DEPARTMENT OF PROCUREMENT SERVICES | DPS | PROCUREMENT SERVICES
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 038: AIS | DAIS | DEPARTMENT OF ASSET AND INFORMATION MANAGEMENT | DEPARTMENT OF ASSETS INFORMATION AND SERVICES | ...
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 039: BOARD OF ELECTION COMMISSIONER | BOARD OF ELECTION COMMISSIONERS | ELECTIONS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 041: CDPH | CHICAGO DEPARTMENT OF PUBLIC HEALTH | DEPARTMENT OF PUBLIC HEALTH | HEALTH
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 045: CCHR | CHICAGO COMMISSION ON HUMAN RELATIONS | COMMISSION ON HUMAN RELATIONS | HUMAN RELATIONS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 048: MAYOR'S OFFICE FOR PEOPLE WITH DISABILITIES | MAYORS OFFICE-DISABILITIES | MOPD
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 050: DEPARTMENT OF FAMILY AND SUPPORT SERVICES | DFSS | FAMILY AND SUPPORT SERVICES
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 051: OFFICE OF PUBLIC SAFETY ADMINISTRATION | PSA | PUBLIC SAFETY ADMINISTRATION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 054: DEPARTMENT OF PLANNING AND DEVELOPMENT | DPD | HOUSING AND ECONOMIC DEVELOPMT | PLANNING AND DEVELOPMENT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 055: CHICAGO POLICE BOARD | POLICE BOARD
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 056: INDEPENDENT POLICE REVIEW AUTHORITY | IPRA
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 057: CHICAGO POLICE DEPARTMENT | CPD | DEPARTMENT OF POLICE
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 058: OEMC | OFFICE OF EMERGENCY MANAGEMENT & COMMUNICATIONS | OFFICE OF EMERGENCY MANAGEMENT AND COMMUNICATIONS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 059: CFD | CHICAGO FIRE DEPARTMENT | FIRE DEPARTMENT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 060: CIVILIAN OFFICE OF POLICE ACCOUNTABILITY | COPA
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 062: CCPSA | COMMUNITY COMMISSION FOR PUBLIC SAFETY AND ACCOUNTABILITY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 067: BUILDINGS | DEPARTMENT OF BUILDINGS | DEPT OF BUILDINGS | DOB
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 070: BACP | BUS AFFAIRS AND CONSUMER PROT | DEPARTMENT OF BUSINESS AFFAIRS AND CONSUMER PROTECTION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 072: DEPARTMENT OF ENVIRONMENT | OFFICE OF CLIMATE AND ENVIRONMENTAL EQUITY
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 073: ANIMAL CARE / CONTROL | ANIMAL CARE AND CONTROL | CACC | CHICAGO ANIMAL CARE AND CONTROL | ...
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 077: LAC | LICENSE APPEAL | LICENSE APPEAL COMMISSION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 078: BOARD OF ETHICS | ETHICS
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 081: DEPARTMENT OF STREETS AND SANITATION | DEPT STREETS AND SANITATION | DSS | STREETS AND SANITATION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 084: CDOT | CHICAGO DEPARTMENT OF TRANSPORTATION | CHICAGO DEPT OF TRANSPORTATION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 085: AVIATION | CDA | CHICAGO DEPARTMENT OF AVIATION | DEPARTMENT OF AVIATION
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 088: DEPARTMENT OF WATER MANAGEMENT | DEPT OF WATER MANAGEMENT | DWM | WATER MANAGEMENT
+,,,,,VR-08,"Same code, different description across years (mapping drift)",INFO,department_code 091: CHICAGO PUBLIC LIBRARY | CPL
