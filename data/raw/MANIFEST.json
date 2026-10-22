@@ -1,0 +1,315 @@
+{
+ "fetched": "2026-10-22",
+ "files": [
+  {
+   "file": "2011_adopted.csv.gz",
+   "dataset_id": "drv3-jzqp",
+   "year": 2011,
+   "stage": "adopted",
+   "title": "Budget - 2011 Budget Ordinance - Appropriations",
+   "rows": 4271,
+   "sha256": "79a6879edd68c860923c7035d8a8aeedcf6086a1076f485bb36e764f3920f0d2",
+   "source": "https://data.cityofchicago.org/d/drv3-jzqp"
+  },
+  {
+   "file": "2012_adopted.csv.gz",
+   "dataset_id": "8ix6-nb7q",
+   "year": 2012,
+   "stage": "adopted",
+   "title": "Budget - 2012 Budget Ordinance - Appropriations",
+   "rows": 3894,
+   "sha256": "fcb8a17aa239cdf976122bcc76fee215956a3b19b83d1b48a295142961e0ea55",
+   "source": "https://data.cityofchicago.org/d/8ix6-nb7q"
+  },
+  {
+   "file": "2012_proposed.csv.gz",
+   "dataset_id": "8dps-5d4x",
+   "year": 2012,
+   "stage": "proposed",
+   "title": "Budget - 2012 Budget Recommendations - Appropriations",
+   "rows": 4978,
+   "sha256": "cb41d8381b457066eba0bd8cffa1e85d6cad27c1e2e187bbdf2be7defa4be8b9",
+   "source": "https://data.cityofchicago.org/d/8dps-5d4x"
+  },
+  {
+   "file": "2013_adopted.csv.gz",
+   "dataset_id": "b24i-nwag",
+   "year": 2013,
+   "stage": "adopted",
+   "title": "Budget - 2013 Budget Ordinance - Appropriations",
+   "rows": 3591,
+   "sha256": "8ca1e8e2623357305272718f56090153e146e0d6a9177f4037ef455f6f6bc749",
+   "source": "https://data.cityofchicago.org/d/b24i-nwag"
+  },
+  {
+   "file": "2013_proposed.csv.gz",
+   "dataset_id": "d6tb-pwze",
+   "year": 2013,
+   "stage": "proposed",
+   "title": "Budget - 2013 Budget Recommendations - Appropriations",
+   "rows": 4382,
+   "sha256": "3db639cb519590384f54ff13057a6dedc93d12752e257237ea08e7eb3d10c647",
+   "source": "https://data.cityofchicago.org/d/d6tb-pwze"
+  },
+  {
+   "file": "2014_adopted.csv.gz",
+   "dataset_id": "ub6s-xy6e",
+   "year": 2014,
+   "stage": "adopted",
+   "title": "Budget - 2014 Budget Ordinance - Appropriations",
+   "rows": 3602,
+   "sha256": "09290e43adc614009a8e333071d5fef0db0cc2799e6ffd6010890403731199d9",
+   "source": "https://data.cityofchicago.org/d/ub6s-xy6e"
+  },
+  {
+   "file": "2014_proposed.csv.gz",
+   "dataset_id": "kpej-ig3k",
+   "year": 2014,
+   "stage": "proposed",
+   "title": "Budget - 2014 Budget Recommendations - Appropriations",
+   "rows": 4191,
+   "sha256": "a629f28eb2ab24ee04b980ba1443191a258949e21d340c44a12d8928f716b1da",
+   "source": "https://data.cityofchicago.org/d/kpej-ig3k"
+  },
+  {
+   "file": "2015_adopted.csv.gz",
+   "dataset_id": "qnek-cfpp",
+   "year": 2015,
+   "stage": "adopted",
+   "title": "Budget - 2015 Budget Ordinance - Appropriations",
+   "rows": 3707,
+   "sha256": "798505a5bcad0e1da143d2f332023fb972878345f5bca622d68ee6bffdf0bc82",
+   "source": "https://data.cityofchicago.org/d/qnek-cfpp"
+  },
+  {
+   "file": "2015_proposed.csv.gz",
+   "dataset_id": "kzbi-spm5",
+   "year": 2015,
+   "stage": "proposed",
+   "title": "Budget - 2015 Budget Recommendations - Appropriations",
+   "rows": 4787,
+   "sha256": "16afb1da39b87d464e91e689e4e0bfaf82c8a5ce36c099213a04e5a1d97e6c9f",
+   "source": "https://data.cityofchicago.org/d/kzbi-spm5"
+  },
+  {
+   "file": "2016_adopted.csv.gz",
+   "dataset_id": "36y7-5nnf",
+   "year": 2016,
+   "stage": "adopted",
+   "title": "Budget - 2016 Budget Ordinance - Appropriations",
+   "rows": 3620,
+   "sha256": "f7c4cd7e4ead6b5354a209c8f1396831543f130ada48e83b0c79cefce5d263e7",
+   "source": "https://data.cityofchicago.org/d/36y7-5nnf"
+  },
+  {
+   "file": "2016_proposed.csv.gz",
+   "dataset_id": "t9dq-rknh",
+   "year": 2016,
+   "stage": "proposed",
+   "title": "Budget - 2016 Budget Recommendations - Appropriations",
+   "rows": 3613,
+   "sha256": "720281fdf7987502233c1e533903fd674369d805feb885da9ae524f794df6178",
+   "source": "https://data.cityofchicago.org/d/t9dq-rknh"
+  },
+  {
+   "file": "2017_adopted.csv.gz",
+   "dataset_id": "7jem-9wyw",
+   "year": 2017,
+   "stage": "adopted",
+   "title": "Budget - 2017 Budget Ordinance - Appropriations",
+   "rows": 3320,
+   "sha256": "da66e9e343c0ee5ac68b80563e52df097176c280bc353fc1af86c461734cfc54",
+   "source": "https://data.cityofchicago.org/d/7jem-9wyw"
+  },
+  {
+   "file": "2017_proposed.csv.gz",
+   "dataset_id": "eyk2-dyuq",
+   "year": 2017,
+   "stage": "proposed",
+   "title": "Budget - 2017 Budget Recommendations - Appropriations",
+   "rows": 4207,
+   "sha256": "e743312ae98851087635fd69229c2b2730826268779d9974ca11e9d5ea7abba3",
+   "source": "https://data.cityofchicago.org/d/eyk2-dyuq"
+  },
+  {
+   "file": "2018_adopted.csv.gz",
+   "dataset_id": "6g7p-xnsy",
+   "year": 2018,
+   "stage": "adopted",
+   "title": "Budget - 2018 Budget Ordinance - Appropriations",
+   "rows": 3401,
+   "sha256": "92990c89291ee520bbf5eff3b1402a1d269b584bedf341160e51a4e496ceaaa9",
+   "source": "https://data.cityofchicago.org/d/6g7p-xnsy"
+  },
+  {
+   "file": "2018_proposed.csv.gz",
+   "dataset_id": "ukkz-mip9",
+   "year": 2018,
+   "stage": "proposed",
+   "title": "Budget - 2018 Budget Recommendations - Appropriations",
+   "rows": 3934,
+   "sha256": "ab5ba183f7e3ef4205a2125a65272e8307f85329220cb4104b1c5672dbfc8a10",
+   "source": "https://data.cityofchicago.org/d/ukkz-mip9"
+  },
+  {
+   "file": "2019_adopted.csv.gz",
+   "dataset_id": "h9rt-tsn7",
+   "year": 2019,
+   "stage": "adopted",
+   "title": "Budget - 2019 Budget Ordinance - Appropriations",
+   "rows": 3507,
+   "sha256": "7705a8b2086a8a7d4265550973de55f4041652a222078743101ea74294a45ab1",
+   "source": "https://data.cityofchicago.org/d/h9rt-tsn7"
+  },
+  {
+   "file": "2019_proposed.csv.gz",
+   "dataset_id": "mmee-zjgx",
+   "year": 2019,
+   "stage": "proposed",
+   "title": "Budget - 2019 Budget Recommendations - Appropriations",
+   "rows": 3982,
+   "sha256": "6b0513348ab145b3f15ac97f616641026787b4dc3247508e87dd4967ab7c5172",
+   "source": "https://data.cityofchicago.org/d/mmee-zjgx"
+  },
+  {
+   "file": "2020_adopted.csv.gz",
+   "dataset_id": "fyin-2vyd",
+   "year": 2020,
+   "stage": "adopted",
+   "title": "Budget - 2020 Budget Ordinance - Appropriations",
+   "rows": 3509,
+   "sha256": "083df842ff92c81309c3eca20d16797d50317ec714e84622591578ac3795026c",
+   "source": "https://data.cityofchicago.org/d/fyin-2vyd"
+  },
+  {
+   "file": "2020_proposed.csv.gz",
+   "dataset_id": "3f6y-yfk8",
+   "year": 2020,
+   "stage": "proposed",
+   "title": "Budget - 2020 Budget Recommendations - Appropriations",
+   "rows": 4150,
+   "sha256": "f24c1ea2a381eba7b0de1e83b831e41340fc9d63d2812ebdfb14f959a1c07bc7",
+   "source": "https://data.cityofchicago.org/d/3f6y-yfk8"
+  },
+  {
+   "file": "2021_adopted.csv.gz",
+   "dataset_id": "6tbx-h7y2",
+   "year": 2021,
+   "stage": "adopted",
+   "title": "Budget - 2021 Budget Ordinance - Appropriations",
+   "rows": 3384,
+   "sha256": "5fbe2b6723d365b8d033e3b516e15772ffea037e98fab2200d49939bb7eb731b",
+   "source": "https://data.cityofchicago.org/d/6tbx-h7y2"
+  },
+  {
+   "file": "2021_proposed.csv.gz",
+   "dataset_id": "385z-7dwt",
+   "year": 2021,
+   "stage": "proposed",
+   "title": "Budget - 2021 Budget Recommendations - Appropriations",
+   "rows": 4075,
+   "sha256": "c32e009856ed6c0cd9c53ca45e8b5c8700898681b37bb82de1ce0883a491949d",
+   "source": "https://data.cityofchicago.org/d/385z-7dwt"
+  },
+  {
+   "file": "2022_adopted.csv.gz",
+   "dataset_id": "2cr6-8u6w",
+   "year": 2022,
+   "stage": "adopted",
+   "title": "Budget - 2022 Budget Ordinance - Appropriations",
+   "rows": 3446,
+   "sha256": "c97945a7a2dbffaaaf5a64de610ec358cc5b03272b6dbae231bdd2c62fc5d998",
+   "source": "https://data.cityofchicago.org/d/2cr6-8u6w"
+  },
+  {
+   "file": "2022_proposed.csv.gz",
+   "dataset_id": "ncj3-k47t",
+   "year": 2022,
+   "stage": "proposed",
+   "title": "Budget - 2022 Budget Recommendations - Appropriations",
+   "rows": 4038,
+   "sha256": "48d3ab5509ca18122c0fb02607a7ff8a73aef5350d34189076730112dbc82ee4",
+   "source": "https://data.cityofchicago.org/d/ncj3-k47t"
+  },
+  {
+   "file": "2023_adopted.csv.gz",
+   "dataset_id": "xbjh-7zvh",
+   "year": 2023,
+   "stage": "adopted",
+   "title": "Budget - 2023 Budget Ordinance - Appropriations",
+   "rows": 3447,
+   "sha256": "97795760afaf06003692276fd921d9530cd17b3f171c1d95affea44668010130",
+   "source": "https://data.cityofchicago.org/d/xbjh-7zvh"
+  },
+  {
+   "file": "2023_proposed.csv.gz",
+   "dataset_id": "pn35-trku",
+   "year": 2023,
+   "stage": "proposed",
+   "title": "Budget - 2023 Budget Recommendations - Appropriations",
+   "rows": 3967,
+   "sha256": "28325cd624a6a6611721cecf1affa3c63e948fade526b374537c6db853501fbf",
+   "source": "https://data.cityofchicago.org/d/pn35-trku"
+  },
+  {
+   "file": "2024_adopted.csv.gz",
+   "dataset_id": "x394-e874",
+   "year": 2024,
+   "stage": "adopted",
+   "title": "Budget - 2024 Budget Ordinance - Appropriations",
+   "rows": 3584,
+   "sha256": "904287fd34ce7fe955bb818c97d1ca72d4cf877db459d8d39a77886319f930cb",
+   "source": "https://data.cityofchicago.org/d/x394-e874"
+  },
+  {
+   "file": "2024_proposed.csv.gz",
+   "dataset_id": "rrdf-6mjk",
+   "year": 2024,
+   "stage": "proposed",
+   "title": "Budget - 2024 Budget Recommendations - Appropriations",
+   "rows": 4029,
+   "sha256": "0ddfb53532326ad1043a98cca5e3e7969791daf9354f3e9678312dae3e3a1d46",
+   "source": "https://data.cityofchicago.org/d/rrdf-6mjk"
+  },
+  {
+   "file": "2025_adopted.csv.gz",
+   "dataset_id": "t59y-fr3k",
+   "year": 2025,
+   "stage": "adopted",
+   "title": "Budget - 2025 Budget Ordinance - Appropriations",
+   "rows": 3477,
+   "sha256": "a5ceffecfe0bd21764e220c0400cfd7d4c54c5048f96a37bf98f869ad6c1b2a3",
+   "source": "https://data.cityofchicago.org/d/t59y-fr3k"
+  },
+  {
+   "file": "2025_proposed.csv.gz",
+   "dataset_id": "miyk-k49p",
+   "year": 2025,
+   "stage": "proposed",
+   "title": "Budget - 2025 Budget Recommendations - Appropriations",
+   "rows": 3984,
+   "sha256": "ad6d60320a1ea85e6b1d8c4dd0e4d8e0676aacb025337d10423ec9359a873304",
+   "source": "https://data.cityofchicago.org/d/miyk-k49p"
+  },
+  {
+   "file": "2026_adopted.csv.gz",
+   "dataset_id": "6694-f78c",
+   "year": 2026,
+   "stage": "adopted",
+   "title": "Budget - 2026 Budget Ordinance - Appropriations",
+   "rows": 3268,
+   "sha256": "d8379972d26475e52455feb6eca1f395179495282f069a10d293814a53ad20da",
+   "source": "https://data.cityofchicago.org/d/6694-f78c"
+  },
+  {
+   "file": "2026_proposed.csv.gz",
+   "dataset_id": "axxr-vais",
+   "year": 2026,
+   "stage": "proposed",
+   "title": "Budget - 2026 Budget Recommendations - Appropriations",
+   "rows": 3790,
+   "sha256": "da273cb13fba5fe107b0b509206918114c8fc58d38b6b7565aea933a22f3ed6c",
+   "source": "https://data.cityofchicago.org/d/axxr-vais"
+  }
+ ]
+}

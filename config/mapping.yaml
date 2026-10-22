@@ -1,0 +1,33 @@
+# Source-to-target mapping for the City of Chicago appropriation files (2011–2026).
+# Each canonical field lists the source column names it can arrive under, in priority order.
+# The first one present in a file is used. See docs/DATA_MAPPING_SPEC.md for the per-year matrix.
+
+dimensions:
+  fund_type:              [fund_type]
+  fund_code:              [fund_code]
+  fund_description:       [fund_description]
+  department_code:        [department_number, department_code]
+  department_description: [department_description]
+  authority_code:         [appropriation_authority, org]                      # 2012 proposed uses "org"
+  authority_description:  [appropriation_authority_description, org_description]
+  account_code:           [appropriation_account]
+  account_description:    [appropriation_account_description]
+
+measures:
+  adopted:
+    ordinance:            [amount, _ordinance_amount_, appropriation_ordinance]
+  proposed:
+    recommendation:       [recommendation, _recommendation]
+    prior_appropriation:  [appropriation, appropration, _appropriation]       # "appropration" is a typo in the 2013-2020 files
+    prior_revised:        [revised_appropriation, _revised_appropriation]
+
+# Codes are compared as numbers and stored zero-padded to a fixed width.
+code_widths:
+  fund_code: 4
+  department_code: 3
+  authority_code: 4
+  account_code: 4
+
+# Ignored on purpose (documented in the mapping spec): 2011 "department" holds a 2-letter
+# department abbreviation that no later year carries.
+ignored_columns: [department]

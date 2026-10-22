@@ -1,0 +1,16 @@
+source_file,source_row,measure,scope,published_total,loaded_total,difference,status
+2013_proposed.csv.gz,2576,prior_appropriation,LOCAL,6693285000.0,6693285000.0,0.0,MATCH
+2013_proposed.csv.gz,2576,prior_revised,LOCAL,6695985000.0,6695985000.0,0.0,MATCH
+2013_proposed.csv.gz,2576,recommendation,LOCAL,6936918000.0,6936918000.0,0.0,MATCH
+2013_proposed.csv.gz,4039,prior_appropriation,GRANTS,1702307000.0,1702307000.0,0.0,MATCH
+2013_proposed.csv.gz,4039,prior_revised,GRANTS,1702307000.0,1702307000.0,0.0,MATCH
+2013_proposed.csv.gz,4039,recommendation,GRANTS,1725241000.0,1725241000.0,0.0,MATCH
+2013_proposed.csv.gz,4380,prior_appropriation,CDBG,86689000.0,86689000.0,0.0,MATCH
+2013_proposed.csv.gz,4380,prior_revised,CDBG,86689000.0,86689000.0,0.0,MATCH
+2013_proposed.csv.gz,4380,recommendation,CDBG,81591000.0,81591000.0,0.0,MATCH
+2013_proposed.csv.gz,4381,prior_appropriation,ALL,8482281000.0,8482281000.0,0.0,MATCH
+2013_proposed.csv.gz,4381,prior_revised,ALL,8484981000.0,8484981000.0,0.0,MATCH
+2013_proposed.csv.gz,4381,recommendation,ALL,8743750000.0,8743750000.0,0.0,MATCH
+2013_proposed.csv.gz,4382,prior_appropriation,ALL,8482281000.0,8482281000.0,0.0,MATCH
+2013_proposed.csv.gz,4382,prior_revised,ALL,8484981000.0,8484981000.0,0.0,MATCH
+2013_proposed.csv.gz,4382,recommendation,ALL,8743750000.0,8743750000.0,0.0,MATCH

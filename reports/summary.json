@@ -1,0 +1,44 @@
+{
+ "files": 31,
+ "years": [
+  2011,
+  2026
+ ],
+ "source_lines": 119135,
+ "measure_values": 243349,
+ "loaded_values": 243327,
+ "funds": 1945,
+ "departments": 44,
+ "accounts": 420,
+ "coa_keys": 18451,
+ "control_checks": 61,
+ "control_reconciled": 61,
+ "max_abs_variance": 0.0,
+ "prior_year_by_type": {
+  "CDBG": "5/14 years match",
+  "GRANTS": "0/15 years match",
+  "LOCAL": "11/15 years match"
+ },
+ "prior_year_local_fund_checks": 442,
+ "prior_year_local_fund_differences": 16,
+ "embedded_total_checks": 15,
+ "embedded_total_matches": 15,
+ "exceptions_by_rule": {
+  "VR-01 (REJECT)": 6,
+  "VR-04 (WARN)": 1,
+  "VR-05 (WARN)": 1111,
+  "VR-08 (INFO)": 398,
+  "VR-09 (REJECT)": 15
+ },
+ "rules": {
+  "VR-01": "Blank source row",
+  "VR-02": "Required code missing (fund, department or account)",
+  "VR-03": "Amount present but not numeric",
+  "VR-04": "Amount missing for a measure the file should carry",
+  "VR-05": "Negative amount",
+  "VR-06": "Code not in the chart-of-accounts format (4/3/4/4 alphanumeric)",
+  "VR-07": "Duplicate chart-of-accounts key within one file and measure",
+  "VR-08": "Same code, different description across years (mapping drift)",
+  "VR-09": "Embedded subtotal row (kept aside as a publisher control total)"
+ }
+}
